@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crop Yield Predictor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #e6f4ea; /* Light green for agriculture theme */
+            font-family: 'Arial', sans-serif;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cpath d='M50 10c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9zm0 12c-1.7 0-3-1.3-3-3s1.3-3 3-3 3 1.3 3 3-1.3 3-3 3zM20 40c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9zm0 12c-1.7 0-3-1.3-3-3s1.3-3 3-3 3 1.3 3 3-1.3 3-3 3zM80 40c-5 0-9 4-9 9s4 9 9 9 9-4 9-9-4-9-9-9zm0 12c-1.7 0-3-1.3-3-3s1.3-3 3-3 3 1.3 3 3-1.3 3-3 3z' fill='%238bc34a' fill-opacity='0.1'/%3E%3C/svg%3E"); /* Subtle leaf pattern */
+        }
+        .form-container {
+            max-width: 900px;
+            margin: 3rem auto;
+            padding: 3rem;
+            background-color: #ffffff;
+            border-radius: 16px;
+            box-shadow: 0 8px 16px rgba(0, 128, 0, 0.1); /* Green shadow */
+            border: 1px solid #4caf50; /* Green border */
+        }
+        .header-icon {
+            width: 48px;
+            height: 48px;
+            margin: 0 auto 1rem;
+        }
+        .input-group {
+            position: relative;
+            margin-bottom: 1.5rem;
+        }
+        .input-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: #2e7d32; /* Dark green */
+        }
+        .input-group input,
+        .input-group select {
+            width: 100%;
+            padding: 1rem 1rem 1rem 3rem; /* Space for icon */
+            border: 1px solid #81c784; /* Light green border */
+            border-radius: 8px;
+            font-size: 1rem;
+            background-color: #f1f8e9; /* Pale green bg */
+            transition: border-color 0.3s;
+        }
+        .input-group input:focus,
+        .input-group select:focus {
+            border-color: #4caf50; /* Green focus */
+            outline: none;
+        }
+        .input-icon {
+            position: absolute;
+            left: 1rem;
+            top: 2.75rem; /* Adjust based on padding */
+            color: #4caf50;
+            font-size: 1.25rem;
+        }
+        .predict-btn {
+            background-color: #4caf50; /* Green button */
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: background-color 0.3s, transform 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+        }
+        .predict-btn:hover {
+            background-color: #388e3c;
+            transform: scale(1.05);
+        }
+        .result-container {
+            margin-top: 2rem;
+            padding: 1.5rem;
+            background-color: #dcedc8; /* Light green result bg */
+            border-radius: 8px;
+            border: 1px solid #4caf50;
+            display: none;
+        }
+        .result-container.show {
+            display: block;
+        }
+        .error {
+            color: #d32f2f;
+            font-weight: 600;
+        }
+        .section-title {
+            font-size: 1.25rem;
+            font-weight: bold;
+            color: #33691e;
+            margin-bottom: 1rem;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <svg class="header-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 3C7.02944 3 3 7.02944 3 12C3 16.9706 7.02944 21 12 21C16.9706 21 21 16.9706 21 12C21 7.02944 16.9706 3 12 3ZM12 19C8.13401 19 5 15.866 5 12C5 8.13401 8.13401 5 12 5C15.866 5 19 8.13401 19 12C19 15.866 15.866 19 12 19ZM11 7H13V9H11V7ZM11 11H13V17H11V11Z" fill="#4caf50"/> <!-- Crop icon -->
+        </svg>
+        <h1 class="text-3xl font-bold text-center mb-8 text-green-800">Crop Yield Predictor</h1>
+        <form id="yield-form" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <!-- Numerical Inputs Section -->
+            <div>
+                <div class="section-title">Environmental & Soil Factors</div>
+                <div class="input-group">
+                    <label for="year">Year</label>
+                    <span class="input-icon">📅</span>
+                    <input type="number" id="year" name="Year" value="2023" min="2018" max="2025" required>
+                </div>
+                <div class="input-group">
+                    <label for="area_planted">Area Planted (Hectares)</label>
+                    <span class="input-icon">🌿</span>
+                    <input type="number" id="area_planted" name="Area_Planted_Hectares" value="5.0" step="0.1" min="0" required>
+                </div>
+                <div class="input-group">
+                    <label for="avg_temperature">Average Temperature (°C)</label>
+                    <span class="input-icon">🌡️</span>
+                    <input type="number" id="avg_temperature" name="Avg_Temperature_C" value="20.0" step="0.1" min="0" max="50" required>
+                </div>
+                <div class="input-group">
+                    <label for="total_rainfall">Total Rainfall (mm)</label>
+                    <span class="input-icon">💧</span>
+                    <input type="number" id="total_rainfall" name="Total_Rainfall_mm" value="500.0" step="0.1" min="0" required>
+                </div>
+                <div class="input-group">
+                    <label for="humidity">Humidity (%)</label>
+                    <span class="input-icon">🌫️</span>
+                    <input type="number" id="humidity" name="Humidity_Percent" value="60.0" step="0.1" min="0" max="100" required>
+                </div>
+                <div class="input-group">
+                    <label for="soil_ph">Soil pH</label>
+                    <span class="input-icon">🧪</span>
+                    <input type="number" id="soil_ph" name="Soil_pH" value="7.0" step="0.1" min="0" max="14" required>
+                </div>
+                <div class="input-group">
+                    <label for="nitrogen">Nitrogen Content (ppm)</label>
+                    <span class="input-icon">N</span>
+                    <input type="number" id="nitrogen" name="Nitrogen_Content_ppm" value="40.0" step="0.1" min="0" required>
+                </div>
+            </div>
+
+            <!-- More Numerical Inputs -->
+            <div>
+                <div class="section-title">Nutrients & Practices</div>
+                <div class="input-group">
+                    <label for="phosphorus">Phosphorus Content (ppm)</label>
+                    <span class="input-icon">P</span>
+                    <input type="number" id="phosphorus" name="Phosphorus_Content_ppm" value="25.0" step="0.1" min="0" required>
+                </div>
+                <div class="input-group">
+                    <label for="potassium">Potassium Content (ppm)</label>
+                    <span class="input-icon">K</span>
+                    <input type="number" id="potassium" name="Potassium_Content_ppm" value="180.0" step="0.1" min="0" required>
+                </div>
+                <div class="input-group">
+                    <label for="organic_matter">Organic Matter (%)</label>
+                    <span class="input-icon">🍂</span>
+                    <input type="number" id="organic_matter" name="Organic_Matter_Percent" value="3.0" step="0.1" min="0" required>
+                </div>
+                <div class="input-group">
+                    <label for="soil_quality">Soil Quality Score</label>
+                    <span class="input-icon">⭐</span>
+                    <input type="number" id="soil_quality" name="Soil_Quality_Score" value="8.0" step="0.1" min="0" max="10" required>
+                </div>
+                <div class="input-group">
+                    <label for="fertilizer_used">Fertilizer Used (kg/ha)</label>
+                    <span class="input-icon">🧺</span>
+                    <input type="number" id="fertilizer_used" name="Fertilizer_Used_kg_per_hectare" value="150.0" step="0.1" min="0" required>
+                </div>
+                <div class="input-group">
+                    <label for="pesticide_used">Pesticide Used (kg/ha)</label>
+                    <span class="input-icon">🛡️</span>
+                    <input type="number" id="pesticide_used" name="Pesticide_Used_kg_per_hectare" value="10.0" step="0.1" min="0" required>
+                </div>
+                <div class="input-group">
+                    <label for="irrigation_freq">Irrigation Frequency (per month)</label>
+                    <span class="input-icon">🚿</span>
+                    <input type="number" id="irrigation_freq" name="Irrigation_Frequency_per_month" value="20" min="0" required>
+                </div>
+            </div>
+
+            <!-- Categorical Inputs Section (Span both columns) -->
+            <div class="md:col-span-2">
+                <div class="section-title">Crop & Location Details</div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div class="input-group">
+                        <label for="state">State</label>
+                        <span class="input-icon">📍</span>
+                        <select id="state" name="State" required>
+                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                            <option value="Bihar">Bihar</option>
+                            <option value="Gujarat">Gujarat</option>
+                            <option value="Haryana">Haryana</option>
+                            <option value="Karnataka">Karnataka</option>
+                            <option value="Madhya Pradesh">Madhya Pradesh</option>
+                            <option value="Maharashtra">Maharashtra</option>
+                            <option value="Punjab">Punjab</option>
+                            <option value="Rajasthan">Rajasthan</option>
+                            <option value="Tamil Nadu">Tamil Nadu</option>
+                            <option value="Uttar Pradesh">Uttar Pradesh</option>
+                            <option value="West Bengal" selected>West Bengal</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label for="crop_type">Crop Type</label>
+                        <span class="input-icon">🌾</span>
+                        <select id="crop_type" name="Crop_Type" required>
+                            <option value="Bajra">Bajra</option>
+                            <option value="Barley">Barley</option>
+                            <option value="Chillies">Chillies</option>
+                            <option value="Coconut">Coconut</option>
+                            <option value="Cotton">Cotton</option>
+                            <option value="Groundnut">Groundnut</option>
+                            <option value="Jowar">Jowar</option>
+                            <option value="Jute">Jute</option>
+                            <option value="Maize">Maize</option>
+                            <option value="Millets">Millets</option>
+                            <option value="Mustard">Mustard</option>
+                            <option value="Peas">Peas</option>
+                            <option value="Potato">Potato</option>
+                            <option value="Pulses">Pulses</option>
+                            <option value="Ragi">Ragi</option>
+                            <option value="Rice">Rice</option>
+                            <option value="Soybean">Soybean</option>
+                            <option value="Sugarcane" selected>Sugarcane</option>
+                            <option value="Sunflower">Sunflower</option>
+                            <option value="Wheat">Wheat</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label for="season">Season</label>
+                        <span class="input-icon">🍁</span>
+                        <select id="season" name="Season" required>
+                            <option value="Annual" selected>Annual</option>
+                            <option value="Kharif">Kharif</option>
+                            <option value="Rabi">Rabi</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label for="fertilizer_type">Fertilizer Type</label>
+                        <span class="input-icon">🌱</span>
+                        <select id="fertilizer_type" name="Fertilizer_Type" required>
+                            <option value="DAP">DAP</option>
+                            <option value="Mixed">Mixed</option>
+                            <option value="NPK">NPK</option>
+                            <option value="Organic">Organic</option>
+                            <option value="Urea" selected>Urea</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label for="irrigation_type">Irrigation Type</label>
+                        <span class="input-icon">💦</span>
+                        <select id="irrigation_type" name="Irrigation_Type" required>
+                            <option value="Canal">Canal</option>
+                            <option value="Drip">Drip</option>
+                            <option value="Rain-fed">Rain-fed</option>
+                            <option value="Sprinkler">Sprinkler</option>
+                            <option value="Tube well" selected>Tube well</option>
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label for="seed_variety">Seed Variety</label>
+                        <span class="input-icon">🌰</span>
+                        <select id="seed_variety" name="Seed_Variety" required>
+                            <option value="Desi">Desi</option>
+                            <option value="High Yielding Variety" selected>High Yielding Variety</option>
+                            <option value="Hybrid">Hybrid</option>
+                            <option value="Traditional">Traditional</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <div class="md:col-span-2 text-center mt-6">
+            <button type="button" class="predict-btn" onclick="predictYield()">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="white"/>
+                </svg>
+                Predict Yield
+            </button>
+        </div>
+
+        <div id="result-container" class="result-container">
+            <h2 class="text-xl font-semibold text-green-800">Prediction Result</h2>
+            <p id="result-text" class="text-lg"></p>
+        </div>
+    </div>
+
+    <script>
+        async function predictYield() {
+            const form = document.getElementById('yield-form');
+            const resultContainer = document.getElementById('result-container');
+            const resultText = document.getElementById('result-text');
+
+            // Collect form data
+            const formData = new FormData(form);
+            const data = {};
+            formData.forEach((value, key) => {
+                data[key] = isNaN(value) ? value : parseFloat(value);
+            });
+
+            try {
+                // API call to backend
+                const response = await fetch('/predict', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                });
+
+                if (!response.ok) {
+                    throw new Error('Prediction failed');
+                }
+
+                const result = await response.json();
+                if (result.error) {
+                    throw new Error(result.error);
+                }
+
+                const totalYield = result.prediction * data.Area_Planted_Hectares;
+                resultText.textContent = `Predicted Total Yield for ${data.Area_Planted_Hectares} hectares: ${totalYield.toFixed(2)} tons`;
+                resultContainer.classList.add('show');
+            } catch (error) {
+                resultText.textContent = `Error: ${error.message}`;
+                resultContainer.classList.add('show');
+            }
+        }
+    </script>
+</body>
+</html>

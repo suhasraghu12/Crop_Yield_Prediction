@@ -1,0 +1,1074 @@
+Farm_ID,Year,State,Crop_Type,Season,Area_Planted_Hectares,Avg_Temperature_C,Total_Rainfall_mm,Humidity_Percent,Soil_pH,Nitrogen_Content_ppm,Phosphorus_Content_ppm,Potassium_Content_ppm,Organic_Matter_Percent,Soil_Quality_Score,Fertilizer_Used_kg_per_hectare,Fertilizer_Type,Pesticide_Used_kg_per_hectare,Irrigation_Type,Irrigation_Frequency_per_month,Seed_Variety,Yield_per_Hectare_tons,Total_Yield_tons
+IND_MAD_0001,2019,Madhya Pradesh,Soybean,Kharif,3.99,35.6,959.2,58.6,7.0,32.2,32.6,176.9,2.4,8.0,101.5,Mixed,5.7,Canal,25,High Yielding Variety,0.65,2.59
+IND_AND_0002,2019,Andhra Pradesh,Rice,Kharif,0.5,31.8,674.7,66.9,7.5,24.1,8.7,201.3,2.6,7.4,63.0,Mixed,5.3,Canal,25,Hybrid,1.13,0.56
+IND_AND_0003,2018,Andhra Pradesh,Groundnut,Kharif,0.7,25.2,1069.3,78.0,6.7,31.5,15.2,214.8,2.8,6.0,152.9,Organic,1.9,Rain-fed,0,Hybrid,0.49,0.34
+IND_KAR_0004,2020,Karnataka,Cotton,Kharif,0.5,29.1,747.9,80.9,7.4,33.6,17.6,98.3,2.2,6.4,162.3,NPK,9.7,Sprinkler,18,Traditional,0.29,0.14
+IND_RAJ_0005,2023,Rajasthan,Wheat,Rabi,3.65,17.2,594.1,56.1,6.6,42.3,28.2,182.6,2.1,6.4,133.3,Mixed,12.9,Canal,20,High Yielding Variety,1.67,6.1
+IND_MAH_0006,2020,Maharashtra,Bajra,Kharif,2.63,26.2,660.1,68.1,8.4,34.1,28.0,162.7,2.3,7.6,181.5,NPK,7.8,Canal,9,Hybrid,0.71,1.87
+IND_HAR_0007,2021,Haryana,Barley,Rabi,0.5,16.5,387.8,68.2,7.3,31.4,20.7,80.4,2.6,8.4,179.1,NPK,5.4,Drip,20,Traditional,2.44,1.22
+IND_WES_0008,2022,West Bengal,Rice,Kharif,2.0,34.1,1846.5,82.3,7.5,28.6,24.1,153.4,3.6,7.0,106.9,DAP,6.0,Rain-fed,0,Hybrid,0.56,1.12
+IND_TAM_0009,2023,Tamil Nadu,Sugarcane,Annual,3.59,25.1,1055.4,77.1,5.9,30.0,17.3,121.9,2.7,7.6,195.4,NPK,8.9,Canal,15,High Yielding Variety,89.45,321.13
+IND_AND_0010,2022,Andhra Pradesh,Cotton,Kharif,2.85,41.3,651.1,59.6,7.2,35.7,39.7,143.3,3.0,7.3,73.3,DAP,13.7,Rain-fed,0,Traditional,0.19,0.54
+IND_MAD_0011,2019,Madhya Pradesh,Cotton,Kharif,4.58,26.8,979.4,50.9,7.7,61.3,12.1,130.2,2.9,6.7,58.0,Mixed,8.3,Tube well,25,Traditional,0.13,0.6
+IND_AND_0012,2020,Andhra Pradesh,Sunflower,Rabi,3.95,36.4,732.0,68.7,6.9,44.8,10.2,158.0,3.8,5.4,127.4,Urea,9.3,Tube well,24,Desi,0.29,1.15
+IND_PUN_0013,2023,Punjab,Barley,Rabi,3.05,29.5,758.8,46.8,7.4,39.2,14.6,158.1,3.0,7.3,194.6,Organic,10.4,Sprinkler,34,High Yielding Variety,0.85,2.59
+IND_AND_0014,2022,Andhra Pradesh,Sugarcane,Annual,4.31,36.8,642.3,84.3,6.5,46.6,23.3,178.8,4.3,7.0,89.9,NPK,3.6,Canal,11,Traditional,16.21,69.87
+IND_HAR_0015,2021,Haryana,Rice,Kharif,7.69,33.8,570.9,63.4,7.2,52.4,17.9,245.2,3.3,7.0,77.2,Mixed,10.4,Drip,31,Hybrid,1.11,8.54
+IND_HAR_0016,2023,Haryana,Mustard,Rabi,10.86,16.3,674.9,64.7,7.1,24.8,7.9,134.4,3.5,8.3,70.2,DAP,8.9,Tube well,12,Traditional,0.56,6.08
+IND_GUJ_0017,2018,Gujarat,Sugarcane,Annual,1.23,33.5,894.0,61.5,7.3,21.3,22.9,169.6,3.7,8.7,64.9,NPK,3.3,Sprinkler,15,High Yielding Variety,54.04,66.47
+IND_MAH_0018,2022,Maharashtra,Sugarcane,Annual,4.03,37.3,1130.6,65.2,8.5,41.9,29.1,183.4,3.3,6.8,150.4,Organic,4.1,Rain-fed,0,High Yielding Variety,32.88,132.51
+IND_HAR_0019,2019,Haryana,Barley,Rabi,6.06,25.3,539.9,60.8,7.8,15.6,16.2,188.1,2.9,6.7,91.4,DAP,11.4,Tube well,16,Desi,0.62,3.76
+IND_GUJ_0020,2019,Gujarat,Sugarcane,Annual,3.43,21.1,618.8,81.4,7.8,10.7,21.5,126.8,3.5,6.4,115.4,Organic,10.5,Sprinkler,35,Traditional,24.9,85.41
+IND_GUJ_0021,2019,Gujarat,Groundnut,Kharif,0.6,23.4,450.1,56.7,8.5,39.9,9.9,182.1,4.5,8.6,59.2,Mixed,5.6,Canal,25,Hybrid,1.11,0.67
+IND_WES_0022,2019,West Bengal,Rice,Kharif,1.58,22.2,1292.9,78.6,7.9,23.9,19.5,40.0,2.0,7.5,70.1,Mixed,16.2,Canal,18,High Yielding Variety,1.41,2.23
+IND_WES_0023,2019,West Bengal,Wheat,Rabi,2.12,26.9,1700.7,76.0,8.2,35.1,12.1,166.2,3.0,7.1,122.8,Organic,6.1,Sprinkler,22,Desi,1.11,2.35
+IND_WES_0024,2020,West Bengal,Wheat,Rabi,4.32,27.0,1714.6,90.0,5.4,33.2,24.7,159.8,2.3,7.6,100.3,Urea,5.1,Sprinkler,16,High Yielding Variety,1.64,7.08
+IND_AND_0025,2019,Andhra Pradesh,Maize,Kharif,3.71,35.3,1026.5,69.5,7.9,42.6,13.4,130.4,3.4,8.0,119.2,DAP,8.6,Sprinkler,19,Desi,1.13,4.19
+IND_MAH_0026,2021,Maharashtra,Cotton,Kharif,1.82,26.8,1144.6,57.8,8.2,44.9,26.5,195.7,2.8,8.0,107.6,Urea,9.6,Rain-fed,0,High Yielding Variety,0.18,0.33
+IND_MAD_0027,2018,Madhya Pradesh,Maize,Kharif,3.19,33.2,869.1,66.0,6.3,20.4,29.3,177.7,3.3,8.1,119.5,DAP,3.5,Rain-fed,0,Hybrid,0.92,2.93
+IND_AND_0028,2021,Andhra Pradesh,Cotton,Kharif,1.65,31.9,1032.6,68.4,6.9,40.0,15.5,121.2,3.0,7.6,99.7,Organic,5.6,Rain-fed,0,Hybrid,0.21,0.35
+IND_PUN_0029,2021,Punjab,Maize,Kharif,2.21,31.3,778.9,45.9,6.6,32.4,22.5,201.6,3.5,8.0,119.2,NPK,3.0,Sprinkler,19,Hybrid,2.62,5.79
+IND_WES_0030,2023,West Bengal,Maize,Kharif,2.42,22.7,1295.1,77.6,6.5,41.2,32.3,146.2,3.1,8.6,104.0,Urea,9.1,Canal,23,Hybrid,1.77,4.28
+IND_GUJ_0031,2018,Gujarat,Groundnut,Kharif,3.2,41.3,613.9,52.3,8.5,46.5,37.2,123.1,3.5,7.6,207.6,Mixed,4.0,Tube well,20,High Yielding Variety,1.16,3.71
+IND_WES_0032,2022,West Bengal,Rice,Kharif,1.8,28.0,1482.7,68.9,7.3,39.1,35.0,183.3,2.3,6.7,139.7,NPK,1.4,Drip,23,Hybrid,3.56,6.41
+IND_WES_0033,2023,West Bengal,Jute,Kharif,5.36,34.8,1320.3,71.2,5.7,51.2,19.1,193.3,1.5,7.1,120.2,NPK,8.2,Rain-fed,0,Desi,0.98,5.25
+IND_HAR_0034,2018,Haryana,Wheat,Rabi,10.49,25.0,395.2,61.2,7.7,43.5,11.0,96.3,3.8,8.4,90.1,Urea,15.8,Drip,19,Traditional,2.56,26.85
+IND_WES_0035,2021,West Bengal,Jute,Kharif,5.36,29.2,1648.8,75.5,7.0,46.7,25.2,197.9,2.0,8.6,162.3,Mixed,0.0,Rain-fed,0,Traditional,1.56,8.36
+IND_MAD_0036,2023,Madhya Pradesh,Soybean,Kharif,0.5,39.7,809.0,75.0,7.3,54.5,9.0,90.4,2.8,7.8,118.7,Urea,0.0,Tube well,16,High Yielding Variety,0.81,0.4
+IND_BIH_0037,2020,Bihar,Maize,Kharif,0.5,21.4,1064.4,66.7,7.5,23.7,15.9,112.9,2.7,8.7,80.6,Mixed,10.5,Drip,21,Traditional,1.14,0.57
+IND_TAM_0038,2018,Tamil Nadu,Rice,Kharif,1.41,27.7,844.4,74.1,6.3,28.4,10.4,218.8,2.8,6.3,128.6,NPK,7.4,Drip,16,High Yielding Variety,2.11,2.98
+IND_UTT_0039,2019,Uttar Pradesh,Sugarcane,Annual,4.23,21.7,725.6,67.6,7.0,8.0,7.9,197.8,4.1,7.2,143.1,Urea,9.6,Sprinkler,32,High Yielding Variety,65.63,277.61
+IND_HAR_0040,2022,Haryana,Barley,Rabi,12.48,18.1,506.6,43.9,7.4,25.9,8.6,127.4,1.9,10.0,155.3,Organic,8.0,Drip,33,Hybrid,3.95,49.3
+IND_UTT_0041,2018,Uttar Pradesh,Sugarcane,Annual,3.15,29.7,1047.3,51.4,6.3,32.7,13.0,101.6,3.5,9.8,64.1,DAP,10.8,Rain-fed,0,Hybrid,49.58,156.18
+IND_MAD_0042,2022,Madhya Pradesh,Cotton,Kharif,2.03,22.5,771.1,60.5,6.5,38.2,19.6,141.6,2.1,6.6,150.2,DAP,10.5,Rain-fed,0,Hybrid,0.17,0.35
+IND_UTT_0043,2019,Uttar Pradesh,Barley,Rabi,3.2,29.4,768.0,67.5,6.6,41.8,13.9,86.8,1.5,7.6,130.4,NPK,3.5,Drip,28,Hybrid,0.89,2.85
+IND_UTT_0044,2021,Uttar Pradesh,Barley,Rabi,0.5,21.1,888.7,53.5,7.2,24.7,16.9,185.2,2.3,8.5,74.8,DAP,10.6,Rain-fed,0,Desi,0.69,0.34
+IND_WES_0045,2020,West Bengal,Mustard,Rabi,0.5,26.5,1943.6,68.6,7.5,27.8,20.7,144.6,3.7,8.1,133.5,DAP,5.9,Tube well,15,High Yielding Variety,0.54,0.27
+IND_AND_0046,2020,Andhra Pradesh,Rice,Kharif,2.13,27.0,988.7,77.3,8.5,45.5,17.4,192.0,2.5,4.9,79.7,Urea,0.0,Sprinkler,32,Traditional,1.14,2.43
+IND_HAR_0047,2019,Haryana,Mustard,Rabi,8.07,20.6,664.9,76.8,7.9,8.5,21.9,177.0,1.6,9.4,133.5,Mixed,5.9,Drip,16,High Yielding Variety,1.3,10.49
+IND_AND_0048,2021,Andhra Pradesh,Groundnut,Kharif,7.54,40.1,973.2,71.3,6.4,45.0,13.2,152.5,2.4,7.9,133.3,NPK,13.2,Canal,20,Hybrid,0.5,3.77
+IND_PUN_0049,2022,Punjab,Barley,Rabi,6.92,30.9,460.0,50.2,7.9,23.9,27.0,197.4,3.1,10.0,89.0,NPK,1.8,Rain-fed,0,Hybrid,0.82,5.67
+IND_AND_0050,2022,Andhra Pradesh,Groundnut,Kharif,5.99,32.3,1068.4,77.2,6.2,64.3,21.0,153.8,3.4,7.9,129.0,Organic,4.0,Canal,17,Traditional,0.64,3.83
+IND_KAR_0051,2022,Karnataka,Sugarcane,Annual,6.76,27.5,1189.2,85.8,6.3,33.5,20.4,188.3,1.4,8.8,113.7,Mixed,5.9,Sprinkler,27,Hybrid,74.84,505.92
+IND_RAJ_0052,2020,Rajasthan,Wheat,Rabi,0.5,31.1,563.9,47.1,6.0,31.0,33.4,140.9,1.6,6.5,109.1,Organic,0.0,Sprinkler,33,Traditional,1.11,0.56
+IND_TAM_0053,2022,Tamil Nadu,Sugarcane,Annual,2.54,33.7,1116.1,80.6,7.0,21.7,40.6,152.1,2.8,7.1,127.9,Mixed,7.3,Tube well,10,Traditional,44.06,111.91
+IND_MAD_0054,2018,Madhya Pradesh,Soybean,Kharif,1.91,18.9,883.2,52.9,7.3,31.9,32.0,57.2,3.7,8.8,37.1,NPK,6.3,Rain-fed,0,Hybrid,0.43,0.82
+IND_WES_0055,2018,West Bengal,Maize,Kharif,0.5,30.4,1527.0,68.8,8.0,50.3,25.8,110.5,2.4,8.4,71.1,Organic,11.6,Sprinkler,34,High Yielding Variety,1.38,0.69
+IND_AND_0056,2019,Andhra Pradesh,Chillies,Kharif,2.25,37.0,1013.4,72.1,8.2,22.0,24.9,170.8,2.6,7.7,70.0,Organic,12.6,Rain-fed,0,Desi,0.29,0.65
+IND_AND_0057,2018,Andhra Pradesh,Rice,Kharif,1.95,28.7,727.8,83.4,5.8,42.3,9.8,211.4,1.1,9.3,128.4,DAP,7.5,Rain-fed,0,Hybrid,1.48,2.89
+IND_BIH_0058,2022,Bihar,Rice,Kharif,3.8,35.6,1243.7,61.1,7.3,30.6,19.5,160.8,1.4,6.0,149.7,Organic,8.9,Canal,22,Hybrid,1.43,5.43
+IND_MAD_0059,2021,Madhya Pradesh,Soybean,Kharif,3.04,22.1,763.4,63.5,7.4,23.3,23.3,90.4,3.6,7.9,130.2,DAP,12.9,Sprinkler,32,Desi,1.15,3.5
+IND_BIH_0060,2020,Bihar,Pulses,Kharif,5.03,23.2,1457.2,41.6,6.0,27.5,20.2,168.1,2.2,7.8,89.8,Mixed,4.9,Rain-fed,0,Traditional,0.18,0.91
+IND_TAM_0061,2021,Tamil Nadu,Cotton,Kharif,1.15,35.8,948.6,64.2,6.3,66.6,23.9,156.5,2.1,7.9,97.0,NPK,8.6,Drip,22,Traditional,0.39,0.45
+IND_KAR_0062,2019,Karnataka,Maize,Kharif,2.81,26.3,1216.7,74.7,8.5,27.5,34.5,174.8,2.4,7.8,158.9,Urea,11.1,Sprinkler,19,Hybrid,1.28,3.6
+IND_AND_0063,2021,Andhra Pradesh,Sugarcane,Annual,1.55,40.5,582.1,73.0,7.1,42.4,21.4,103.3,3.1,8.0,142.4,Mixed,13.4,Sprinkler,27,High Yielding Variety,37.24,57.72
+IND_AND_0064,2020,Andhra Pradesh,Groundnut,Kharif,3.92,28.5,793.7,78.4,7.4,38.3,9.8,112.2,3.6,7.3,147.3,Mixed,8.1,Rain-fed,0,Desi,0.69,2.7
+IND_BIH_0065,2019,Bihar,Jute,Kharif,4.88,20.7,1298.1,54.8,6.8,31.3,21.8,133.2,3.8,6.5,112.5,Urea,5.8,Drip,28,Desi,1.24,6.05
+IND_AND_0066,2023,Andhra Pradesh,Sugarcane,Annual,3.39,29.7,875.5,77.1,8.0,36.0,28.5,131.9,3.9,10.0,105.5,Organic,5.8,Sprinkler,19,High Yielding Variety,101.72,344.83
+IND_RAJ_0067,2018,Rajasthan,Wheat,Rabi,6.16,22.2,199.7,54.8,6.0,24.0,12.0,123.1,2.8,7.1,182.0,Organic,3.0,Rain-fed,0,Hybrid,1.23,7.58
+IND_UTT_0068,2020,Uttar Pradesh,Potato,Rabi,2.57,36.9,880.4,48.8,7.5,37.0,23.9,160.1,4.8,6.7,98.8,NPK,4.9,Drip,25,Desi,5.57,14.31
+IND_AND_0069,2021,Andhra Pradesh,Rice,Kharif,1.73,25.0,1081.5,84.5,8.5,28.2,13.3,166.5,2.4,8.1,128.1,Urea,0.4,Canal,19,Hybrid,3.24,5.61
+IND_MAD_0070,2019,Madhya Pradesh,Wheat,Rabi,6.59,20.2,1126.5,53.9,6.9,38.4,22.7,173.0,4.4,7.1,88.1,DAP,1.1,Canal,12,Hybrid,1.17,7.71
+IND_TAM_0071,2021,Tamil Nadu,Sugarcane,Annual,2.93,26.2,910.1,89.4,6.7,37.7,19.9,191.6,4.8,6.5,100.4,DAP,13.2,Drip,20,High Yielding Variety,65.21,191.07
+IND_MAH_0072,2020,Maharashtra,Cotton,Kharif,6.69,25.3,1102.9,65.9,8.2,44.8,24.1,187.3,3.7,8.9,145.9,Urea,7.2,Sprinkler,27,Hybrid,0.31,2.07
+IND_RAJ_0073,2018,Rajasthan,Barley,Rabi,5.41,19.8,518.1,51.8,7.2,50.3,21.5,151.6,1.7,7.7,145.8,Mixed,18.8,Rain-fed,0,Traditional,0.68,3.68
+IND_HAR_0074,2020,Haryana,Barley,Rabi,8.88,31.2,539.4,59.0,7.5,42.3,21.5,134.4,3.0,9.3,78.9,Urea,8.7,Drip,17,Traditional,0.89,7.9
+IND_AND_0075,2021,Andhra Pradesh,Maize,Kharif,5.39,24.8,1022.9,62.8,6.7,39.5,32.5,147.7,2.4,9.6,62.1,DAP,0.0,Rain-fed,0,Desi,1.1,5.93
+IND_AND_0076,2022,Andhra Pradesh,Groundnut,Kharif,2.0,36.5,632.5,77.0,6.7,19.6,27.0,172.8,2.7,9.5,77.2,Organic,0.4,Rain-fed,0,Desi,0.54,1.08
+IND_AND_0077,2020,Andhra Pradesh,Chillies,Kharif,2.91,40.1,638.0,76.9,6.1,52.3,19.3,189.1,3.1,7.8,142.8,Organic,10.2,Tube well,10,Traditional,1.06,3.08
+IND_WES_0078,2020,West Bengal,Mustard,Rabi,5.66,23.7,1226.0,76.6,7.8,33.9,31.5,126.3,4.2,7.8,62.8,DAP,8.6,Drip,20,Desi,0.4,2.26
+IND_KAR_0079,2020,Karnataka,Sunflower,Rabi,4.68,26.0,964.2,69.8,6.8,8.0,7.3,176.6,3.4,7.5,81.3,Mixed,7.8,Rain-fed,0,Traditional,0.31,1.45
+IND_PUN_0080,2018,Punjab,Rice,Kharif,3.37,27.4,681.0,57.8,7.2,37.5,5.0,141.3,2.3,7.0,108.8,Organic,17.0,Sprinkler,30,Hybrid,2.23,7.52
+IND_MAD_0081,2018,Madhya Pradesh,Sugarcane,Annual,1.86,22.0,662.7,65.7,8.5,46.1,20.5,127.4,3.4,7.8,155.8,NPK,11.2,Tube well,20,Hybrid,39.66,73.77
+IND_MAD_0082,2022,Madhya Pradesh,Cotton,Kharif,1.93,19.9,1136.9,73.2,7.4,59.9,14.5,210.8,3.0,6.5,100.6,NPK,6.4,Sprinkler,32,Traditional,0.12,0.23
+IND_BIH_0083,2020,Bihar,Maize,Kharif,4.05,31.9,1249.1,54.3,8.5,40.2,20.3,154.2,3.3,6.4,109.7,Mixed,0.0,Tube well,18,High Yielding Variety,1.01,4.09
+IND_BIH_0084,2023,Bihar,Wheat,Rabi,4.29,33.4,1212.7,47.7,5.9,37.7,28.4,208.9,2.4,8.9,118.5,NPK,7.1,Drip,18,Hybrid,1.64,7.04
+IND_WES_0085,2018,West Bengal,Potato,Rabi,4.3,33.9,1368.5,62.4,8.5,51.6,15.0,163.9,3.2,8.1,98.0,NPK,4.6,Rain-fed,0,Hybrid,6.41,27.56
+IND_PUN_0086,2023,Punjab,Maize,Kharif,12.69,19.9,748.3,67.7,5.0,48.8,6.1,137.3,1.9,6.6,166.4,Urea,5.7,Rain-fed,0,Desi,1.64,20.81
+IND_PUN_0087,2021,Punjab,Sugarcane,Annual,7.81,19.7,429.4,64.8,7.3,19.6,28.0,132.7,1.6,7.7,180.0,Organic,12.3,Tube well,9,Traditional,30.73,240.0
+IND_HAR_0088,2021,Haryana,Mustard,Rabi,6.6,16.7,607.7,56.8,8.5,39.6,23.4,186.1,3.0,7.7,112.1,Mixed,7.6,Canal,12,Hybrid,0.65,4.29
+IND_MAH_0089,2018,Maharashtra,Sugarcane,Annual,4.46,20.8,497.7,60.5,7.9,34.0,20.6,80.1,3.5,7.6,159.9,Mixed,0.0,Sprinkler,34,Hybrid,43.32,193.21
+IND_AND_0090,2020,Andhra Pradesh,Sugarcane,Annual,2.72,26.5,518.0,83.9,6.3,42.4,11.6,128.2,4.3,7.1,128.7,NPK,12.4,Rain-fed,0,Desi,23.97,65.2
+IND_RAJ_0091,2019,Rajasthan,Wheat,Rabi,3.3,29.9,428.0,63.6,7.4,47.6,28.8,191.5,3.3,5.4,185.3,Urea,2.3,Rain-fed,0,Traditional,0.81,2.67
+IND_UTT_0092,2019,Uttar Pradesh,Wheat,Rabi,1.49,38.0,628.9,59.4,7.5,38.9,23.4,206.5,3.2,7.2,158.6,NPK,13.9,Sprinkler,34,Desi,1.24,1.85
+IND_PUN_0093,2023,Punjab,Cotton,Kharif,10.39,31.0,574.2,67.0,7.1,36.5,18.6,150.5,1.9,6.5,183.8,Mixed,3.8,Canal,15,Traditional,0.41,4.26
+IND_MAD_0094,2021,Madhya Pradesh,Maize,Kharif,0.5,23.7,824.0,76.4,8.1,26.7,38.0,184.4,2.5,4.3,211.6,DAP,1.1,Tube well,12,Traditional,0.88,0.44
+IND_HAR_0095,2022,Haryana,Cotton,Kharif,12.09,28.2,617.7,84.4,7.7,45.2,26.1,159.8,2.9,7.9,89.8,Organic,6.6,Drip,29,High Yielding Variety,0.45,5.44
+IND_BIH_0096,2020,Bihar,Sugarcane,Annual,2.8,25.1,1153.6,61.8,8.5,46.0,7.4,115.4,3.6,6.4,111.0,Mixed,10.8,Sprinkler,29,High Yielding Variety,50.83,142.32
+IND_PUN_0097,2022,Punjab,Maize,Kharif,8.42,29.2,442.8,46.7,5.8,40.3,19.8,169.3,3.0,9.8,125.0,NPK,5.9,Canal,15,High Yielding Variety,3.15,26.52
+IND_RAJ_0098,2021,Rajasthan,Barley,Rabi,4.09,39.6,547.9,53.0,6.6,18.2,34.0,106.5,2.2,5.9,155.8,Mixed,6.5,Sprinkler,23,Hybrid,0.72,2.94
+IND_AND_0099,2018,Andhra Pradesh,Sugarcane,Annual,1.65,35.2,771.1,77.2,6.1,38.7,25.1,164.5,2.7,7.1,121.8,Urea,7.3,Sprinkler,25,Traditional,34.82,57.45
+IND_UTT_0100,2020,Uttar Pradesh,Potato,Rabi,7.42,22.6,834.5,59.1,8.5,25.4,33.1,208.7,2.4,8.2,185.1,Organic,6.1,Sprinkler,32,High Yielding Variety,15.15,112.41
+IND_HAR_0101,2018,Haryana,Cotton,Kharif,5.67,20.5,474.2,49.9,7.2,25.8,21.9,95.5,3.1,9.0,40.3,Mixed,9.9,Rain-fed,0,Desi,0.19,1.08
+IND_PUN_0102,2021,Punjab,Sugarcane,Annual,3.16,34.9,664.7,76.7,7.6,26.5,19.6,169.5,2.9,8.8,83.2,Organic,8.8,Drip,34,Desi,26.14,82.6
+IND_PUN_0103,2020,Punjab,Rice,Kharif,7.56,30.1,539.0,51.0,8.2,42.3,11.3,138.9,3.8,8.4,212.8,Mixed,10.0,Sprinkler,18,High Yielding Variety,2.76,20.87
+IND_WES_0104,2022,West Bengal,Mustard,Rabi,2.38,23.7,1860.9,80.7,8.1,25.6,9.4,85.7,3.2,6.5,33.9,Urea,9.9,Sprinkler,17,Hybrid,0.59,1.4
+IND_TAM_0105,2019,Tamil Nadu,Coconut,Annual,2.99,39.9,1225.7,81.7,7.3,33.8,27.4,139.8,3.0,7.5,93.3,Organic,13.0,Drip,31,Traditional,5.15,15.4
+IND_TAM_0106,2021,Tamil Nadu,Maize,Kharif,1.49,27.6,1147.5,75.2,7.2,48.0,23.8,149.1,3.5,8.8,142.3,Urea,8.1,Sprinkler,21,Hybrid,1.59,2.37
+IND_MAH_0107,2020,Maharashtra,Jowar,Kharif,0.87,27.4,454.5,56.9,7.3,41.4,19.4,167.0,2.9,4.8,82.4,Urea,7.3,Rain-fed,0,Traditional,0.27,0.23
+IND_MAH_0108,2022,Maharashtra,Bajra,Kharif,4.2,32.4,920.2,57.9,8.5,36.8,17.3,128.5,2.6,6.7,126.8,DAP,8.8,Rain-fed,0,Desi,0.27,1.13
+IND_TAM_0109,2020,Tamil Nadu,Cotton,Kharif,3.87,29.6,1111.9,84.5,5.0,46.2,9.1,142.1,1.9,4.9,141.7,DAP,11.8,Sprinkler,29,Traditional,0.17,0.66
+IND_BIH_0110,2019,Bihar,Sugarcane,Annual,0.5,20.3,1129.9,54.5,7.6,17.3,21.5,149.5,3.3,7.7,81.1,Urea,14.0,Rain-fed,0,Desi,23.76,11.88
+IND_KAR_0111,2021,Karnataka,Groundnut,Kharif,2.95,24.0,859.7,67.5,7.0,55.5,9.0,93.5,4.0,6.7,93.2,DAP,13.2,Tube well,23,High Yielding Variety,0.55,1.62
+IND_GUJ_0112,2018,Gujarat,Jowar,Kharif,6.65,25.6,804.5,81.6,6.7,43.9,22.4,195.6,4.0,7.4,89.9,Urea,10.3,Rain-fed,0,Desi,0.38,2.53
+IND_GUJ_0113,2023,Gujarat,Bajra,Kharif,7.03,20.9,350.9,61.4,6.9,37.2,9.2,116.0,3.8,6.6,78.1,NPK,10.7,Tube well,10,Desi,0.48,3.37
+IND_KAR_0114,2023,Karnataka,Ragi,Kharif,4.44,25.4,616.8,83.0,6.5,17.9,32.0,138.7,2.6,8.6,142.2,NPK,10.3,Drip,32,Desi,1.75,7.77
+IND_MAD_0115,2022,Madhya Pradesh,Sugarcane,Annual,1.71,41.5,961.1,69.3,8.5,41.1,24.3,187.5,2.5,6.3,78.2,DAP,0.0,Canal,15,Traditional,28.87,49.37
+IND_BIH_0116,2023,Bihar,Rice,Kharif,0.79,37.0,1120.3,57.8,7.0,38.7,26.5,180.1,2.3,7.4,131.3,Organic,6.8,Rain-fed,0,High Yielding Variety,1.62,1.28
+IND_UTT_0117,2018,Uttar Pradesh,Wheat,Rabi,3.98,33.5,993.7,67.3,7.4,19.4,23.2,127.2,2.4,8.2,169.5,NPK,8.1,Canal,17,Traditional,1.29,5.13
+IND_AND_0118,2022,Andhra Pradesh,Sugarcane,Annual,6.4,34.6,805.0,79.5,5.6,44.0,23.0,195.1,3.3,7.1,71.0,Urea,7.0,Tube well,13,Hybrid,26.79,171.46
+IND_RAJ_0119,2023,Rajasthan,Maize,Kharif,1.84,31.7,479.9,65.9,6.1,40.3,29.6,128.7,2.7,6.8,88.6,NPK,11.2,Tube well,15,Desi,0.83,1.53
+IND_TAM_0120,2021,Tamil Nadu,Rice,Kharif,3.84,29.9,874.4,80.8,6.9,55.7,16.8,157.9,3.5,5.4,49.6,Urea,0.4,Rain-fed,0,Hybrid,1.06,4.07
+IND_TAM_0121,2020,Tamil Nadu,Coconut,Annual,1.9,34.6,832.4,90.0,8.5,59.1,36.5,192.3,3.6,7.8,151.1,NPK,5.2,Sprinkler,23,Desi,4.47,8.49
+IND_WES_0122,2018,West Bengal,Mustard,Rabi,2.99,22.8,1467.4,80.6,8.1,36.1,31.8,110.0,2.6,6.9,45.3,NPK,7.6,Drip,33,Traditional,0.41,1.23
+IND_PUN_0123,2020,Punjab,Maize,Kharif,14.05,35.0,773.2,66.3,6.3,57.2,29.8,170.4,2.6,7.0,105.1,DAP,13.4,Canal,23,Traditional,2.0,28.1
+IND_RAJ_0124,2023,Rajasthan,Cotton,Kharif,6.09,20.5,313.0,61.4,5.6,38.9,18.8,133.7,1.5,7.4,98.7,Urea,2.2,Drip,19,High Yielding Variety,0.1,0.61
+IND_MAH_0125,2022,Maharashtra,Rice,Kharif,2.94,28.7,983.6,77.7,6.7,40.6,12.0,160.6,3.4,8.7,116.0,NPK,7.0,Tube well,10,Traditional,1.89,5.56
+IND_BIH_0126,2019,Bihar,Wheat,Rabi,1.35,36.3,1124.8,69.1,6.5,52.9,17.8,149.3,2.2,4.7,155.4,Mixed,11.7,Rain-fed,0,Traditional,0.43,0.58
+IND_GUJ_0127,2020,Gujarat,Bajra,Kharif,3.13,40.6,331.4,65.2,5.8,28.7,26.4,106.1,3.0,5.8,138.7,NPK,7.8,Rain-fed,0,Desi,0.2,0.63
+IND_BIH_0128,2021,Bihar,Potato,Rabi,5.33,22.1,1075.6,52.7,6.5,37.4,29.2,114.4,2.8,8.1,147.7,DAP,8.9,Rain-fed,0,Hybrid,8.05,42.91
+IND_MAD_0129,2022,Madhya Pradesh,Sugarcane,Annual,1.34,29.0,890.8,60.9,7.6,45.8,5.0,114.7,3.3,9.8,120.8,Mixed,4.4,Sprinkler,15,Traditional,58.04,77.77
+IND_HAR_0130,2022,Haryana,Cotton,Kharif,13.5,17.0,625.2,53.5,6.5,29.2,12.4,154.3,4.1,8.4,109.9,Organic,6.5,Drip,18,Hybrid,0.34,4.59
+IND_PUN_0131,2022,Punjab,Cotton,Kharif,11.53,25.8,599.1,59.2,7.5,26.0,16.6,190.2,2.9,6.5,156.8,Organic,4.7,Canal,22,Traditional,0.54,6.23
+IND_HAR_0132,2020,Haryana,Wheat,Rabi,12.32,32.0,488.6,60.7,8.0,40.8,13.2,127.5,3.6,7.6,103.9,Urea,3.2,Rain-fed,0,High Yielding Variety,2.07,25.5
+IND_WES_0133,2021,West Bengal,Maize,Kharif,7.13,23.1,1905.9,66.5,7.2,51.9,19.4,165.8,2.0,8.3,112.5,Organic,12.9,Sprinkler,33,Hybrid,2.37,16.9
+IND_MAD_0134,2022,Madhya Pradesh,Cotton,Kharif,8.18,35.3,1134.2,61.9,6.9,39.1,17.6,155.9,3.9,6.1,165.6,DAP,14.6,Drip,16,Traditional,0.16,1.31
+IND_TAM_0135,2020,Tamil Nadu,Sugarcane,Annual,0.5,32.4,1214.1,70.1,6.3,28.9,26.7,169.1,2.6,6.7,104.3,Urea,3.4,Drip,32,Traditional,69.91,34.96
+IND_AND_0136,2021,Andhra Pradesh,Rice,Kharif,2.36,35.7,872.6,83.0,6.8,39.8,19.8,118.4,3.1,5.9,167.5,NPK,5.7,Tube well,8,High Yielding Variety,1.35,3.19
+IND_WES_0137,2018,West Bengal,Maize,Kharif,3.57,25.0,1869.6,72.9,8.0,18.8,21.0,217.9,2.0,7.0,140.6,Mixed,8.9,Rain-fed,0,Hybrid,1.43,5.11
+IND_WES_0138,2020,West Bengal,Maize,Kharif,3.98,32.2,1732.0,78.3,7.0,43.1,35.2,145.4,2.0,9.1,115.2,NPK,0.0,Rain-fed,0,High Yielding Variety,1.24,4.94
+IND_UTT_0139,2020,Uttar Pradesh,Peas,Rabi,1.93,32.8,1150.8,59.1,7.8,29.8,24.1,140.9,3.4,8.2,82.6,Urea,13.4,Rain-fed,0,High Yielding Variety,0.25,0.48
+IND_UTT_0140,2022,Uttar Pradesh,Rice,Kharif,4.62,35.5,667.5,63.7,8.5,32.3,17.2,149.3,2.6,8.5,55.3,DAP,2.7,Tube well,16,High Yielding Variety,0.87,4.02
+IND_BIH_0141,2023,Bihar,Rice,Kharif,4.9,36.1,1092.7,77.1,7.1,33.0,20.6,190.7,2.1,7.9,159.0,Organic,10.5,Sprinkler,26,High Yielding Variety,2.14,10.49
+IND_GUJ_0142,2023,Gujarat,Cotton,Kharif,5.0,31.4,558.3,53.5,5.6,41.1,31.0,145.2,3.6,9.3,172.6,Organic,16.2,Rain-fed,0,Traditional,0.45,2.25
+IND_MAD_0143,2021,Madhya Pradesh,Maize,Kharif,3.15,20.5,830.7,44.0,8.5,32.9,21.0,169.3,2.8,9.3,95.1,Urea,9.0,Rain-fed,0,Desi,0.93,2.93
+IND_TAM_0144,2018,Tamil Nadu,Millets,Kharif,0.5,32.1,822.8,71.6,6.6,18.1,19.3,97.3,3.4,7.2,61.7,Mixed,6.5,Rain-fed,0,Traditional,0.26,0.13
+IND_UTT_0145,2022,Uttar Pradesh,Sugarcane,Annual,3.64,28.3,776.1,73.4,7.1,43.1,21.7,123.7,2.5,6.5,163.0,Organic,8.1,Drip,27,Traditional,69.17,251.78
+IND_GUJ_0146,2023,Gujarat,Cotton,Kharif,2.88,41.8,378.9,52.9,5.8,13.4,7.3,159.3,3.2,5.5,155.8,DAP,5.6,Tube well,21,Desi,0.13,0.37
+IND_AND_0147,2021,Andhra Pradesh,Sugarcane,Annual,6.22,26.1,730.3,82.2,5.3,26.4,18.3,115.4,2.7,7.4,111.0,NPK,4.7,Canal,18,Desi,36.08,224.42
+IND_MAD_0148,2023,Madhya Pradesh,Rice,Kharif,3.88,34.3,817.2,59.0,7.2,43.5,21.9,183.4,3.0,6.6,134.5,Urea,2.3,Rain-fed,0,High Yielding Variety,0.86,3.34
+IND_HAR_0149,2023,Haryana,Wheat,Rabi,7.87,21.9,520.1,57.9,6.7,36.1,21.3,114.0,3.8,7.0,158.8,Mixed,10.1,Tube well,25,High Yielding Variety,3.84,30.22
+IND_GUJ_0150,2021,Gujarat,Cotton,Kharif,6.55,34.8,465.2,70.0,6.6,51.7,18.0,160.1,3.0,7.2,152.4,Mixed,12.0,Sprinkler,16,Traditional,0.2,1.31
+IND_MAH_0151,2019,Maharashtra,Sugarcane,Annual,5.61,34.1,950.7,43.4,6.2,30.1,11.2,142.5,2.6,8.1,172.4,Mixed,15.0,Tube well,11,Traditional,42.92,240.78
+IND_KAR_0152,2022,Karnataka,Sugarcane,Annual,2.58,27.3,849.0,82.7,8.5,20.2,15.3,149.1,3.0,6.0,137.0,Mixed,5.6,Sprinkler,32,High Yielding Variety,49.1,126.68
+IND_MAD_0153,2018,Madhya Pradesh,Sugarcane,Annual,4.09,27.2,623.4,60.1,7.1,30.6,17.9,206.0,3.2,6.9,147.9,Urea,6.3,Drip,25,Traditional,40.72,166.54
+IND_UTT_0154,2023,Uttar Pradesh,Peas,Rabi,3.74,37.7,773.0,58.9,7.6,16.1,11.0,108.2,2.9,9.6,209.3,Mixed,11.2,Tube well,8,High Yielding Variety,0.72,2.69
+IND_WES_0155,2020,West Bengal,Wheat,Rabi,0.5,25.4,1355.7,70.7,7.0,29.3,5.0,176.2,1.9,8.1,203.0,Urea,3.4,Drip,25,High Yielding Variety,1.28,0.64
+IND_UTT_0156,2023,Uttar Pradesh,Wheat,Rabi,2.43,37.9,1128.2,71.0,8.5,20.2,24.0,133.7,2.7,10.0,59.9,Mixed,9.3,Sprinkler,28,Desi,1.18,2.87
+IND_TAM_0157,2022,Tamil Nadu,Sugarcane,Annual,5.17,27.0,1195.3,75.8,7.4,30.9,25.0,137.1,3.1,7.1,165.0,Mixed,7.7,Sprinkler,18,Traditional,55.04,284.56
+IND_TAM_0158,2018,Tamil Nadu,Cotton,Kharif,5.52,29.3,901.6,70.2,8.4,9.4,45.1,187.0,3.0,7.0,131.4,NPK,10.6,Canal,8,Hybrid,0.46,2.54
+IND_WES_0159,2020,West Bengal,Mustard,Rabi,4.11,24.6,1287.4,75.7,7.0,48.6,24.7,47.1,3.3,8.0,119.3,DAP,6.1,Canal,23,Desi,0.56,2.3
+IND_UTT_0160,2022,Uttar Pradesh,Rice,Kharif,4.9,31.9,680.7,50.3,6.0,27.5,26.9,183.4,3.2,8.4,140.6,Urea,4.8,Drip,17,Desi,1.64,8.04
+IND_AND_0161,2020,Andhra Pradesh,Rice,Kharif,4.6,35.9,959.7,81.0,7.5,47.8,19.8,119.1,2.7,6.4,93.0,NPK,7.3,Sprinkler,35,Desi,0.84,3.86
+IND_HAR_0162,2019,Haryana,Cotton,Kharif,6.77,32.2,681.7,41.1,7.4,35.0,13.5,173.1,3.6,6.1,89.5,Organic,4.2,Sprinkler,26,High Yielding Variety,0.43,2.91
+IND_HAR_0163,2022,Haryana,Sugarcane,Annual,11.32,22.4,516.8,58.1,7.8,20.1,20.5,159.7,3.9,6.4,20.0,NPK,8.9,Drip,25,Hybrid,31.93,361.45
+IND_UTT_0164,2022,Uttar Pradesh,Wheat,Rabi,5.48,19.4,1009.6,68.1,6.3,40.7,24.0,187.1,5.0,8.0,99.6,DAP,7.9,Drip,26,Hybrid,1.45,7.95
+IND_HAR_0165,2019,Haryana,Rice,Kharif,5.22,28.6,369.0,55.9,6.5,48.5,20.0,149.7,2.5,8.2,153.0,Organic,3.7,Canal,13,Desi,1.45,7.57
+IND_RAJ_0166,2023,Rajasthan,Jowar,Kharif,2.39,25.8,271.7,55.2,8.0,38.2,21.5,179.8,2.7,7.3,115.9,NPK,9.3,Rain-fed,0,Traditional,0.26,0.62
+IND_UTT_0167,2021,Uttar Pradesh,Potato,Rabi,0.5,30.7,1022.3,58.7,8.1,49.8,20.7,156.9,2.3,7.1,144.6,NPK,14.0,Drip,33,High Yielding Variety,9.65,4.82
+IND_GUJ_0168,2021,Gujarat,Rice,Kharif,2.1,41.0,600.2,45.6,5.1,28.4,10.2,132.2,2.7,6.9,178.1,Urea,9.6,Drip,24,High Yielding Variety,1.2,2.52
+IND_RAJ_0169,2021,Rajasthan,Mustard,Rabi,4.24,29.2,546.1,48.6,7.8,22.1,7.6,178.6,3.1,5.7,85.2,NPK,13.6,Canal,22,Hybrid,0.2,0.85
+IND_RAJ_0170,2018,Rajasthan,Barley,Rabi,6.29,36.4,239.6,56.7,7.7,28.5,18.7,151.4,2.0,7.7,99.5,Urea,6.9,Drip,17,Hybrid,0.53,3.33
+IND_WES_0171,2022,West Bengal,Mustard,Rabi,0.5,28.9,1676.1,73.5,7.2,31.8,20.2,169.1,1.9,9.1,148.6,NPK,11.6,Tube well,19,Traditional,0.53,0.26
+IND_AND_0172,2023,Andhra Pradesh,Groundnut,Kharif,3.04,26.3,510.2,80.4,7.7,30.8,15.4,153.6,4.0,5.8,61.3,Urea,8.8,Drip,17,Traditional,0.79,2.4
+IND_GUJ_0173,2020,Gujarat,Wheat,Rabi,3.35,37.2,574.8,62.4,5.8,25.1,19.2,92.5,2.7,9.4,120.8,Mixed,9.2,Tube well,18,High Yielding Variety,2.0,6.7
+IND_MAD_0174,2020,Madhya Pradesh,Soybean,Kharif,1.77,22.7,684.5,72.8,7.7,21.7,22.0,167.4,3.7,9.2,79.4,DAP,3.9,Rain-fed,0,Desi,0.43,0.76
+IND_RAJ_0175,2020,Rajasthan,Cotton,Kharif,2.53,29.1,550.6,64.7,6.9,36.8,13.3,223.1,1.5,7.0,200.9,Organic,8.0,Drip,19,High Yielding Variety,0.45,1.14
+IND_GUJ_0176,2020,Gujarat,Wheat,Rabi,2.29,37.8,575.8,37.9,8.5,17.9,17.9,135.0,3.3,5.5,138.5,DAP,18.1,Tube well,18,Desi,0.91,2.08
+IND_WES_0177,2018,West Bengal,Maize,Kharif,3.38,34.8,1352.1,69.7,7.6,35.2,14.9,167.1,4.2,7.6,148.8,NPK,1.5,Canal,24,High Yielding Variety,1.04,3.52
+IND_RAJ_0178,2019,Rajasthan,Mustard,Rabi,3.94,32.0,497.2,56.9,7.2,20.0,24.8,180.9,2.4,6.2,130.6,Organic,5.8,Tube well,22,High Yielding Variety,0.42,1.65
+IND_KAR_0179,2021,Karnataka,Cotton,Kharif,7.2,23.5,831.1,73.0,7.9,32.8,14.8,196.2,3.9,6.3,45.3,NPK,13.0,Sprinkler,22,Hybrid,0.18,1.3
+IND_TAM_0180,2020,Tamil Nadu,Maize,Kharif,4.58,33.5,979.3,65.3,7.9,35.2,12.4,135.8,3.3,7.2,143.4,Organic,17.9,Sprinkler,29,Traditional,0.7,3.21
+IND_GUJ_0181,2019,Gujarat,Groundnut,Kharif,6.23,26.2,511.8,61.0,7.0,46.1,19.0,202.9,1.6,7.4,69.9,NPK,9.8,Rain-fed,0,Hybrid,0.93,5.79
+IND_PUN_0182,2022,Punjab,Cotton,Kharif,6.32,19.1,428.5,35.0,7.4,40.2,23.2,193.3,1.9,9.0,167.7,NPK,0.0,Rain-fed,0,High Yielding Variety,0.3,1.9
+IND_HAR_0183,2021,Haryana,Mustard,Rabi,5.98,18.6,617.9,59.2,6.6,35.4,11.3,112.0,3.3,6.6,146.7,Organic,10.3,Rain-fed,0,Hybrid,0.35,2.09
+IND_HAR_0184,2021,Haryana,Barley,Rabi,5.29,22.5,599.4,55.4,7.6,44.4,18.0,129.1,3.9,10.0,159.2,Organic,8.4,Rain-fed,0,High Yielding Variety,0.98,5.18
+IND_PUN_0185,2019,Punjab,Cotton,Kharif,4.68,30.6,633.5,65.2,7.8,17.0,28.4,115.1,2.5,8.5,199.8,Urea,23.5,Canal,19,Hybrid,1.01,4.73
+IND_KAR_0186,2023,Karnataka,Groundnut,Kharif,2.63,32.8,1157.8,72.4,8.5,37.8,24.0,173.3,3.1,8.0,95.3,NPK,5.2,Tube well,12,High Yielding Variety,0.49,1.29
+IND_TAM_0187,2023,Tamil Nadu,Sugarcane,Annual,3.88,35.9,1081.0,81.2,7.2,43.0,11.3,136.5,3.4,8.1,108.2,NPK,7.6,Canal,10,High Yielding Variety,37.67,146.16
+IND_WES_0188,2018,West Bengal,Mustard,Rabi,2.29,31.2,1853.7,79.0,7.2,35.1,14.7,174.5,3.1,8.4,99.0,NPK,0.0,Rain-fed,0,Hybrid,0.4,0.92
+IND_HAR_0189,2023,Haryana,Sugarcane,Annual,6.08,21.8,655.0,51.4,8.2,42.4,25.5,102.2,3.8,8.3,105.2,Organic,8.7,Sprinkler,17,High Yielding Variety,30.55,185.74
+IND_RAJ_0190,2023,Rajasthan,Barley,Rabi,3.82,24.2,308.8,44.8,8.2,27.4,32.3,131.2,1.4,5.5,169.4,DAP,7.2,Sprinkler,15,Traditional,0.6,2.29
+IND_RAJ_0191,2022,Rajasthan,Wheat,Rabi,3.32,35.1,434.5,65.0,6.9,19.1,16.7,159.1,2.0,5.7,133.8,Mixed,7.8,Rain-fed,0,High Yielding Variety,0.9,2.99
+IND_GUJ_0192,2021,Gujarat,Cotton,Kharif,1.48,23.9,882.4,57.7,6.4,45.7,28.3,85.4,2.1,5.6,94.0,Organic,7.6,Rain-fed,0,High Yielding Variety,0.12,0.18
+IND_KAR_0193,2020,Karnataka,Rice,Kharif,1.16,30.5,1374.8,67.0,6.6,37.1,15.6,140.5,4.1,8.6,68.0,DAP,12.1,Rain-fed,0,Traditional,1.38,1.6
+IND_BIH_0194,2022,Bihar,Rice,Kharif,0.7,32.7,1305.0,48.8,6.4,47.2,22.2,169.3,3.1,8.1,66.9,DAP,13.2,Rain-fed,0,Traditional,1.34,0.94
+IND_PUN_0195,2023,Punjab,Cotton,Kharif,7.08,26.7,501.2,59.6,7.7,34.3,29.0,138.3,3.3,7.0,119.1,DAP,7.1,Sprinkler,30,Hybrid,0.47,3.33
+IND_HAR_0196,2018,Haryana,Mustard,Rabi,6.52,34.3,501.9,55.6,5.8,56.0,31.1,104.8,3.4,7.4,130.5,NPK,9.5,Canal,14,High Yielding Variety,0.71,4.63
+IND_MAH_0197,2020,Maharashtra,Wheat,Rabi,1.43,25.4,598.0,53.1,7.1,26.4,25.5,202.1,2.3,7.5,140.0,Urea,10.4,Tube well,17,Traditional,1.94,2.77
+IND_MAD_0198,2020,Madhya Pradesh,Wheat,Rabi,4.49,22.8,970.1,68.7,8.0,25.8,20.3,173.9,2.6,8.6,214.6,NPK,4.1,Sprinkler,29,Desi,1.29,5.79
+IND_UTT_0199,2020,Uttar Pradesh,Potato,Rabi,3.61,33.7,872.6,67.2,6.0,43.3,15.2,210.2,4.4,6.6,98.0,Urea,12.3,Rain-fed,0,Traditional,3.89,14.04
+IND_BIH_0200,2022,Bihar,Sugarcane,Annual,2.91,25.4,1251.3,59.9,6.6,29.1,31.5,106.0,3.5,7.3,108.8,Mixed,12.0,Rain-fed,0,Hybrid,48.95,142.44
+IND_MAH_0201,2020,Maharashtra,Cotton,Kharif,4.14,22.2,631.3,69.7,6.2,25.1,43.6,193.6,1.7,5.6,139.3,DAP,10.7,Drip,29,Desi,0.24,0.99
+IND_BIH_0202,2018,Bihar,Sugarcane,Annual,2.49,37.2,1163.4,60.9,5.2,32.2,13.2,156.1,5.2,8.0,107.5,Mixed,12.6,Rain-fed,0,Traditional,31.85,79.31
+IND_AND_0203,2018,Andhra Pradesh,Rice,Kharif,3.84,31.9,866.3,79.9,7.6,23.9,24.4,117.8,2.5,6.9,159.0,Urea,12.6,Sprinkler,26,Hybrid,1.51,5.8
+IND_UTT_0204,2021,Uttar Pradesh,Peas,Rabi,3.11,19.7,611.5,52.9,6.1,32.4,17.5,234.9,3.1,5.8,97.4,NPK,13.1,Canal,15,Traditional,0.51,1.59
+IND_AND_0205,2022,Andhra Pradesh,Maize,Kharif,0.5,33.7,917.9,60.0,6.4,41.4,5.0,150.1,3.1,8.4,79.4,Organic,8.4,Sprinkler,26,Traditional,0.88,0.44
+IND_HAR_0206,2021,Haryana,Cotton,Kharif,9.02,22.7,400.0,50.0,7.8,45.3,18.1,151.3,1.6,7.6,118.0,Urea,21.1,Drip,22,High Yielding Variety,0.24,2.16
+IND_BIH_0207,2022,Bihar,Sugarcane,Annual,5.93,24.6,1005.0,70.0,7.5,56.1,23.0,163.6,2.8,9.1,163.9,Mixed,4.9,Drip,29,Hybrid,65.65,389.3
+IND_MAH_0208,2019,Maharashtra,Wheat,Rabi,2.59,37.1,1106.0,52.0,7.1,49.8,16.3,148.5,2.8,8.2,30.1,Organic,5.0,Canal,22,Hybrid,0.87,2.25
+IND_HAR_0209,2023,Haryana,Mustard,Rabi,12.8,24.7,699.0,55.1,5.5,42.4,14.9,108.4,2.3,7.8,95.8,NPK,0.0,Canal,25,Traditional,0.56,7.17
+IND_UTT_0210,2023,Uttar Pradesh,Peas,Rabi,5.55,32.2,605.0,66.5,6.2,32.6,19.9,171.0,3.3,6.6,123.3,Urea,10.3,Drip,31,Hybrid,0.48,2.66
+IND_WES_0211,2021,West Bengal,Maize,Kharif,4.41,32.4,1614.4,81.3,7.6,24.7,31.2,174.4,2.4,7.2,131.9,Mixed,10.3,Drip,29,Hybrid,1.34,5.91
+IND_HAR_0212,2023,Haryana,Sugarcane,Annual,9.25,27.9,578.9,61.9,8.0,22.6,23.2,213.3,2.6,7.0,93.9,DAP,2.6,Sprinkler,28,High Yielding Variety,41.42,383.14
+IND_KAR_0213,2021,Karnataka,Ragi,Kharif,2.26,33.8,1005.6,63.8,6.4,53.2,24.1,186.1,2.3,8.0,76.3,DAP,12.5,Rain-fed,0,Traditional,0.47,1.06
+IND_GUJ_0214,2019,Gujarat,Groundnut,Kharif,4.11,27.1,461.7,66.0,6.3,40.6,9.1,179.7,1.8,8.1,145.0,NPK,4.5,Canal,11,Hybrid,1.58,6.49
+IND_UTT_0215,2020,Uttar Pradesh,Rice,Kharif,3.52,25.4,859.4,54.6,7.5,16.2,20.8,140.8,3.3,7.1,106.8,Urea,11.7,Rain-fed,0,Traditional,1.16,4.08
+IND_MAH_0216,2019,Maharashtra,Soybean,Kharif,3.63,25.0,861.4,67.6,7.8,22.8,18.0,148.6,2.7,7.6,177.3,Mixed,13.4,Canal,24,Hybrid,1.09,3.96
+IND_RAJ_0217,2022,Rajasthan,Bajra,Kharif,4.24,37.9,167.5,73.3,7.5,48.1,36.1,185.8,3.0,8.1,125.8,Mixed,8.1,Canal,10,High Yielding Variety,0.3,1.27
+IND_MAH_0218,2022,Maharashtra,Wheat,Rabi,6.13,34.1,711.4,65.0,5.9,39.4,5.0,171.9,3.5,6.5,124.9,NPK,17.8,Sprinkler,35,Traditional,0.89,5.46
+IND_TAM_0219,2020,Tamil Nadu,Groundnut,Kharif,0.88,39.1,883.7,86.9,8.5,35.0,28.1,197.0,2.2,6.5,169.2,Organic,16.4,Canal,13,Desi,0.48,0.42
+IND_TAM_0220,2022,Tamil Nadu,Cotton,Kharif,1.24,31.8,1133.9,72.3,7.5,53.6,26.8,164.5,3.2,7.2,142.3,DAP,0.0,Drip,26,Desi,0.25,0.31
+IND_KAR_0221,2020,Karnataka,Rice,Kharif,3.48,25.6,1337.0,65.8,8.5,53.9,16.3,144.7,2.7,6.5,127.8,DAP,4.2,Canal,16,Desi,1.18,4.11
+IND_UTT_0222,2021,Uttar Pradesh,Sugarcane,Annual,4.25,35.3,1131.7,66.3,6.5,45.7,14.9,158.9,3.5,7.5,138.2,DAP,5.4,Rain-fed,0,Desi,31.27,132.9
+IND_UTT_0223,2023,Uttar Pradesh,Peas,Rabi,2.59,19.4,726.5,52.5,7.0,16.4,16.1,140.0,2.6,7.2,117.5,Organic,10.4,Tube well,23,Desi,0.55,1.42
+IND_MAH_0224,2021,Maharashtra,Cotton,Kharif,1.7,26.5,639.5,55.1,6.9,25.8,9.6,134.0,2.9,7.9,97.7,Urea,5.9,Tube well,14,Traditional,0.31,0.53
+IND_PUN_0225,2020,Punjab,Sugarcane,Annual,7.87,21.0,625.4,51.5,6.9,38.6,21.5,244.3,3.1,7.0,116.2,NPK,0.0,Canal,21,Hybrid,31.91,251.13
+IND_BIH_0226,2020,Bihar,Sugarcane,Annual,1.33,25.5,1411.2,58.8,6.6,55.9,17.4,214.1,3.5,8.2,134.7,NPK,10.0,Canal,25,Hybrid,42.85,56.99
+IND_GUJ_0227,2022,Gujarat,Rice,Kharif,2.44,24.3,593.6,68.5,7.2,55.4,30.0,147.8,3.6,7.0,51.8,DAP,3.4,Drip,34,High Yielding Variety,1.36,3.32
+IND_HAR_0228,2022,Haryana,Cotton,Kharif,6.9,18.5,418.7,79.0,8.5,61.6,18.7,160.3,1.6,9.8,73.3,DAP,9.1,Rain-fed,0,Hybrid,0.17,1.17
+IND_RAJ_0229,2018,Rajasthan,Wheat,Rabi,1.82,21.6,232.3,51.6,6.7,45.0,11.2,157.7,3.8,6.2,91.3,DAP,6.8,Drip,30,Desi,1.06,1.93
+IND_RAJ_0230,2020,Rajasthan,Cotton,Kharif,3.39,38.9,228.8,49.0,7.8,39.9,17.5,120.6,2.1,7.4,169.2,DAP,4.8,Rain-fed,0,Traditional,0.1,0.34
+IND_AND_0231,2020,Andhra Pradesh,Chillies,Kharif,0.5,25.7,791.7,70.3,6.4,27.0,22.3,143.4,1.0,4.8,95.7,Organic,10.3,Sprinkler,33,Traditional,0.41,0.2
+IND_PUN_0232,2021,Punjab,Wheat,Rabi,6.0,26.9,799.8,54.7,8.4,30.4,23.1,154.9,1.1,9.1,128.6,Mixed,10.5,Canal,23,Traditional,2.66,15.96
+IND_RAJ_0233,2022,Rajasthan,Wheat,Rabi,0.5,40.2,222.3,77.2,7.2,29.9,15.4,161.5,1.6,7.7,103.4,Urea,2.3,Sprinkler,19,Hybrid,0.82,0.41
+IND_RAJ_0234,2019,Rajasthan,Cotton,Kharif,5.51,37.5,206.5,52.7,7.9,43.2,34.8,143.9,3.3,6.9,171.8,Organic,4.4,Drip,28,Hybrid,0.19,1.05
+IND_BIH_0235,2023,Bihar,Sugarcane,Annual,2.61,37.3,1333.9,59.4,7.1,37.6,32.6,184.5,3.5,7.1,84.4,Mixed,12.8,Rain-fed,0,Hybrid,30.7,80.13
+IND_WES_0236,2022,West Bengal,Wheat,Rabi,5.95,34.9,1449.5,70.2,7.0,15.3,16.9,184.9,2.4,8.6,112.4,Mixed,9.6,Tube well,22,Traditional,0.94,5.59
+IND_KAR_0237,2022,Karnataka,Sugarcane,Annual,3.17,25.2,976.8,51.1,8.3,44.3,23.7,203.2,2.0,9.1,157.3,DAP,6.8,Tube well,16,Traditional,74.96,237.62
+IND_MAH_0238,2019,Maharashtra,Bajra,Kharif,0.79,25.4,552.5,54.7,6.2,49.7,17.9,162.3,2.3,5.0,130.8,NPK,0.0,Sprinkler,25,Desi,0.32,0.25
+IND_GUJ_0239,2020,Gujarat,Sugarcane,Annual,0.5,23.6,369.9,79.9,8.0,36.3,30.1,120.4,3.2,7.6,130.6,DAP,14.4,Sprinkler,27,Traditional,34.99,17.5
+IND_MAH_0240,2020,Maharashtra,Cotton,Kharif,3.58,28.0,661.4,58.8,7.3,21.4,39.3,203.1,3.3,7.3,111.5,Organic,3.2,Rain-fed,0,Traditional,0.29,1.04
+IND_WES_0241,2022,West Bengal,Potato,Rabi,3.52,25.9,1950.7,65.1,5.5,24.7,16.7,216.1,3.2,6.2,139.4,Urea,0.3,Rain-fed,0,Hybrid,6.74,23.72
+IND_RAJ_0242,2019,Rajasthan,Cotton,Kharif,2.06,39.6,364.8,47.1,5.9,28.0,28.3,96.8,0.5,6.3,142.1,Urea,14.0,Tube well,15,High Yielding Variety,0.13,0.27
+IND_AND_0243,2018,Andhra Pradesh,Sugarcane,Annual,2.18,32.3,682.0,84.2,7.4,40.4,15.9,151.2,0.8,6.5,138.1,Organic,3.1,Tube well,8,Hybrid,35.99,78.46
+IND_MAD_0244,2021,Madhya Pradesh,Sugarcane,Annual,3.89,35.2,641.1,50.4,7.0,42.3,21.3,129.5,3.0,8.2,38.0,NPK,13.8,Rain-fed,0,Traditional,11.66,45.36
+IND_MAH_0245,2023,Maharashtra,Cotton,Kharif,3.85,27.5,604.3,72.0,6.9,25.6,33.9,120.0,2.4,7.4,71.9,DAP,6.0,Canal,13,Desi,0.3,1.16
+IND_PUN_0246,2021,Punjab,Maize,Kharif,6.67,15.8,567.7,44.9,7.5,56.1,20.1,157.9,3.4,6.7,188.1,NPK,9.0,Drip,16,High Yielding Variety,3.57,23.81
+IND_RAJ_0247,2020,Rajasthan,Bajra,Kharif,1.53,36.9,521.0,78.2,7.4,32.0,29.6,154.9,1.2,5.5,112.6,NPK,9.5,Sprinkler,19,Desi,0.25,0.38
+IND_WES_0248,2019,West Bengal,Mustard,Rabi,5.44,28.7,1446.8,60.5,7.9,33.9,23.4,119.8,3.8,9.1,143.3,DAP,7.4,Rain-fed,0,Traditional,0.38,2.07
+IND_PUN_0249,2022,Punjab,Maize,Kharif,5.17,34.8,410.3,68.6,8.5,47.8,14.2,162.6,1.8,8.9,138.0,Organic,0.0,Tube well,13,Desi,1.28,6.62
+IND_GUJ_0250,2023,Gujarat,Rice,Kharif,2.43,23.8,550.9,63.9,7.4,32.7,14.0,186.7,4.1,6.8,95.5,DAP,10.5,Tube well,23,Traditional,0.81,1.97
+IND_PUN_0251,2021,Punjab,Rice,Kharif,7.44,16.0,415.8,67.4,5.5,50.8,20.6,135.6,2.7,8.2,50.8,NPK,15.5,Drip,24,High Yielding Variety,1.14,8.48
+IND_MAD_0252,2018,Madhya Pradesh,Rice,Kharif,3.89,24.6,1025.7,64.7,7.0,45.2,5.0,146.5,2.3,7.8,138.8,NPK,4.5,Rain-fed,0,Desi,1.02,3.97
+IND_UTT_0253,2023,Uttar Pradesh,Sugarcane,Annual,2.78,24.7,1122.4,51.0,5.0,30.5,11.7,92.9,1.8,7.6,173.1,DAP,9.6,Drip,26,Hybrid,81.11,225.49
+IND_UTT_0254,2023,Uttar Pradesh,Potato,Rabi,3.91,21.0,760.9,48.5,5.6,30.3,21.3,146.6,2.5,6.4,144.3,Organic,1.4,Rain-fed,0,Traditional,7.53,29.44
+IND_BIH_0255,2022,Bihar,Sugarcane,Annual,1.0,27.4,1120.3,52.5,8.1,41.2,27.8,168.3,1.9,7.2,88.8,DAP,14.7,Rain-fed,0,Hybrid,36.38,36.38
+IND_MAD_0256,2022,Madhya Pradesh,Maize,Kharif,4.79,19.9,1195.5,68.9,8.5,30.1,25.7,229.9,2.3,5.5,44.8,Urea,11.6,Drip,17,High Yielding Variety,0.47,2.25
+IND_GUJ_0257,2022,Gujarat,Bajra,Kharif,2.26,40.6,713.5,64.4,7.4,50.3,12.4,126.3,2.2,8.4,156.0,Urea,10.3,Tube well,18,Desi,0.45,1.02
+IND_MAD_0258,2018,Madhya Pradesh,Cotton,Kharif,0.64,32.3,961.9,67.4,8.5,15.1,15.8,124.3,3.4,6.0,150.3,Urea,14.9,Rain-fed,0,Desi,0.16,0.1
+IND_TAM_0259,2021,Tamil Nadu,Groundnut,Kharif,3.57,37.7,822.5,67.1,6.4,50.0,26.2,148.6,2.5,4.7,77.2,Organic,17.6,Sprinkler,24,High Yielding Variety,0.31,1.11
+IND_MAH_0260,2019,Maharashtra,Bajra,Kharif,3.38,25.9,931.1,61.8,8.0,35.1,42.9,91.6,3.6,7.0,150.9,Urea,10.2,Canal,21,Traditional,0.33,1.12
+IND_GUJ_0261,2021,Gujarat,Bajra,Kharif,3.46,35.4,840.2,41.4,7.8,47.7,22.9,155.2,2.1,6.5,167.5,Organic,15.2,Sprinkler,20,Hybrid,0.45,1.56
+IND_KAR_0262,2021,Karnataka,Sunflower,Rabi,3.09,31.5,858.8,80.3,8.5,24.5,17.0,158.1,3.3,6.7,85.1,Organic,12.4,Rain-fed,0,Desi,0.21,0.65
+IND_HAR_0263,2023,Haryana,Rice,Kharif,4.33,21.1,354.5,73.6,8.3,36.6,20.6,169.4,2.1,8.0,33.9,DAP,12.4,Rain-fed,0,High Yielding Variety,0.51,2.21
+IND_GUJ_0264,2023,Gujarat,Groundnut,Kharif,6.01,25.3,357.0,53.7,6.9,52.0,5.0,194.7,3.1,6.0,77.0,Urea,16.4,Rain-fed,0,High Yielding Variety,0.38,2.28
+IND_MAH_0265,2022,Maharashtra,Wheat,Rabi,0.69,22.7,905.9,71.4,7.4,22.7,28.8,187.1,3.2,7.6,190.4,NPK,8.0,Tube well,15,Desi,1.22,0.84
+IND_UTT_0266,2018,Uttar Pradesh,Wheat,Rabi,3.9,18.5,770.7,80.9,6.3,30.7,23.3,148.1,2.0,8.8,212.8,Mixed,9.0,Rain-fed,0,Desi,1.31,5.11
+IND_PUN_0267,2018,Punjab,Wheat,Rabi,1.8,27.8,728.0,62.6,7.2,27.9,11.3,179.2,3.5,6.3,183.6,DAP,10.9,Sprinkler,34,High Yielding Variety,2.16,3.89
+IND_BIH_0268,2019,Bihar,Sugarcane,Annual,0.5,28.4,1095.0,65.0,8.5,43.5,18.1,114.1,3.8,6.4,185.1,DAP,6.6,Canal,12,Traditional,78.05,39.02
+IND_BIH_0269,2019,Bihar,Maize,Kharif,4.36,24.5,1060.2,58.6,7.6,35.9,15.2,144.2,2.9,5.0,138.3,Organic,3.1,Tube well,24,Hybrid,0.9,3.92
+IND_MAH_0270,2023,Maharashtra,Sugarcane,Annual,0.5,22.3,1106.6,42.1,6.0,26.5,35.6,131.6,2.9,7.7,125.2,Organic,7.6,Sprinkler,16,Traditional,38.96,19.48
+IND_GUJ_0271,2021,Gujarat,Rice,Kharif,5.9,28.8,502.9,78.1,6.9,23.4,24.0,124.5,4.5,8.8,128.5,DAP,13.1,Sprinkler,20,Desi,1.78,10.5
+IND_WES_0272,2021,West Bengal,Jute,Kharif,1.87,29.0,1263.4,81.9,7.3,16.1,13.6,147.4,2.7,10.0,64.6,Organic,10.5,Rain-fed,0,Desi,1.9,3.55
+IND_GUJ_0273,2019,Gujarat,Rice,Kharif,7.54,38.2,770.1,56.0,7.4,33.8,23.5,61.4,3.3,7.6,111.1,Organic,18.2,Drip,35,High Yielding Variety,1.17,8.82
+IND_KAR_0274,2018,Karnataka,Cotton,Kharif,2.19,27.7,1115.2,70.6,7.1,45.1,21.7,104.8,2.4,6.3,116.9,Mixed,10.1,Canal,10,Hybrid,0.21,0.46
+IND_BIH_0275,2021,Bihar,Wheat,Rabi,0.5,34.4,1277.3,70.6,7.6,48.2,23.7,197.1,3.2,7.5,210.9,DAP,12.4,Drip,24,High Yielding Variety,1.75,0.88
+IND_WES_0276,2023,West Bengal,Maize,Kharif,0.5,29.4,1347.9,76.2,6.6,36.7,32.7,174.3,1.9,7.7,87.8,DAP,6.1,Rain-fed,0,Desi,0.72,0.36
+IND_BIH_0277,2021,Bihar,Wheat,Rabi,2.04,20.9,1198.9,47.4,5.0,59.6,28.7,136.8,2.8,6.2,187.8,NPK,17.5,Rain-fed,0,Traditional,1.06,2.16
+IND_AND_0278,2020,Andhra Pradesh,Groundnut,Kharif,5.05,41.3,529.2,76.4,6.0,30.1,21.1,134.1,2.6,7.2,116.8,Organic,8.3,Sprinkler,29,High Yielding Variety,0.77,3.89
+IND_KAR_0279,2020,Karnataka,Sunflower,Rabi,1.57,34.9,1147.5,64.7,8.1,9.7,29.2,198.5,2.6,3.9,105.5,NPK,7.7,Tube well,12,High Yielding Variety,0.16,0.25
+IND_GUJ_0280,2023,Gujarat,Sugarcane,Annual,1.97,22.2,874.0,75.3,7.8,23.9,7.2,138.6,2.6,8.0,98.6,DAP,10.6,Tube well,14,Traditional,50.61,99.7
+IND_AND_0281,2021,Andhra Pradesh,Cotton,Kharif,4.63,25.3,668.4,74.6,8.3,27.5,20.4,151.8,2.4,5.7,132.9,Organic,7.7,Drip,23,Desi,0.34,1.57
+IND_TAM_0282,2019,Tamil Nadu,Cotton,Kharif,1.93,30.0,1165.4,88.7,5.6,40.2,23.8,122.2,3.1,8.6,31.3,Mixed,10.5,Sprinkler,20,High Yielding Variety,0.16,0.31
+IND_PUN_0283,2023,Punjab,Barley,Rabi,4.14,17.7,463.5,76.3,6.7,20.9,18.4,222.4,1.3,6.9,179.9,DAP,17.3,Canal,21,Hybrid,2.35,9.73
+IND_HAR_0284,2019,Haryana,Barley,Rabi,3.04,27.1,549.6,66.8,6.5,34.4,18.7,161.6,4.0,9.1,76.9,Organic,14.9,Drip,16,Desi,0.96,2.92
+IND_PUN_0285,2018,Punjab,Sugarcane,Annual,10.75,24.8,453.3,74.7,6.7,16.2,22.8,237.9,1.3,8.2,145.6,Urea,8.6,Drip,32,Traditional,47.31,508.58
+IND_GUJ_0286,2021,Gujarat,Sugarcane,Annual,0.5,22.0,675.4,38.1,8.3,46.5,20.4,158.0,3.7,7.7,156.2,Urea,6.5,Rain-fed,0,Hybrid,34.32,17.16
+IND_HAR_0287,2019,Haryana,Rice,Kharif,9.28,27.4,413.3,61.9,6.5,27.3,13.5,112.7,4.5,9.6,196.8,Organic,1.9,Drip,26,Traditional,2.6,24.13
+IND_HAR_0288,2021,Haryana,Sugarcane,Annual,2.83,20.3,449.1,72.4,6.8,47.8,24.8,230.6,1.6,9.5,165.9,Urea,3.1,Tube well,17,High Yielding Variety,56.75,160.6
+IND_HAR_0289,2022,Haryana,Sugarcane,Annual,9.34,21.1,427.2,57.7,8.5,35.0,26.3,122.3,2.2,9.3,66.0,Organic,5.9,Canal,13,High Yielding Variety,35.46,331.2
+IND_AND_0290,2022,Andhra Pradesh,Groundnut,Kharif,3.22,40.8,682.0,80.5,7.9,23.2,17.7,191.8,3.5,5.7,134.1,Mixed,0.0,Rain-fed,0,High Yielding Variety,0.53,1.71
+IND_PUN_0291,2020,Punjab,Sugarcane,Annual,15.59,29.9,492.9,50.5,5.8,27.4,24.8,127.8,2.6,9.1,136.9,DAP,9.3,Canal,16,High Yielding Variety,58.48,911.7
+IND_KAR_0292,2022,Karnataka,Cotton,Kharif,3.74,34.4,901.3,71.0,7.0,23.1,19.7,121.6,1.9,7.3,128.5,DAP,11.9,Sprinkler,17,Traditional,0.25,0.94
+IND_RAJ_0293,2023,Rajasthan,Mustard,Rabi,3.82,19.4,460.6,65.5,7.3,39.4,20.1,77.0,2.9,9.5,105.6,Organic,4.4,Rain-fed,0,Traditional,0.66,2.52
+IND_BIH_0294,2022,Bihar,Rice,Kharif,3.62,22.5,1476.2,71.9,6.1,43.8,24.7,145.0,3.1,8.8,154.9,Urea,2.3,Rain-fed,0,Traditional,1.46,5.29
+IND_HAR_0295,2020,Haryana,Wheat,Rabi,7.74,17.1,601.1,60.7,8.3,34.0,11.0,136.2,2.9,9.5,144.1,NPK,3.7,Sprinkler,25,High Yielding Variety,6.7,51.86
+IND_TAM_0296,2022,Tamil Nadu,Cotton,Kharif,3.53,31.9,1214.4,79.3,8.0,49.6,28.5,180.5,2.5,6.4,133.3,DAP,12.7,Rain-fed,0,Desi,0.14,0.49
+IND_MAD_0297,2018,Madhya Pradesh,Cotton,Kharif,5.13,24.5,749.3,74.5,7.1,38.7,15.8,197.3,3.1,7.3,62.6,DAP,1.4,Rain-fed,0,Traditional,0.18,0.92
+IND_BIH_0298,2019,Bihar,Maize,Kharif,0.5,27.9,1440.0,90.0,8.5,32.8,19.1,184.8,4.2,5.6,48.5,NPK,4.9,Tube well,20,Traditional,0.77,0.38
+IND_HAR_0299,2021,Haryana,Cotton,Kharif,9.99,24.4,510.3,70.7,8.0,25.1,5.0,155.1,3.4,7.9,101.7,Urea,7.2,Drip,18,Hybrid,0.39,3.9
+IND_UTT_0300,2018,Uttar Pradesh,Potato,Rabi,0.5,22.4,600.1,52.9,7.7,38.9,21.3,115.2,2.7,4.9,127.1,Mixed,15.1,Drip,32,High Yielding Variety,9.92,4.96
+IND_RAJ_0301,2018,Rajasthan,Jowar,Kharif,1.83,16.1,597.4,63.3,8.3,29.6,14.5,81.1,2.9,9.3,131.1,Mixed,7.9,Sprinkler,17,Hybrid,0.96,1.76
+IND_GUJ_0302,2019,Gujarat,Rice,Kharif,2.98,36.6,449.2,62.3,7.2,23.3,30.4,173.3,2.4,8.6,100.1,DAP,4.1,Drip,23,Desi,0.75,2.24
+IND_HAR_0303,2021,Haryana,Cotton,Kharif,0.92,24.3,481.9,64.7,5.3,34.0,18.8,138.6,2.0,6.6,138.6,DAP,5.2,Canal,19,Traditional,0.29,0.27
+IND_BIH_0304,2021,Bihar,Wheat,Rabi,1.23,22.2,1035.3,61.8,8.4,42.0,16.7,159.0,2.6,7.6,107.0,NPK,7.2,Drip,15,Desi,1.42,1.75
+IND_RAJ_0305,2021,Rajasthan,Bajra,Kharif,1.01,26.3,327.0,49.8,6.1,36.9,12.9,168.0,2.8,4.4,146.2,Mixed,12.1,Tube well,17,Traditional,0.27,0.27
+IND_BIH_0306,2019,Bihar,Maize,Kharif,3.84,29.8,1043.7,47.4,5.6,30.4,19.0,136.1,1.9,7.1,130.8,NPK,7.8,Rain-fed,0,Traditional,0.75,2.88
+IND_BIH_0307,2022,Bihar,Sugarcane,Annual,1.66,31.3,1096.0,71.7,8.3,40.8,18.4,131.5,3.6,5.9,81.2,Organic,6.0,Rain-fed,0,Traditional,31.78,52.75
+IND_MAH_0308,2020,Maharashtra,Jowar,Kharif,3.76,27.6,505.8,53.9,6.6,46.7,9.0,206.3,3.5,8.5,101.5,Mixed,7.3,Tube well,25,Hybrid,0.93,3.5
+IND_PUN_0309,2023,Punjab,Maize,Kharif,5.9,17.2,753.5,64.9,8.4,21.7,17.1,144.7,1.7,8.9,91.0,Organic,7.0,Drip,17,Desi,1.89,11.15
+IND_UTT_0310,2020,Uttar Pradesh,Rice,Kharif,1.42,19.8,1146.5,59.9,7.0,30.5,14.2,161.2,4.1,7.7,159.8,Organic,1.0,Sprinkler,27,High Yielding Variety,2.4,3.41
+IND_RAJ_0311,2022,Rajasthan,Mustard,Rabi,0.81,37.8,302.5,45.2,8.1,37.9,7.7,143.1,3.0,7.0,46.2,NPK,3.5,Sprinkler,32,High Yielding Variety,0.37,0.3
+IND_BIH_0312,2022,Bihar,Jute,Kharif,4.07,28.8,1175.8,61.4,8.0,43.3,24.7,122.0,1.3,7.1,160.1,NPK,15.0,Canal,11,Hybrid,2.21,8.99
+IND_UTT_0313,2022,Uttar Pradesh,Wheat,Rabi,3.86,25.9,630.8,63.8,8.5,23.7,32.9,138.7,3.9,5.8,143.4,NPK,4.3,Rain-fed,0,Desi,0.73,2.82
+IND_AND_0314,2020,Andhra Pradesh,Rice,Kharif,3.44,29.3,949.2,63.0,7.1,34.0,24.4,183.2,2.8,9.5,129.0,Organic,6.3,Tube well,22,Traditional,1.78,6.12
+IND_TAM_0315,2023,Tamil Nadu,Coconut,Annual,2.47,25.0,819.6,72.3,8.1,40.5,10.6,156.0,3.3,8.9,155.5,Urea,11.8,Drip,15,Desi,6.1,15.07
+IND_MAH_0316,2018,Maharashtra,Cotton,Kharif,3.78,26.8,918.8,56.5,6.5,39.5,29.8,129.1,0.9,6.7,156.5,NPK,10.7,Rain-fed,0,Hybrid,0.26,0.98
+IND_MAH_0317,2022,Maharashtra,Sugarcane,Annual,2.44,23.3,965.3,47.2,8.5,41.8,15.4,128.6,2.7,6.9,164.7,Organic,8.9,Sprinkler,18,Desi,38.28,93.4
+IND_KAR_0318,2023,Karnataka,Rice,Kharif,6.78,34.4,1175.4,75.4,7.9,27.7,22.9,160.9,1.3,9.4,171.6,DAP,6.0,Drip,35,High Yielding Variety,2.46,16.68
+IND_BIH_0319,2022,Bihar,Wheat,Rabi,3.7,33.1,1461.3,60.9,7.7,52.4,24.5,113.3,3.9,9.6,246.1,Organic,2.4,Sprinkler,29,Hybrid,1.96,7.25
+IND_MAD_0320,2021,Madhya Pradesh,Cotton,Kharif,0.5,22.7,1083.1,79.2,6.5,14.7,16.2,80.9,3.4,4.8,121.1,Organic,0.0,Tube well,22,Desi,0.1,0.05
+IND_PUN_0321,2020,Punjab,Barley,Rabi,14.57,24.7,434.2,63.6,7.2,40.7,9.1,170.7,0.6,7.4,100.5,NPK,11.2,Canal,11,Hybrid,1.51,22.0
+IND_KAR_0322,2020,Karnataka,Rice,Kharif,0.5,32.0,649.6,67.1,7.4,34.1,15.4,133.2,3.4,6.4,116.5,Mixed,18.8,Rain-fed,0,Desi,0.43,0.22
+IND_MAD_0323,2022,Madhya Pradesh,Cotton,Kharif,0.5,25.6,664.0,67.8,6.5,31.9,32.8,178.1,3.5,5.6,74.0,Organic,0.0,Canal,19,Traditional,0.17,0.08
+IND_RAJ_0324,2022,Rajasthan,Bajra,Kharif,4.91,24.5,566.1,59.8,6.6,37.5,26.1,93.4,3.0,7.9,103.4,DAP,11.5,Tube well,18,High Yielding Variety,0.63,3.09
+IND_MAH_0325,2023,Maharashtra,Soybean,Kharif,2.79,32.1,463.8,63.9,7.6,37.3,11.8,157.2,4.0,7.7,158.5,Mixed,6.8,Sprinkler,28,Hybrid,0.78,2.18
+IND_AND_0326,2023,Andhra Pradesh,Sugarcane,Annual,3.56,35.2,578.8,67.1,6.6,37.3,22.4,108.4,3.6,8.0,91.8,Organic,0.3,Tube well,25,Hybrid,26.55,94.52
+IND_MAH_0327,2021,Maharashtra,Soybean,Kharif,2.11,26.5,774.8,61.1,6.9,31.3,25.1,125.6,4.1,4.9,172.4,DAP,6.9,Drip,15,Desi,1.01,2.13
+IND_WES_0328,2021,West Bengal,Mustard,Rabi,3.16,27.0,1863.7,66.2,8.5,33.6,21.8,193.2,2.0,8.5,96.4,Organic,7.3,Rain-fed,0,Desi,0.29,0.92
+IND_TAM_0329,2019,Tamil Nadu,Rice,Kharif,0.5,29.6,1291.5,68.8,8.4,45.6,19.5,158.5,2.6,8.7,112.0,DAP,9.2,Drip,22,Traditional,3.42,1.71
+IND_TAM_0330,2022,Tamil Nadu,Groundnut,Kharif,1.45,30.9,1104.1,88.0,6.9,32.1,5.0,134.1,2.0,6.4,114.5,Mixed,12.8,Canal,16,Traditional,0.54,0.78
+IND_PUN_0331,2022,Punjab,Maize,Kharif,9.23,28.3,567.7,49.0,6.5,54.9,18.1,150.1,3.7,9.7,115.6,NPK,6.1,Sprinkler,18,Hybrid,4.15,38.3
+IND_PUN_0332,2018,Punjab,Cotton,Kharif,9.35,25.0,764.0,66.2,8.5,39.6,22.5,96.8,0.7,8.7,116.2,Mixed,5.4,Canal,15,Hybrid,0.6,5.61
+IND_BIH_0333,2019,Bihar,Sugarcane,Annual,2.88,21.2,1274.9,71.3,8.1,32.4,24.2,133.3,2.3,7.7,120.5,Mixed,10.4,Tube well,14,High Yielding Variety,52.45,151.06
+IND_KAR_0334,2020,Karnataka,Cotton,Kharif,0.5,33.2,843.9,72.6,7.0,46.8,14.3,96.0,2.7,6.4,81.4,NPK,7.1,Rain-fed,0,Traditional,0.18,0.09
+IND_RAJ_0335,2019,Rajasthan,Wheat,Rabi,2.98,20.4,551.0,63.1,8.5,30.9,22.2,132.2,2.1,6.1,100.8,Urea,9.8,Rain-fed,0,Desi,1.58,4.71
+IND_MAH_0336,2023,Maharashtra,Rice,Kharif,1.57,28.6,421.7,64.0,7.4,50.4,5.0,66.5,2.4,8.5,57.4,DAP,0.0,Rain-fed,0,Hybrid,1.03,1.62
+IND_BIH_0337,2023,Bihar,Wheat,Rabi,3.49,25.1,1139.5,49.1,7.3,27.5,24.0,50.1,2.1,6.2,109.7,Organic,5.3,Tube well,16,Desi,0.99,3.46
+IND_TAM_0338,2021,Tamil Nadu,Rice,Kharif,0.5,38.6,803.1,75.4,7.7,57.3,16.1,161.4,1.4,4.2,153.8,Organic,8.0,Drip,26,Desi,0.84,0.42
+IND_KAR_0339,2023,Karnataka,Rice,Kharif,0.5,29.1,1156.0,79.2,7.4,35.1,7.4,197.4,2.3,7.6,57.5,Urea,2.1,Rain-fed,0,Traditional,1.57,0.78
+IND_GUJ_0340,2019,Gujarat,Rice,Kharif,2.31,30.7,776.4,41.6,8.0,27.9,25.6,150.9,1.6,7.6,207.8,Mixed,10.5,Drip,24,Traditional,2.0,4.62
+IND_RAJ_0341,2020,Rajasthan,Mustard,Rabi,5.15,19.2,406.1,62.1,7.4,47.4,13.3,199.9,2.7,5.7,159.9,Urea,6.6,Rain-fed,0,High Yielding Variety,0.71,3.66
+IND_HAR_0342,2018,Haryana,Sugarcane,Annual,6.83,35.3,505.2,62.9,5.4,21.5,27.4,145.4,2.4,6.4,76.8,Urea,0.0,Tube well,22,Desi,19.02,129.91
+IND_AND_0343,2023,Andhra Pradesh,Cotton,Kharif,1.8,41.5,746.7,67.3,8.5,16.9,29.3,184.1,2.2,7.5,101.7,NPK,8.9,Drip,17,Traditional,0.38,0.68
+IND_HAR_0344,2018,Haryana,Rice,Kharif,10.42,20.2,644.6,45.2,7.0,49.5,7.8,113.1,2.9,6.8,88.3,Urea,5.9,Drip,22,Desi,0.64,6.67
+IND_BIH_0345,2021,Bihar,Wheat,Rabi,1.05,26.6,1195.5,67.0,6.6,43.8,18.4,133.7,2.8,5.5,139.8,Urea,9.9,Tube well,24,Desi,0.7,0.74
+IND_PUN_0346,2021,Punjab,Wheat,Rabi,12.02,28.7,525.1,61.5,6.9,34.8,19.1,192.7,1.9,7.3,161.5,Organic,5.0,Sprinkler,17,Hybrid,3.62,43.51
+IND_HAR_0347,2018,Haryana,Barley,Rabi,14.8,29.9,695.6,56.0,7.8,21.2,26.0,157.0,3.2,7.2,53.6,DAP,10.5,Drip,19,Desi,0.33,4.88
+IND_MAD_0348,2018,Madhya Pradesh,Maize,Kharif,2.37,31.9,1133.4,79.5,8.1,27.2,20.2,148.3,1.5,6.2,97.6,NPK,0.0,Canal,13,Desi,0.58,1.37
+IND_BIH_0349,2021,Bihar,Wheat,Rabi,2.5,22.4,1463.9,43.3,7.6,43.6,21.8,138.7,3.3,8.4,132.3,Urea,3.9,Sprinkler,21,High Yielding Variety,2.14,5.35
+IND_UTT_0350,2023,Uttar Pradesh,Peas,Rabi,5.39,30.9,875.0,54.7,7.2,26.9,21.8,89.0,2.4,6.2,125.4,DAP,13.0,Sprinkler,25,Hybrid,0.38,2.05
+IND_MAH_0351,2022,Maharashtra,Sugarcane,Annual,0.5,22.1,919.6,80.4,7.3,37.1,14.7,156.9,2.3,6.7,92.5,DAP,0.8,Drip,15,Traditional,34.09,17.05
+IND_GUJ_0352,2023,Gujarat,Groundnut,Kharif,4.17,38.4,726.2,63.2,6.7,45.1,9.1,118.5,2.0,8.7,157.7,Organic,10.4,Canal,15,Desi,0.97,4.04
+IND_HAR_0353,2022,Haryana,Wheat,Rabi,4.48,29.0,693.9,63.5,7.1,45.2,19.1,136.5,3.2,9.1,93.3,NPK,7.7,Rain-fed,0,High Yielding Variety,1.13,5.06
+IND_KAR_0354,2020,Karnataka,Ragi,Kharif,0.5,34.1,1112.9,77.1,5.4,30.8,5.0,197.9,1.9,8.5,157.8,Urea,3.5,Tube well,23,High Yielding Variety,0.7,0.35
+IND_RAJ_0355,2019,Rajasthan,Bajra,Kharif,3.7,16.2,419.0,51.6,5.6,8.2,21.8,130.3,2.4,7.6,166.9,Mixed,6.6,Canal,20,Traditional,0.47,1.74
+IND_AND_0356,2018,Andhra Pradesh,Sugarcane,Annual,4.0,33.9,615.5,79.4,7.8,11.8,13.9,119.3,2.9,7.9,179.9,NPK,5.5,Tube well,16,High Yielding Variety,37.27,149.08
+IND_HAR_0357,2019,Haryana,Rice,Kharif,12.6,16.3,367.2,63.0,8.3,38.5,10.7,103.3,1.6,8.8,167.5,NPK,17.2,Sprinkler,33,High Yielding Variety,1.87,23.56
+IND_BIH_0358,2018,Bihar,Wheat,Rabi,5.33,23.7,1176.2,68.5,7.6,36.3,23.1,161.3,3.8,9.2,141.8,Mixed,12.2,Sprinkler,18,Desi,1.77,9.43
+IND_RAJ_0359,2018,Rajasthan,Barley,Rabi,2.08,34.2,291.4,67.6,6.1,38.4,13.2,169.4,2.8,4.9,136.8,Organic,5.1,Tube well,8,Hybrid,0.59,1.23
+IND_KAR_0360,2019,Karnataka,Sugarcane,Annual,3.0,23.9,1116.7,70.3,6.8,45.3,33.4,121.8,3.7,4.4,72.2,NPK,3.2,Drip,18,High Yielding Variety,25.03,75.09
+IND_AND_0361,2020,Andhra Pradesh,Rice,Kharif,0.5,40.5,659.4,78.3,7.8,38.2,25.3,147.6,1.9,8.6,96.4,Organic,3.3,Rain-fed,0,High Yielding Variety,0.78,0.39
+IND_TAM_0362,2021,Tamil Nadu,Rice,Kharif,1.17,36.9,870.7,77.8,6.4,29.1,28.6,167.4,4.5,8.5,165.8,NPK,1.1,Rain-fed,0,Hybrid,1.48,1.73
+IND_UTT_0363,2022,Uttar Pradesh,Wheat,Rabi,2.89,35.8,941.7,54.5,7.7,24.5,25.9,127.7,3.0,7.1,111.2,Urea,11.8,Canal,15,High Yielding Variety,0.91,2.63
+IND_PUN_0364,2020,Punjab,Sugarcane,Annual,15.78,23.8,524.1,63.7,7.7,33.8,19.5,164.4,2.6,9.9,153.6,Mixed,12.4,Tube well,13,High Yielding Variety,53.44,843.28
+IND_BIH_0365,2019,Bihar,Pulses,Kharif,2.84,31.3,1073.0,57.0,6.7,42.9,11.4,210.2,2.1,7.9,151.7,Urea,5.1,Sprinkler,25,Traditional,0.38,1.08
+IND_RAJ_0366,2019,Rajasthan,Wheat,Rabi,0.54,44.0,562.1,74.5,7.2,27.8,17.6,178.3,2.3,5.9,111.1,Organic,2.1,Canal,20,High Yielding Variety,1.57,0.85
+IND_MAH_0367,2020,Maharashtra,Jowar,Kharif,1.87,21.4,445.3,68.3,7.4,23.2,20.0,177.4,2.6,8.6,160.9,DAP,12.6,Sprinkler,15,Traditional,0.73,1.37
+IND_MAH_0368,2023,Maharashtra,Soybean,Kharif,0.84,32.7,456.6,65.5,5.2,34.9,21.3,140.3,3.8,7.7,172.4,DAP,6.9,Sprinkler,26,Desi,0.62,0.52
+IND_BIH_0369,2019,Bihar,Potato,Rabi,6.27,27.5,1072.2,73.1,6.9,40.9,25.5,120.6,2.9,5.2,177.7,Mixed,5.4,Sprinkler,15,Hybrid,6.72,42.13
+IND_KAR_0370,2020,Karnataka,Rice,Kharif,2.38,27.9,1014.4,74.9,7.1,29.6,33.8,118.9,3.4,7.4,170.5,DAP,4.7,Sprinkler,24,High Yielding Variety,2.54,6.05
+IND_GUJ_0371,2021,Gujarat,Jowar,Kharif,5.19,29.1,455.0,64.3,7.5,45.1,14.6,48.0,3.2,5.9,39.3,NPK,0.0,Rain-fed,0,Hybrid,0.52,2.7
+IND_HAR_0372,2022,Haryana,Rice,Kharif,8.51,32.0,507.9,66.4,8.5,18.3,19.7,93.4,2.6,7.7,145.1,Mixed,8.2,Drip,29,High Yielding Variety,2.06,17.53
+IND_HAR_0373,2018,Haryana,Sugarcane,Annual,10.81,18.6,481.5,81.5,7.4,25.4,31.9,140.1,2.3,7.4,148.7,DAP,7.2,Canal,21,Hybrid,28.35,306.46
+IND_MAH_0374,2021,Maharashtra,Soybean,Kharif,6.33,30.3,467.4,66.5,5.7,40.8,11.6,178.8,2.0,8.0,164.2,NPK,12.3,Rain-fed,0,Traditional,0.49,3.1
+IND_TAM_0375,2019,Tamil Nadu,Rice,Kharif,2.54,28.7,1294.0,70.4,8.5,26.6,11.7,173.3,2.2,6.0,62.3,DAP,5.6,Canal,12,High Yielding Variety,1.89,4.8
+IND_TAM_0376,2018,Tamil Nadu,Groundnut,Kharif,3.49,30.1,803.5,82.6,7.7,32.7,18.4,167.9,3.8,7.3,101.2,Organic,3.0,Tube well,22,Traditional,0.61,2.13
+IND_MAH_0377,2019,Maharashtra,Rice,Kharif,4.33,28.0,1157.7,65.8,8.5,29.2,27.6,148.6,2.3,7.9,136.4,Mixed,9.8,Rain-fed,0,Traditional,1.9,8.23
+IND_PUN_0378,2019,Punjab,Cotton,Kharif,7.85,16.0,460.0,83.9,8.3,43.7,20.9,185.3,3.2,8.2,107.9,Mixed,7.6,Tube well,19,Desi,0.11,0.86
+IND_PUN_0379,2019,Punjab,Cotton,Kharif,8.84,25.1,706.1,55.1,6.1,34.4,11.6,166.6,3.0,9.3,88.4,Urea,8.2,Sprinkler,29,Hybrid,0.51,4.51
+IND_TAM_0380,2018,Tamil Nadu,Sugarcane,Annual,4.4,37.1,1208.9,75.0,7.6,54.3,17.7,154.9,1.9,6.1,123.9,Organic,13.5,Tube well,12,Hybrid,42.76,188.14
+IND_KAR_0381,2022,Karnataka,Rice,Kharif,2.53,33.4,703.1,71.7,6.7,38.5,8.0,194.8,2.3,7.9,69.2,DAP,11.3,Canal,8,High Yielding Variety,1.2,3.04
+IND_MAD_0382,2018,Madhya Pradesh,Rice,Kharif,3.77,21.0,1120.0,50.1,7.4,20.8,18.0,186.0,3.4,7.3,81.0,Urea,11.2,Rain-fed,0,Traditional,0.82,3.09
+IND_PUN_0383,2019,Punjab,Barley,Rabi,0.5,32.0,597.2,67.8,6.2,8.0,22.2,160.2,1.4,7.0,230.2,Organic,6.5,Rain-fed,0,Desi,0.64,0.32
+IND_TAM_0384,2019,Tamil Nadu,Groundnut,Kharif,1.7,32.3,967.0,72.9,6.8,33.6,22.1,144.7,1.8,7.7,42.0,Organic,0.0,Tube well,16,Traditional,0.53,0.9
+IND_UTT_0385,2023,Uttar Pradesh,Rice,Kharif,4.01,25.5,754.9,59.4,7.0,15.8,14.1,172.8,3.9,7.0,150.3,Urea,0.0,Sprinkler,32,Desi,1.69,6.78
+IND_HAR_0386,2021,Haryana,Rice,Kharif,4.78,17.0,648.4,63.1,7.0,50.8,13.0,172.0,2.6,7.8,112.6,Organic,3.8,Tube well,25,High Yielding Variety,1.27,6.07
+IND_BIH_0387,2020,Bihar,Sugarcane,Annual,2.87,36.6,1272.4,62.4,8.0,22.4,27.0,108.5,3.3,8.3,43.5,Organic,8.5,Rain-fed,0,Traditional,21.54,61.82
+IND_MAH_0388,2022,Maharashtra,Soybean,Kharif,1.48,27.5,1005.0,51.9,7.3,43.2,18.9,190.8,3.2,4.6,98.8,Mixed,5.2,Drip,16,Desi,0.52,0.77
+IND_KAR_0389,2019,Karnataka,Maize,Kharif,0.5,30.1,1356.9,90.0,8.3,63.1,27.0,183.2,2.9,6.8,101.0,DAP,3.9,Tube well,16,High Yielding Variety,0.92,0.46
+IND_RAJ_0390,2020,Rajasthan,Jowar,Kharif,0.5,22.6,370.0,61.9,7.2,36.8,15.8,257.7,3.9,5.3,129.3,DAP,5.0,Rain-fed,0,Hybrid,0.22,0.11
+IND_WES_0391,2022,West Bengal,Potato,Rabi,0.5,23.5,1976.1,78.5,6.6,46.6,28.0,198.1,2.1,8.4,145.3,Mixed,5.6,Drip,33,Hybrid,12.26,6.13
+IND_WES_0392,2022,West Bengal,Mustard,Rabi,6.22,34.0,1720.2,68.4,6.1,28.2,19.0,112.8,2.8,5.8,75.2,Urea,11.4,Sprinkler,16,High Yielding Variety,0.36,2.24
+IND_WES_0393,2022,West Bengal,Rice,Kharif,2.22,26.9,1321.1,66.9,7.8,46.1,16.0,109.6,3.0,6.8,99.3,DAP,14.6,Drip,34,Hybrid,3.07,6.82
+IND_KAR_0394,2018,Karnataka,Sunflower,Rabi,3.32,29.2,739.6,83.5,6.9,51.2,30.3,208.2,3.0,7.7,176.6,Urea,10.2,Tube well,11,Traditional,0.47,1.56
+IND_KAR_0395,2021,Karnataka,Groundnut,Kharif,2.1,28.0,739.2,76.9,8.2,8.7,32.3,189.3,2.4,7.7,120.1,DAP,14.1,Drip,24,Traditional,1.32,2.77
+IND_UTT_0396,2023,Uttar Pradesh,Maize,Kharif,0.5,25.0,1157.0,60.8,6.5,56.0,28.3,124.1,1.7,7.0,137.4,DAP,9.2,Rain-fed,0,Traditional,1.3,0.65
+IND_BIH_0397,2022,Bihar,Jute,Kharif,4.58,23.7,1284.4,69.7,7.0,47.7,19.6,167.6,2.5,6.4,115.1,Mixed,9.5,Rain-fed,0,Hybrid,0.81,3.71
+IND_UTT_0398,2019,Uttar Pradesh,Sugarcane,Annual,2.53,32.5,786.9,57.1,8.5,53.3,19.4,114.7,1.1,5.7,65.0,DAP,14.9,Canal,20,High Yielding Variety,30.0,75.9
+IND_RAJ_0399,2023,Rajasthan,Barley,Rabi,3.78,35.1,271.2,37.8,7.5,33.2,24.5,207.3,2.6,6.9,127.7,Urea,20.0,Sprinkler,19,Traditional,0.35,1.32
+IND_WES_0400,2019,West Bengal,Potato,Rabi,4.37,23.1,1354.7,74.1,7.7,27.1,19.6,174.9,5.3,8.8,86.1,NPK,5.9,Rain-fed,0,High Yielding Variety,7.99,34.92
+IND_TAM_0401,2019,Tamil Nadu,Sugarcane,Annual,0.5,28.7,1122.6,72.4,8.1,40.9,14.1,145.0,4.1,8.0,120.4,Urea,6.8,Drip,23,High Yielding Variety,100.9,50.45
+IND_PUN_0402,2019,Punjab,Sugarcane,Annual,5.95,33.4,787.4,39.0,8.5,36.9,23.2,148.0,2.2,8.0,56.0,Mixed,19.4,Sprinkler,27,Traditional,30.06,178.86
+IND_AND_0403,2022,Andhra Pradesh,Sugarcane,Annual,0.94,33.1,998.1,71.5,6.1,50.1,25.8,168.8,3.4,10.0,207.4,Urea,4.6,Tube well,13,Desi,93.35,87.75
+IND_PUN_0404,2020,Punjab,Cotton,Kharif,9.53,20.6,626.0,58.3,6.5,44.9,28.6,77.4,2.8,9.5,112.5,NPK,11.6,Rain-fed,0,High Yielding Variety,0.4,3.81
+IND_UTT_0405,2023,Uttar Pradesh,Barley,Rabi,3.68,19.2,1133.2,57.3,6.1,21.5,25.7,150.7,2.7,7.0,107.8,Urea,13.2,Canal,18,Desi,0.71,2.61
+IND_AND_0406,2022,Andhra Pradesh,Maize,Kharif,0.5,30.9,1049.2,75.3,8.5,34.8,22.3,108.7,2.6,8.0,57.8,Urea,9.0,Rain-fed,0,Hybrid,0.77,0.38
+IND_HAR_0407,2021,Haryana,Rice,Kharif,8.17,31.5,546.8,70.4,6.3,36.6,20.7,112.6,3.6,10.0,119.3,DAP,10.5,Drip,24,Traditional,1.87,15.28
+IND_HAR_0408,2019,Haryana,Sugarcane,Annual,5.15,32.8,698.9,41.8,6.6,18.3,33.6,146.0,2.5,9.1,75.1,NPK,4.2,Canal,21,High Yielding Variety,48.74,251.01
+IND_MAD_0409,2019,Madhya Pradesh,Cotton,Kharif,5.06,33.5,1181.4,65.0,7.6,37.4,11.8,151.6,1.9,7.4,100.8,Urea,20.7,Tube well,13,Traditional,0.17,0.86
+IND_TAM_0410,2021,Tamil Nadu,Millets,Kharif,0.5,39.3,991.8,88.4,6.7,16.0,26.5,101.7,2.5,6.8,117.2,DAP,11.4,Drip,17,Desi,0.27,0.14
+IND_KAR_0411,2019,Karnataka,Sunflower,Rabi,2.45,23.1,1246.1,74.9,7.3,36.2,23.5,179.5,3.1,7.5,56.7,NPK,8.3,Drip,29,Desi,0.42,1.03
+IND_WES_0412,2019,West Bengal,Maize,Kharif,4.46,34.7,1324.6,69.5,6.6,28.1,24.3,186.2,2.5,8.9,124.9,Urea,7.4,Rain-fed,0,High Yielding Variety,0.98,4.37
+IND_MAD_0413,2022,Madhya Pradesh,Cotton,Kharif,4.49,29.0,964.2,63.3,7.7,28.6,13.0,149.6,2.9,10.0,112.6,Mixed,2.3,Canal,20,Desi,0.33,1.48
+IND_MAD_0414,2022,Madhya Pradesh,Sugarcane,Annual,0.5,32.1,605.1,67.9,8.1,29.0,18.8,123.2,1.9,7.7,69.1,NPK,5.9,Rain-fed,0,Desi,11.99,6.0
+IND_HAR_0415,2022,Haryana,Wheat,Rabi,10.2,23.7,497.1,78.0,7.1,35.2,21.7,134.4,2.6,8.4,161.6,DAP,0.0,Tube well,11,Desi,3.48,35.5
+IND_UTT_0416,2019,Uttar Pradesh,Barley,Rabi,3.43,31.4,846.2,53.6,7.2,41.7,15.3,85.4,2.5,8.7,106.5,DAP,3.8,Canal,21,Hybrid,0.88,3.02
+IND_RAJ_0417,2018,Rajasthan,Wheat,Rabi,2.34,42.6,411.7,54.9,8.5,44.9,29.3,132.3,2.0,6.9,124.3,NPK,2.6,Sprinkler,32,Traditional,1.14,2.67
+IND_GUJ_0418,2023,Gujarat,Cotton,Kharif,3.8,39.1,758.5,62.9,6.7,28.8,10.4,212.5,2.8,7.1,82.8,DAP,22.7,Sprinkler,18,Desi,0.19,0.72
+IND_UTT_0419,2018,Uttar Pradesh,Wheat,Rabi,2.14,34.2,1015.7,64.2,8.5,41.1,11.6,141.0,3.0,10.0,64.1,Organic,14.0,Canal,17,Traditional,1.11,2.38
+IND_MAH_0420,2022,Maharashtra,Wheat,Rabi,4.68,21.7,759.8,67.5,7.8,46.7,19.9,129.0,1.6,8.2,137.0,Organic,3.2,Canal,13,Traditional,1.4,6.55
+IND_UTT_0421,2018,Uttar Pradesh,Potato,Rabi,2.07,23.0,792.3,45.2,6.8,26.1,7.0,220.8,3.8,6.6,130.9,Organic,10.1,Drip,22,High Yielding Variety,13.43,27.8
+IND_MAH_0422,2020,Maharashtra,Rice,Kharif,1.36,23.0,504.3,70.9,6.7,19.0,25.8,195.2,4.9,5.8,148.0,NPK,6.0,Rain-fed,0,Traditional,0.63,0.86
+IND_MAH_0423,2023,Maharashtra,Bajra,Kharif,0.5,30.9,458.2,47.4,6.6,42.9,28.2,171.0,4.1,7.7,71.3,Organic,14.8,Tube well,12,Traditional,0.63,0.32
+IND_KAR_0424,2022,Karnataka,Ragi,Kharif,4.82,29.4,1196.3,63.0,6.4,50.9,18.6,152.8,3.4,7.8,131.2,Organic,7.0,Tube well,22,Hybrid,0.76,3.66
+IND_BIH_0425,2018,Bihar,Maize,Kharif,4.72,35.4,1207.6,65.5,7.1,24.8,13.9,115.7,2.6,9.1,87.8,Mixed,8.9,Tube well,10,Traditional,0.8,3.78
+IND_AND_0426,2019,Andhra Pradesh,Rice,Kharif,2.48,41.3,984.4,62.9,7.0,32.7,24.3,157.8,1.8,8.6,128.4,Urea,9.0,Tube well,9,Hybrid,1.8,4.46
+IND_TAM_0427,2023,Tamil Nadu,Cotton,Kharif,1.96,39.9,1003.9,76.7,7.6,14.0,15.7,141.1,3.0,8.5,89.1,Urea,5.5,Drip,29,Desi,0.18,0.35
+IND_MAD_0428,2021,Madhya Pradesh,Soybean,Kharif,1.4,37.0,1143.5,56.5,7.9,22.4,23.4,90.4,2.4,6.9,187.0,NPK,6.6,Tube well,23,Traditional,0.24,0.34
+IND_UTT_0429,2023,Uttar Pradesh,Maize,Kharif,0.5,32.6,1124.8,60.3,7.4,48.9,15.7,181.3,1.5,6.4,47.7,NPK,6.6,Rain-fed,0,High Yielding Variety,0.55,0.28
+IND_PUN_0430,2022,Punjab,Rice,Kharif,8.46,17.0,610.7,58.1,5.9,51.4,17.6,132.9,4.1,6.7,75.0,DAP,2.5,Tube well,15,Hybrid,0.9,7.61
+IND_MAH_0431,2023,Maharashtra,Cotton,Kharif,3.86,29.6,816.3,67.4,7.7,28.3,15.3,128.3,2.1,9.2,153.7,DAP,8.1,Tube well,13,High Yielding Variety,0.85,3.28
+IND_MAH_0432,2023,Maharashtra,Soybean,Kharif,0.5,23.2,1174.4,46.7,5.2,26.6,21.3,153.6,2.9,5.5,152.1,Organic,9.2,Rain-fed,0,Traditional,0.35,0.18
+IND_AND_0433,2020,Andhra Pradesh,Sunflower,Rabi,0.5,31.1,607.8,77.5,7.7,36.1,13.2,150.2,1.6,8.7,111.8,Mixed,13.6,Drip,31,Desi,0.66,0.33
+IND_HAR_0434,2022,Haryana,Cotton,Kharif,5.91,31.4,443.0,52.9,7.8,30.4,5.0,130.0,1.9,8.0,72.4,Organic,12.6,Drip,24,High Yielding Variety,0.44,2.6
+IND_HAR_0435,2023,Haryana,Cotton,Kharif,7.29,25.8,663.7,66.6,6.5,13.7,14.5,128.4,2.9,7.6,147.5,DAP,4.9,Drip,23,Traditional,0.55,4.01
+IND_UTT_0436,2018,Uttar Pradesh,Rice,Kharif,5.37,26.3,1186.7,54.0,6.6,24.8,15.7,176.4,2.6,5.9,190.7,NPK,9.6,Rain-fed,0,Desi,1.18,6.34
+IND_MAD_0437,2023,Madhya Pradesh,Wheat,Rabi,2.12,27.7,989.5,61.1,8.1,51.8,15.0,140.3,2.0,7.1,118.5,Organic,11.3,Drip,23,Desi,0.99,2.1
+IND_AND_0438,2023,Andhra Pradesh,Chillies,Kharif,1.5,33.0,686.0,77.3,7.4,31.1,21.0,203.0,3.1,6.9,100.0,NPK,7.2,Rain-fed,0,Hybrid,0.87,1.3
+IND_BIH_0439,2022,Bihar,Jute,Kharif,2.63,34.7,1179.9,59.8,8.5,40.4,20.7,151.3,0.9,8.5,125.4,DAP,10.1,Sprinkler,26,Traditional,1.37,3.6
+IND_MAD_0440,2020,Madhya Pradesh,Maize,Kharif,2.23,38.2,817.3,56.2,8.5,40.2,9.8,145.5,2.3,4.7,184.0,NPK,11.5,Tube well,16,Hybrid,1.09,2.43
+IND_MAD_0441,2019,Madhya Pradesh,Soybean,Kharif,3.33,40.4,1101.0,46.2,6.8,45.1,11.6,61.4,2.6,7.1,125.4,Organic,11.6,Rain-fed,0,Traditional,0.3,1.0
+IND_KAR_0442,2021,Karnataka,Sugarcane,Annual,3.52,26.5,1097.2,79.0,7.8,20.1,8.0,123.9,2.3,7.9,95.4,Urea,3.7,Rain-fed,0,Desi,32.5,114.4
+IND_MAD_0443,2021,Madhya Pradesh,Wheat,Rabi,5.24,23.8,647.1,60.1,8.4,26.0,30.5,157.4,2.7,10.0,77.8,Organic,6.2,Rain-fed,0,High Yielding Variety,1.27,6.65
+IND_GUJ_0444,2019,Gujarat,Cotton,Kharif,4.9,32.9,652.1,72.2,7.0,30.6,6.6,221.3,3.2,6.8,173.1,Mixed,3.1,Tube well,18,Desi,0.44,2.16
+IND_TAM_0445,2018,Tamil Nadu,Sugarcane,Annual,2.65,35.9,810.2,80.1,7.1,17.6,20.6,186.7,2.8,8.0,78.2,Urea,7.9,Tube well,18,High Yielding Variety,32.18,85.28
+IND_TAM_0446,2022,Tamil Nadu,Sugarcane,Annual,4.49,38.5,1255.4,75.3,7.8,48.1,25.5,159.6,2.0,7.1,98.7,Mixed,6.3,Sprinkler,17,Hybrid,45.04,202.23
+IND_AND_0447,2021,Andhra Pradesh,Sugarcane,Annual,1.04,35.2,544.7,59.3,6.0,35.2,35.2,185.8,4.1,7.8,166.7,Urea,4.4,Rain-fed,0,Desi,16.44,17.1
+IND_PUN_0448,2018,Punjab,Cotton,Kharif,0.5,28.0,407.3,71.9,8.5,28.4,18.0,123.6,3.1,9.5,50.3,DAP,10.0,Tube well,8,High Yielding Variety,0.4,0.2
+IND_WES_0449,2020,West Bengal,Potato,Rabi,3.23,25.4,1253.6,78.7,7.0,46.6,23.4,157.7,1.8,7.3,155.9,DAP,8.2,Sprinkler,31,Traditional,9.92,32.04
+IND_HAR_0450,2020,Haryana,Mustard,Rabi,15.07,34.1,392.9,70.4,7.3,28.9,5.0,144.1,2.5,8.5,113.8,NPK,6.4,Drip,28,Hybrid,0.79,11.91
+IND_TAM_0451,2019,Tamil Nadu,Sugarcane,Annual,1.12,32.3,1169.3,78.8,7.5,46.4,13.5,162.8,2.2,8.1,126.1,Urea,9.5,Rain-fed,0,Desi,37.08,41.53
+IND_WES_0452,2019,West Bengal,Jute,Kharif,4.41,27.8,1694.3,72.3,7.4,44.4,15.5,50.8,3.9,8.7,50.3,Urea,5.0,Rain-fed,0,Hybrid,1.94,8.56
+IND_KAR_0453,2021,Karnataka,Maize,Kharif,5.9,31.2,641.6,82.5,7.1,48.5,13.0,121.8,3.6,6.9,175.1,Mixed,4.6,Rain-fed,0,Traditional,1.35,7.97
+IND_RAJ_0454,2023,Rajasthan,Wheat,Rabi,1.16,44.8,496.7,60.1,5.9,29.1,8.5,174.3,3.4,4.7,173.4,Organic,20.5,Canal,9,High Yielding Variety,1.29,1.5
+IND_TAM_0455,2021,Tamil Nadu,Cotton,Kharif,1.72,32.6,888.2,90.0,7.4,51.1,22.9,132.5,2.0,6.7,79.7,Organic,8.2,Tube well,8,Traditional,0.24,0.41
+IND_MAD_0456,2022,Madhya Pradesh,Soybean,Kharif,0.5,27.2,1076.8,47.3,7.0,35.8,6.0,161.6,2.0,9.4,141.0,Mixed,6.0,Tube well,21,High Yielding Variety,0.95,0.48
+IND_BIH_0457,2018,Bihar,Maize,Kharif,2.79,20.2,1221.2,66.1,7.3,27.8,17.3,77.0,3.6,8.0,89.1,DAP,17.5,Rain-fed,0,Desi,0.7,1.95
+IND_RAJ_0458,2022,Rajasthan,Bajra,Kharif,0.93,23.5,171.2,68.6,7.6,39.7,16.6,165.8,2.6,7.5,43.8,Organic,5.8,Rain-fed,0,Traditional,0.19,0.18
+IND_MAH_0459,2019,Maharashtra,Wheat,Rabi,1.47,33.4,400.3,54.0,6.8,20.4,5.0,141.9,2.9,7.1,114.2,Urea,8.2,Sprinkler,25,Hybrid,2.03,2.98
+IND_PUN_0460,2022,Punjab,Wheat,Rabi,7.24,21.0,437.8,65.8,8.5,27.5,20.8,161.8,2.0,8.2,61.4,Urea,0.0,Tube well,10,High Yielding Variety,3.98,28.82
+IND_MAH_0461,2020,Maharashtra,Wheat,Rabi,2.23,22.1,794.2,62.0,7.2,20.2,31.1,102.5,2.6,5.9,142.8,Urea,6.3,Canal,11,Hybrid,1.2,2.68
+IND_MAH_0462,2021,Maharashtra,Soybean,Kharif,4.71,35.8,425.0,60.3,7.7,23.2,8.8,153.8,2.5,8.0,116.8,Urea,9.0,Rain-fed,0,High Yielding Variety,0.25,1.18
+IND_PUN_0463,2020,Punjab,Barley,Rabi,15.55,16.4,477.5,58.4,7.8,25.0,22.5,104.4,3.2,7.8,121.2,Urea,11.5,Sprinkler,34,Traditional,1.45,22.55
+IND_KAR_0464,2018,Karnataka,Maize,Kharif,1.63,22.6,814.8,78.7,8.5,33.3,24.7,146.3,4.4,4.9,123.8,Organic,0.0,Sprinkler,23,Desi,0.62,1.01
+IND_AND_0465,2018,Andhra Pradesh,Cotton,Kharif,3.59,29.9,525.3,76.1,8.5,31.9,24.1,127.3,3.0,7.0,103.6,Organic,17.1,Canal,13,High Yielding Variety,0.5,1.8
+IND_RAJ_0466,2019,Rajasthan,Mustard,Rabi,3.27,29.4,317.9,87.0,7.0,48.2,31.5,157.7,2.1,3.9,147.4,Mixed,3.9,Rain-fed,0,Traditional,0.17,0.56
+IND_PUN_0467,2021,Punjab,Barley,Rabi,3.0,34.7,624.5,57.3,6.2,49.4,15.2,91.4,2.7,8.2,126.4,Organic,14.8,Rain-fed,0,High Yielding Variety,0.66,1.98
+IND_TAM_0468,2023,Tamil Nadu,Cotton,Kharif,2.76,27.4,1247.5,66.2,7.9,37.2,16.6,83.3,4.0,5.6,96.3,Organic,9.8,Tube well,18,High Yielding Variety,0.16,0.44
+IND_MAD_0469,2020,Madhya Pradesh,Sugarcane,Annual,0.5,24.1,1095.1,38.8,8.5,23.1,12.6,130.2,3.0,6.7,144.5,DAP,3.1,Rain-fed,0,Desi,22.23,11.12
+IND_GUJ_0470,2018,Gujarat,Sugarcane,Annual,0.5,30.3,520.6,57.0,6.6,49.9,29.8,138.3,1.4,6.7,96.0,Organic,4.7,Tube well,24,Desi,22.16,11.08
+IND_UTT_0471,2020,Uttar Pradesh,Potato,Rabi,1.69,30.8,645.1,56.1,7.5,24.1,30.2,115.7,1.5,8.0,87.3,Mixed,9.6,Drip,16,Hybrid,7.23,12.22
+IND_MAD_0472,2018,Madhya Pradesh,Rice,Kharif,5.78,24.4,962.4,45.2,8.5,26.2,13.3,70.7,2.5,7.0,148.6,Organic,1.0,Sprinkler,17,Desi,1.07,6.18
+IND_KAR_0473,2023,Karnataka,Ragi,Kharif,3.9,30.0,867.3,83.1,7.2,48.1,19.4,61.7,2.7,8.3,84.3,Organic,6.1,Rain-fed,0,High Yielding Variety,0.93,3.63
+IND_AND_0474,2018,Andhra Pradesh,Rice,Kharif,0.5,31.3,907.2,79.0,7.1,50.1,23.2,141.8,2.1,8.3,45.1,Mixed,11.2,Rain-fed,0,Traditional,0.8,0.4
+IND_GUJ_0475,2020,Gujarat,Rice,Kharif,5.5,22.8,377.9,61.6,7.8,36.0,6.0,119.9,3.3,7.6,167.2,NPK,10.0,Canal,15,Desi,0.84,4.62
+IND_GUJ_0476,2021,Gujarat,Sugarcane,Annual,1.41,37.3,333.8,61.0,5.1,55.1,23.5,192.9,1.5,8.9,209.3,Urea,1.4,Drip,29,High Yielding Variety,50.76,71.57
+IND_MAD_0477,2020,Madhya Pradesh,Soybean,Kharif,3.0,38.2,1020.8,44.6,6.7,49.0,6.7,97.7,2.9,7.3,91.3,Mixed,12.0,Rain-fed,0,Traditional,0.32,0.96
+IND_GUJ_0478,2018,Gujarat,Cotton,Kharif,4.72,40.8,545.4,55.5,8.5,25.2,36.8,151.2,1.7,9.0,125.0,DAP,12.3,Rain-fed,0,Desi,0.24,1.13
+IND_BIH_0479,2018,Bihar,Pulses,Kharif,3.68,29.0,1447.0,54.1,7.8,9.2,23.6,127.6,4.1,8.3,129.6,Organic,10.4,Tube well,14,High Yielding Variety,0.37,1.36
+IND_WES_0480,2023,West Bengal,Jute,Kharif,6.25,22.0,1296.1,90.0,7.6,54.1,15.4,122.1,2.8,8.3,104.2,Organic,10.7,Sprinkler,16,High Yielding Variety,1.88,11.75
+IND_TAM_0481,2021,Tamil Nadu,Sugarcane,Annual,1.0,33.7,1252.0,79.2,8.2,20.4,23.7,109.0,1.9,6.3,82.3,Mixed,5.3,Canal,25,Desi,33.96,33.96
+IND_TAM_0482,2023,Tamil Nadu,Maize,Kharif,4.67,28.7,1024.2,84.1,6.4,34.3,23.6,157.0,3.7,7.7,85.5,Mixed,18.9,Tube well,11,Desi,1.12,5.23
+IND_RAJ_0483,2021,Rajasthan,Maize,Kharif,2.71,42.0,487.8,69.6,8.5,31.7,17.5,154.1,3.7,5.0,41.4,NPK,5.1,Tube well,16,Desi,0.34,0.92
+IND_MAH_0484,2019,Maharashtra,Sugarcane,Annual,2.15,23.3,951.3,45.7,7.3,45.4,6.4,178.7,3.5,8.3,168.7,Mixed,19.0,Drip,32,Traditional,54.12,116.36
+IND_MAD_0485,2022,Madhya Pradesh,Rice,Kharif,3.22,36.7,900.2,55.8,6.0,24.7,31.0,185.7,2.5,8.3,133.6,DAP,15.5,Rain-fed,0,Traditional,0.83,2.67
+IND_BIH_0486,2022,Bihar,Wheat,Rabi,5.05,29.3,1288.9,60.5,7.9,30.6,39.1,156.3,2.6,6.6,163.9,Mixed,12.3,Drip,18,Traditional,0.91,4.6
+IND_TAM_0487,2023,Tamil Nadu,Groundnut,Kharif,4.15,39.0,1139.1,62.9,8.5,25.8,9.8,118.7,1.7,8.7,181.9,Mixed,9.6,Drip,28,High Yielding Variety,1.04,4.32
+IND_HAR_0488,2018,Haryana,Rice,Kharif,8.54,16.7,478.4,56.9,5.8,38.2,19.7,176.1,2.9,7.8,85.2,NPK,8.4,Tube well,16,Hybrid,1.17,9.99
+IND_MAD_0489,2023,Madhya Pradesh,Wheat,Rabi,0.71,18.0,1086.1,60.9,7.4,26.4,15.3,158.1,1.9,7.7,84.2,Mixed,13.3,Rain-fed,0,Hybrid,1.37,0.97
+IND_PUN_0490,2018,Punjab,Sugarcane,Annual,4.56,18.4,696.7,70.4,6.1,40.8,13.0,142.8,2.0,9.2,86.5,DAP,10.8,Tube well,25,Desi,30.82,140.54
+IND_GUJ_0491,2020,Gujarat,Sugarcane,Annual,2.77,33.5,352.6,61.5,8.5,25.7,29.4,202.4,2.1,5.7,132.1,Organic,5.3,Canal,20,Desi,25.28,70.03
+IND_MAD_0492,2018,Madhya Pradesh,Wheat,Rabi,3.07,24.0,794.7,70.9,6.7,35.5,27.6,133.1,2.8,7.3,147.3,Mixed,11.0,Rain-fed,0,Hybrid,0.95,2.92
+IND_TAM_0493,2023,Tamil Nadu,Coconut,Annual,3.13,33.2,909.7,72.0,8.5,24.4,13.8,119.5,3.4,7.6,113.7,DAP,3.4,Drip,33,Hybrid,7.29,22.82
+IND_MAH_0494,2019,Maharashtra,Cotton,Kharif,0.5,25.1,1152.4,61.4,8.0,20.0,7.7,205.3,2.3,8.6,113.8,Organic,7.2,Rain-fed,0,High Yielding Variety,0.2,0.1
+IND_PUN_0495,2019,Punjab,Cotton,Kharif,4.46,19.0,565.4,61.3,7.5,31.8,18.7,107.6,4.1,9.3,158.6,Organic,6.5,Drip,15,Traditional,0.32,1.43
+IND_BIH_0496,2019,Bihar,Potato,Rabi,6.91,21.2,1232.3,64.2,8.3,34.7,30.2,187.9,1.9,6.8,158.3,Mixed,0.0,Rain-fed,0,High Yielding Variety,7.98,55.14
+IND_MAD_0497,2018,Madhya Pradesh,Soybean,Kharif,0.5,21.3,718.0,55.2,6.7,21.8,38.3,215.4,1.9,9.2,104.0,Mixed,8.6,Rain-fed,0,Traditional,0.6,0.3
+IND_WES_0498,2022,West Bengal,Maize,Kharif,1.68,29.1,1910.3,71.2,6.0,24.3,6.9,150.4,1.8,7.5,174.8,DAP,14.0,Sprinkler,17,Traditional,1.53,2.57
+IND_WES_0499,2020,West Bengal,Potato,Rabi,2.83,25.4,1907.9,90.0,5.9,39.7,26.6,127.9,3.0,7.4,112.6,Urea,0.0,Sprinkler,32,High Yielding Variety,9.51,26.91
+IND_MAD_0500,2023,Madhya Pradesh,Rice,Kharif,4.94,30.9,629.6,52.4,7.5,32.4,12.5,196.6,3.5,6.6,139.9,Organic,10.7,Tube well,9,Traditional,1.04,5.14
+IND_HAR_0501,2018,Haryana,Cotton,Kharif,1.22,21.3,392.7,70.1,8.5,38.6,16.9,72.8,3.9,6.4,79.9,Mixed,6.3,Rain-fed,0,Traditional,0.14,0.17
+IND_GUJ_0502,2020,Gujarat,Cotton,Kharif,4.55,40.5,467.3,54.0,7.3,35.9,27.8,183.9,3.2,7.0,149.7,NPK,7.5,Rain-fed,0,Hybrid,0.14,0.64
+IND_GUJ_0503,2019,Gujarat,Cotton,Kharif,2.19,26.0,319.7,60.8,8.0,32.8,10.3,152.0,2.9,7.6,156.8,Urea,13.1,Rain-fed,0,High Yielding Variety,0.19,0.42
+IND_WES_0504,2023,West Bengal,Jute,Kharif,1.77,30.9,1375.8,86.6,6.9,32.1,31.7,167.7,3.1,6.4,147.1,Urea,3.4,Canal,14,Desi,1.47,2.6
+IND_BIH_0505,2021,Bihar,Rice,Kharif,2.31,23.8,1227.7,54.1,8.1,48.5,5.0,184.2,2.2,8.6,117.3,Urea,8.1,Rain-fed,0,High Yielding Variety,1.86,4.3
+IND_HAR_0506,2022,Haryana,Cotton,Kharif,12.85,28.7,427.4,71.0,7.8,62.9,15.8,183.5,2.7,9.5,119.7,Organic,6.1,Tube well,16,Desi,0.52,6.68
+IND_TAM_0507,2020,Tamil Nadu,Groundnut,Kharif,2.02,37.4,913.8,63.7,8.5,36.3,30.5,102.5,2.4,6.8,115.4,Mixed,8.4,Canal,25,High Yielding Variety,0.55,1.11
+IND_HAR_0508,2023,Haryana,Barley,Rabi,6.22,22.9,690.6,50.7,7.1,33.3,18.7,151.1,2.9,7.5,170.9,NPK,2.2,Drip,31,High Yielding Variety,1.14,7.09
+IND_MAD_0509,2020,Madhya Pradesh,Wheat,Rabi,8.56,33.2,754.3,49.6,5.3,32.2,37.2,95.9,1.2,5.5,155.9,Organic,13.6,Rain-fed,0,Desi,0.41,3.51
+IND_AND_0510,2021,Andhra Pradesh,Maize,Kharif,4.37,35.0,851.1,73.0,5.1,25.1,16.6,140.9,2.6,8.6,171.0,Mixed,7.1,Tube well,12,Desi,1.82,7.95
+IND_MAH_0511,2020,Maharashtra,Rice,Kharif,3.72,30.6,1124.3,60.6,8.5,17.7,15.9,145.6,3.2,8.7,119.0,Urea,0.9,Drip,15,Hybrid,3.49,12.98
+IND_PUN_0512,2022,Punjab,Sugarcane,Annual,11.02,25.0,522.1,44.1,6.6,24.2,26.5,154.1,1.8,9.3,62.6,NPK,9.7,Canal,17,Hybrid,38.49,424.16
+IND_WES_0513,2019,West Bengal,Jute,Kharif,2.27,32.1,1686.9,79.0,7.1,38.7,16.5,156.4,3.2,7.7,47.8,DAP,9.7,Drip,21,High Yielding Variety,2.27,5.15
+IND_MAD_0514,2022,Madhya Pradesh,Maize,Kharif,1.64,33.5,824.4,64.9,7.0,21.4,13.4,195.6,2.9,6.6,140.4,NPK,3.9,Canal,17,High Yielding Variety,1.56,2.56
+IND_HAR_0515,2020,Haryana,Sugarcane,Annual,13.41,35.3,394.3,55.3,6.6,8.0,8.1,103.1,2.9,7.6,66.2,Mixed,6.6,Tube well,11,Traditional,25.45,341.28
+IND_HAR_0516,2021,Haryana,Mustard,Rabi,10.11,25.7,454.5,46.2,8.0,44.4,12.8,123.2,2.4,5.3,133.4,Mixed,6.6,Drip,33,Hybrid,0.94,9.5
+IND_RAJ_0517,2021,Rajasthan,Bajra,Kharif,0.8,26.3,292.5,53.8,6.1,47.0,14.4,154.3,2.5,5.3,113.3,Organic,11.0,Drip,22,Hybrid,0.33,0.26
+IND_MAH_0518,2023,Maharashtra,Rice,Kharif,4.62,22.5,446.8,51.5,6.8,41.4,14.7,151.3,2.5,7.4,24.8,Organic,0.0,Rain-fed,0,Desi,0.47,2.17
+IND_TAM_0519,2021,Tamil Nadu,Cotton,Kharif,5.07,38.1,896.3,67.7,7.8,10.7,12.9,138.4,3.4,10.0,110.9,DAP,1.0,Tube well,10,Traditional,0.33,1.67
+IND_GUJ_0520,2023,Gujarat,Cotton,Kharif,5.64,22.1,628.8,69.6,7.8,22.7,23.1,184.9,3.7,7.3,105.7,Mixed,14.1,Canal,24,High Yielding Variety,0.25,1.41
+IND_RAJ_0521,2018,Rajasthan,Barley,Rabi,3.88,42.4,509.0,46.3,8.2,31.9,30.1,167.2,1.8,8.5,182.0,NPK,12.4,Sprinkler,35,Hybrid,0.9,3.49
+IND_AND_0522,2019,Andhra Pradesh,Groundnut,Kharif,2.39,25.3,853.4,88.5,7.3,8.0,22.7,137.8,2.7,6.9,152.3,Mixed,13.6,Canal,20,Traditional,0.74,1.77
+IND_PUN_0523,2022,Punjab,Rice,Kharif,6.64,16.5,604.2,59.6,7.7,40.5,32.3,193.9,2.3,9.2,82.0,Organic,11.5,Tube well,13,Hybrid,1.15,7.64
+IND_KAR_0524,2019,Karnataka,Ragi,Kharif,0.95,27.4,1006.8,61.0,7.0,36.0,17.0,94.7,2.1,7.5,143.3,DAP,7.9,Drip,22,High Yielding Variety,1.8,1.71
+IND_GUJ_0525,2021,Gujarat,Jowar,Kharif,3.79,24.5,564.7,52.5,7.1,48.3,25.5,199.1,2.6,9.0,112.3,NPK,15.4,Sprinkler,16,High Yielding Variety,1.47,5.57
+IND_HAR_0526,2023,Haryana,Mustard,Rabi,10.83,25.3,624.8,62.2,8.4,33.4,9.4,225.0,2.4,8.2,166.2,NPK,5.0,Tube well,20,Desi,0.48,5.2
+IND_RAJ_0527,2022,Rajasthan,Wheat,Rabi,3.51,16.6,221.3,42.1,6.9,37.9,17.8,96.0,4.1,6.9,177.2,NPK,6.7,Tube well,24,Desi,0.88,3.09
+IND_KAR_0528,2022,Karnataka,Ragi,Kharif,3.54,24.0,949.6,86.8,6.6,12.9,30.6,132.3,2.3,4.9,189.6,DAP,1.6,Tube well,22,Hybrid,0.94,3.33
+IND_HAR_0529,2019,Haryana,Cotton,Kharif,11.65,21.2,522.0,64.2,6.5,37.3,13.7,157.1,3.3,9.2,71.0,DAP,19.0,Tube well,19,High Yielding Variety,0.41,4.78
+IND_AND_0530,2018,Andhra Pradesh,Chillies,Kharif,3.0,34.5,823.0,63.5,7.0,8.0,21.5,162.8,2.8,6.5,38.0,Mixed,9.9,Sprinkler,30,Hybrid,0.79,2.37
+IND_UTT_0531,2018,Uttar Pradesh,Potato,Rabi,1.82,29.4,752.2,64.4,6.8,25.9,13.9,136.2,3.1,5.9,104.1,Mixed,7.8,Tube well,13,Hybrid,5.18,9.43
+IND_PUN_0532,2018,Punjab,Barley,Rabi,15.19,20.4,482.7,50.2,8.5,41.6,12.5,188.7,3.0,8.5,106.2,Mixed,4.3,Tube well,24,Desi,1.77,26.89
+IND_RAJ_0533,2018,Rajasthan,Bajra,Kharif,1.91,43.3,213.7,78.2,6.1,53.4,19.1,160.5,3.5,6.0,154.6,DAP,0.0,Sprinkler,30,Hybrid,0.24,0.46
+IND_AND_0534,2022,Andhra Pradesh,Cotton,Kharif,1.15,32.0,602.7,78.1,7.8,37.9,14.7,162.9,2.9,8.4,151.1,Organic,8.2,Drip,20,Traditional,0.45,0.52
+IND_RAJ_0535,2021,Rajasthan,Barley,Rabi,1.69,39.3,210.8,54.5,7.8,34.4,20.1,155.0,2.4,5.7,49.8,Mixed,4.5,Canal,8,Hybrid,0.34,0.57
+IND_GUJ_0536,2022,Gujarat,Groundnut,Kharif,1.59,20.0,657.7,57.6,7.6,41.2,11.4,184.9,3.7,6.0,87.0,Mixed,14.0,Sprinkler,34,High Yielding Variety,0.72,1.14
+IND_GUJ_0537,2021,Gujarat,Bajra,Kharif,0.5,23.4,555.8,46.0,6.8,35.4,31.7,139.8,3.7,9.1,177.4,NPK,9.4,Canal,21,Desi,0.36,0.18
+IND_PUN_0538,2019,Punjab,Sugarcane,Annual,9.84,17.7,755.0,70.5,7.1,55.9,26.9,169.9,3.7,8.6,20.3,Organic,5.5,Rain-fed,0,Desi,22.26,219.04
+IND_KAR_0539,2021,Karnataka,Rice,Kharif,1.38,33.9,672.8,73.2,6.3,56.4,33.5,119.1,2.9,6.2,144.6,NPK,10.5,Sprinkler,22,High Yielding Variety,1.23,1.7
+IND_RAJ_0540,2020,Rajasthan,Jowar,Kharif,3.66,29.6,393.9,42.9,6.8,16.2,8.1,115.0,2.1,5.7,140.7,Mixed,5.5,Canal,24,High Yielding Variety,0.54,1.98
+IND_PUN_0541,2023,Punjab,Rice,Kharif,11.58,32.7,488.6,52.3,5.5,8.0,22.8,167.2,4.5,8.4,152.8,DAP,7.0,Sprinkler,26,High Yielding Variety,2.08,24.09
+IND_AND_0542,2020,Andhra Pradesh,Groundnut,Kharif,6.33,33.5,708.7,90.0,7.5,54.8,15.0,148.9,2.8,4.6,73.3,Mixed,2.5,Rain-fed,0,Desi,0.35,2.22
+IND_KAR_0543,2019,Karnataka,Ragi,Kharif,4.74,27.4,1328.8,77.6,8.3,35.1,20.5,140.7,3.3,6.5,159.1,Mixed,2.3,Sprinkler,20,Traditional,0.56,2.65
+IND_GUJ_0544,2022,Gujarat,Wheat,Rabi,4.37,20.8,545.5,68.9,6.7,32.6,31.2,203.9,4.1,7.1,169.2,DAP,3.3,Sprinkler,19,High Yielding Variety,3.33,14.55
+IND_TAM_0545,2018,Tamil Nadu,Maize,Kharif,0.5,31.6,845.6,88.4,6.4,43.3,17.0,104.3,3.2,5.4,86.5,DAP,0.0,Sprinkler,25,High Yielding Variety,0.89,0.44
+IND_AND_0546,2018,Andhra Pradesh,Maize,Kharif,3.36,26.8,1028.3,59.3,5.9,35.0,15.7,219.7,4.3,6.3,142.3,Mixed,11.7,Rain-fed,0,Desi,0.71,2.39
+IND_AND_0547,2019,Andhra Pradesh,Groundnut,Kharif,0.5,25.1,695.3,74.9,7.6,26.0,10.8,153.8,3.1,5.9,157.1,Mixed,0.0,Canal,20,Desi,0.75,0.38
+IND_MAD_0548,2019,Madhya Pradesh,Wheat,Rabi,2.48,23.4,712.8,78.7,6.4,64.3,23.5,153.2,3.2,10.0,80.3,Mixed,2.4,Sprinkler,15,Hybrid,1.67,4.14
+IND_MAH_0549,2022,Maharashtra,Sugarcane,Annual,3.06,34.9,802.6,42.7,7.3,31.5,15.1,181.4,2.1,9.4,197.3,Urea,9.3,Canal,19,Hybrid,53.9,164.93
+IND_UTT_0550,2021,Uttar Pradesh,Sugarcane,Annual,5.06,24.3,1052.2,54.7,6.0,39.9,25.3,102.8,2.4,5.9,84.0,Mixed,10.8,Sprinkler,27,Hybrid,41.42,209.59
+IND_PUN_0551,2018,Punjab,Barley,Rabi,6.8,22.7,792.8,43.7,6.5,32.7,21.4,121.5,1.6,10.0,94.7,DAP,7.5,Drip,26,Traditional,1.4,9.52
+IND_RAJ_0552,2021,Rajasthan,Jowar,Kharif,10.06,19.5,196.7,47.6,7.6,26.5,15.7,124.8,1.9,6.8,61.0,Mixed,12.7,Drip,20,Desi,0.22,2.21
+IND_HAR_0553,2020,Haryana,Cotton,Kharif,9.69,31.8,394.5,55.3,6.2,30.7,13.1,118.8,1.1,9.6,92.5,Mixed,13.8,Rain-fed,0,Traditional,0.31,3.0
+IND_RAJ_0554,2021,Rajasthan,Mustard,Rabi,0.5,32.0,362.3,77.5,7.2,38.1,15.0,165.1,2.2,4.4,67.1,Organic,8.1,Tube well,18,Desi,0.18,0.09
+IND_RAJ_0555,2018,Rajasthan,Jowar,Kharif,2.87,37.9,266.2,49.3,7.4,34.9,27.0,166.8,4.0,6.2,102.8,DAP,1.5,Sprinkler,35,Hybrid,0.26,0.75
+IND_KAR_0556,2022,Karnataka,Sugarcane,Annual,4.93,30.5,1167.5,60.6,8.2,12.9,27.2,137.1,3.4,5.4,166.8,Urea,0.7,Drip,22,Traditional,43.91,216.48
+IND_AND_0557,2018,Andhra Pradesh,Groundnut,Kharif,1.0,37.0,806.9,61.0,8.5,36.2,28.9,158.1,3.2,6.9,127.8,NPK,10.7,Tube well,23,Traditional,0.48,0.48
+IND_WES_0558,2019,West Bengal,Mustard,Rabi,2.85,34.0,1576.2,66.5,7.2,57.9,29.3,197.2,2.8,8.2,160.1,Organic,15.8,Rain-fed,0,Hybrid,0.25,0.71
+IND_BIH_0559,2020,Bihar,Wheat,Rabi,0.5,36.5,1067.0,73.1,7.0,26.9,10.0,130.6,1.7,10.0,119.1,DAP,7.7,Tube well,15,Traditional,1.35,0.68
+IND_HAR_0560,2023,Haryana,Wheat,Rabi,11.85,30.5,594.3,53.7,6.9,44.2,15.8,149.8,3.1,8.9,48.9,Mixed,11.6,Rain-fed,0,Desi,1.12,13.27
+IND_PUN_0561,2021,Punjab,Barley,Rabi,10.83,27.1,650.7,67.8,8.4,52.3,22.3,151.1,3.5,9.1,107.6,Organic,10.0,Drip,30,Traditional,0.87,9.42
+IND_UTT_0562,2020,Uttar Pradesh,Peas,Rabi,1.29,28.3,1097.5,80.5,5.7,28.3,20.3,189.8,3.1,7.9,74.9,Organic,2.2,Tube well,9,Desi,0.3,0.39
+IND_GUJ_0563,2021,Gujarat,Wheat,Rabi,0.5,23.8,700.6,54.7,8.5,49.7,7.4,117.4,1.0,6.5,150.7,Organic,5.9,Rain-fed,0,Hybrid,1.36,0.68
+IND_HAR_0564,2020,Haryana,Sugarcane,Annual,1.91,21.5,638.4,60.1,7.1,19.7,10.8,183.9,3.1,9.3,133.0,Mixed,8.7,Canal,14,Desi,25.16,48.06
+IND_HAR_0565,2019,Haryana,Cotton,Kharif,6.92,27.1,581.5,59.7,8.5,42.2,14.3,154.1,3.0,6.9,104.6,Mixed,7.0,Tube well,16,Desi,0.47,3.25
+IND_KAR_0566,2021,Karnataka,Ragi,Kharif,0.5,26.3,1176.3,64.0,8.3,43.8,30.0,178.0,4.4,7.7,113.7,NPK,9.7,Drip,26,Desi,0.91,0.46
+IND_TAM_0567,2022,Tamil Nadu,Sugarcane,Annual,1.44,30.1,1038.3,69.8,7.3,12.4,20.4,180.3,2.4,9.1,61.6,Mixed,14.0,Canal,16,Hybrid,76.03,109.48
+IND_AND_0568,2019,Andhra Pradesh,Maize,Kharif,0.5,33.0,847.7,68.0,5.9,32.4,19.0,153.6,2.6,8.1,104.5,Organic,0.0,Rain-fed,0,Hybrid,1.03,0.52
+IND_PUN_0569,2019,Punjab,Sugarcane,Annual,0.5,26.3,445.8,63.5,8.4,23.6,28.5,134.8,4.2,7.8,86.4,Organic,11.4,Rain-fed,0,Traditional,25.13,12.56
+IND_MAH_0570,2021,Maharashtra,Cotton,Kharif,1.32,39.5,605.5,55.2,7.2,51.1,5.0,150.8,3.3,7.4,172.4,NPK,7.6,Tube well,9,Hybrid,0.34,0.45
+IND_TAM_0571,2021,Tamil Nadu,Maize,Kharif,4.18,37.9,914.2,75.8,6.6,27.7,15.8,197.4,0.3,7.6,121.4,Mixed,0.0,Drip,26,Traditional,1.26,5.27
+IND_GUJ_0572,2020,Gujarat,Jowar,Kharif,3.95,29.3,610.3,73.7,6.5,43.2,25.9,119.3,3.3,6.9,37.1,Mixed,13.8,Canal,19,Hybrid,0.78,3.08
+IND_RAJ_0573,2020,Rajasthan,Barley,Rabi,1.29,27.0,591.0,56.0,7.7,18.9,14.1,145.9,4.3,6.7,163.4,Organic,8.2,Sprinkler,29,High Yielding Variety,0.54,0.7
+IND_RAJ_0574,2019,Rajasthan,Barley,Rabi,2.51,43.1,320.2,73.7,7.5,49.2,12.3,135.5,2.2,7.2,105.6,Organic,11.6,Rain-fed,0,Traditional,0.37,0.93
+IND_MAD_0575,2018,Madhya Pradesh,Cotton,Kharif,3.09,31.0,876.6,66.9,6.9,10.7,21.3,151.2,2.7,8.5,149.9,NPK,9.5,Drip,22,Traditional,0.46,1.42
+IND_MAD_0576,2022,Madhya Pradesh,Soybean,Kharif,2.79,28.0,960.6,61.4,7.3,44.8,13.2,89.0,2.9,7.6,179.6,Mixed,1.6,Drip,29,Traditional,1.2,3.35
+IND_GUJ_0577,2019,Gujarat,Jowar,Kharif,7.73,28.9,419.0,56.2,7.2,41.8,15.3,204.4,1.9,5.3,164.3,NPK,0.0,Canal,12,Hybrid,0.74,5.72
+IND_BIH_0578,2019,Bihar,Potato,Rabi,9.24,22.4,1248.0,59.4,7.2,36.9,25.3,113.6,4.2,7.9,149.1,Organic,4.9,Canal,11,High Yielding Variety,14.36,132.69
+IND_GUJ_0579,2022,Gujarat,Rice,Kharif,2.49,26.0,471.4,62.8,7.8,29.7,13.2,127.5,3.4,6.6,115.3,Urea,8.1,Rain-fed,0,High Yielding Variety,0.59,1.47
+IND_MAH_0580,2023,Maharashtra,Cotton,Kharif,0.5,22.3,940.9,70.6,8.1,43.6,34.6,147.1,3.3,6.5,218.1,NPK,17.9,Rain-fed,0,Desi,0.15,0.08
+IND_WES_0581,2021,West Bengal,Potato,Rabi,3.77,33.8,1953.6,85.9,7.1,27.1,27.0,152.7,2.9,6.8,51.3,Mixed,9.2,Rain-fed,0,Hybrid,5.33,20.09
+IND_UTT_0582,2020,Uttar Pradesh,Sugarcane,Annual,2.55,25.7,1042.1,49.5,7.1,34.0,26.2,122.9,3.9,9.9,118.4,Mixed,14.2,Rain-fed,0,Desi,41.94,106.95
+IND_MAH_0583,2023,Maharashtra,Sugarcane,Annual,5.15,29.9,1131.9,70.5,5.0,27.3,15.0,115.8,2.9,6.7,87.0,Mixed,2.7,Sprinkler,35,Desi,41.01,211.2
+IND_MAD_0584,2020,Madhya Pradesh,Soybean,Kharif,5.24,23.8,701.4,55.4,7.5,40.5,5.0,185.8,3.9,6.0,81.1,NPK,5.7,Tube well,10,Desi,0.48,2.52
+IND_KAR_0585,2020,Karnataka,Cotton,Kharif,3.45,30.6,904.9,59.4,6.4,49.9,22.8,86.7,3.3,6.9,101.8,Organic,9.2,Tube well,19,Traditional,0.3,1.03
+IND_GUJ_0586,2021,Gujarat,Rice,Kharif,4.42,33.4,792.2,46.2,6.8,70.3,25.8,232.9,3.9,7.7,132.1,Urea,7.8,Sprinkler,24,Hybrid,1.14,5.04
+IND_GUJ_0587,2022,Gujarat,Rice,Kharif,3.04,36.5,383.4,72.1,8.0,24.1,16.4,114.4,2.1,5.9,84.0,Organic,15.1,Tube well,13,Desi,0.43,1.31
+IND_WES_0588,2023,West Bengal,Wheat,Rabi,3.25,32.5,1495.9,85.5,8.0,38.7,18.2,108.3,4.4,6.9,146.5,Organic,13.3,Drip,24,Traditional,1.03,3.35
+IND_WES_0589,2019,West Bengal,Maize,Kharif,5.08,27.7,1773.2,81.1,6.0,28.9,21.7,152.0,2.5,5.5,138.8,NPK,17.9,Sprinkler,34,Desi,1.15,5.84
+IND_BIH_0590,2020,Bihar,Wheat,Rabi,4.22,21.0,1499.2,65.7,7.6,46.2,23.2,139.1,2.2,7.3,132.6,DAP,6.4,Canal,25,High Yielding Variety,1.86,7.85
+IND_HAR_0591,2023,Haryana,Rice,Kharif,9.76,26.4,640.6,68.3,6.0,30.9,20.4,85.7,3.9,8.2,135.3,DAP,14.8,Canal,15,High Yielding Variety,1.85,18.06
+IND_PUN_0592,2021,Punjab,Cotton,Kharif,10.3,16.0,749.5,58.9,7.0,25.7,33.3,136.9,3.4,5.9,167.2,Urea,13.3,Sprinkler,26,Desi,0.32,3.3
+IND_KAR_0593,2018,Karnataka,Cotton,Kharif,2.55,28.0,1039.3,78.2,7.9,24.1,19.8,141.3,2.5,7.0,74.6,DAP,13.1,Sprinkler,17,Desi,0.12,0.31
+IND_WES_0594,2021,West Bengal,Mustard,Rabi,4.08,24.2,1525.7,76.6,5.8,35.5,8.6,166.1,2.1,7.3,131.8,DAP,4.1,Rain-fed,0,High Yielding Variety,0.44,1.8
+IND_AND_0595,2019,Andhra Pradesh,Sunflower,Rabi,0.5,33.5,810.5,80.0,7.3,44.5,5.8,202.6,3.4,6.7,169.5,DAP,6.7,Rain-fed,0,High Yielding Variety,0.29,0.14
+IND_TAM_0596,2022,Tamil Nadu,Maize,Kharif,3.95,35.5,945.3,66.6,6.3,24.1,26.1,128.4,1.7,6.4,118.7,NPK,2.1,Tube well,23,Desi,0.64,2.53
+IND_KAR_0597,2023,Karnataka,Rice,Kharif,7.22,23.9,751.1,68.1,6.8,42.5,27.6,139.3,1.8,8.5,116.2,NPK,16.7,Rain-fed,0,High Yielding Variety,0.69,4.98
+IND_TAM_0598,2020,Tamil Nadu,Sugarcane,Annual,3.39,32.0,1144.9,73.2,7.5,28.3,17.5,138.2,2.3,8.6,138.4,Urea,9.3,Rain-fed,0,Hybrid,68.59,232.52
+IND_WES_0599,2018,West Bengal,Potato,Rabi,2.47,28.5,1234.7,68.8,6.2,29.0,15.9,224.4,0.6,7.6,189.0,Organic,8.6,Drip,33,High Yielding Variety,14.16,34.98
+IND_WES_0600,2022,West Bengal,Rice,Kharif,3.2,26.9,1570.9,76.6,6.5,25.4,16.0,211.1,4.7,8.1,101.4,Mixed,2.1,Rain-fed,0,Desi,1.38,4.42
+IND_UTT_0601,2019,Uttar Pradesh,Wheat,Rabi,6.57,28.6,837.3,57.5,8.1,16.0,21.4,165.8,2.7,6.6,160.6,Urea,6.0,Canal,18,High Yielding Variety,0.88,5.78
+IND_KAR_0602,2019,Karnataka,Rice,Kharif,0.5,30.2,1219.6,75.7,6.8,28.7,11.4,134.9,1.1,6.1,107.6,Organic,11.0,Drip,32,Traditional,1.73,0.86
+IND_BIH_0603,2020,Bihar,Sugarcane,Annual,4.59,31.6,1413.4,73.5,7.2,23.2,25.9,208.8,3.1,9.9,59.0,Urea,2.2,Rain-fed,0,Traditional,41.09,188.6
+IND_TAM_0604,2020,Tamil Nadu,Coconut,Annual,3.53,32.4,1212.4,68.1,7.0,16.6,11.0,184.0,3.5,7.5,51.2,Mixed,6.2,Sprinkler,21,Hybrid,5.97,21.07
+IND_KAR_0605,2020,Karnataka,Ragi,Kharif,5.35,28.6,702.3,70.3,6.6,52.8,14.1,101.0,1.1,7.0,97.5,Urea,0.9,Rain-fed,0,Hybrid,1.02,5.46
+IND_GUJ_0606,2020,Gujarat,Wheat,Rabi,4.33,37.9,596.1,66.6,6.5,22.5,26.5,163.9,2.9,6.4,144.3,DAP,4.2,Sprinkler,15,Desi,1.39,6.02
+IND_PUN_0607,2022,Punjab,Cotton,Kharif,13.79,22.7,532.1,53.4,8.1,38.1,19.0,132.2,3.2,7.2,132.2,DAP,4.3,Canal,25,Desi,0.24,3.31
+IND_GUJ_0608,2022,Gujarat,Groundnut,Kharif,1.73,40.6,311.1,56.2,7.2,37.8,5.0,121.7,2.5,9.2,76.8,Urea,8.8,Sprinkler,35,Traditional,0.64,1.11
+IND_HAR_0609,2018,Haryana,Wheat,Rabi,2.75,21.7,406.7,63.9,6.5,26.2,41.8,179.6,3.7,8.6,55.7,DAP,10.0,Tube well,13,High Yielding Variety,3.93,10.81
+IND_HAR_0610,2018,Haryana,Wheat,Rabi,4.59,17.0,426.8,69.7,7.8,57.2,16.7,111.6,2.5,9.7,46.9,Urea,0.0,Sprinkler,30,Traditional,2.97,13.63
+IND_KAR_0611,2018,Karnataka,Rice,Kharif,2.11,26.1,1255.9,75.1,5.5,59.5,12.0,112.9,3.7,6.5,117.5,Organic,10.4,Rain-fed,0,Hybrid,1.77,3.73
+IND_HAR_0612,2020,Haryana,Wheat,Rabi,6.67,24.5,543.2,67.6,6.4,51.5,21.1,126.4,3.3,9.1,145.7,Mixed,2.9,Sprinkler,26,High Yielding Variety,4.22,28.15
+IND_MAH_0613,2020,Maharashtra,Cotton,Kharif,2.99,27.0,843.9,59.6,7.5,31.5,13.3,124.0,2.6,2.9,91.9,Urea,3.6,Tube well,24,High Yielding Variety,0.16,0.48
+IND_BIH_0614,2019,Bihar,Sugarcane,Annual,1.39,33.9,1231.2,69.9,8.0,29.0,24.3,141.8,2.6,8.1,96.1,Urea,15.5,Tube well,13,Desi,43.98,61.13
+IND_MAD_0615,2023,Madhya Pradesh,Cotton,Kharif,4.24,34.5,611.0,74.6,8.1,18.1,23.6,179.8,3.5,6.0,93.7,DAP,13.0,Rain-fed,0,High Yielding Variety,0.17,0.72
+IND_UTT_0616,2023,Uttar Pradesh,Sugarcane,Annual,2.4,27.8,1061.1,52.7,6.4,39.0,9.3,141.3,3.1,9.1,146.7,Mixed,4.4,Sprinkler,26,Traditional,110.5,265.2
+IND_KAR_0617,2023,Karnataka,Sunflower,Rabi,2.4,32.3,971.9,65.1,7.3,35.2,33.1,99.9,1.8,5.1,134.9,Mixed,8.8,Drip,34,Hybrid,0.39,0.94
+IND_GUJ_0618,2020,Gujarat,Wheat,Rabi,3.49,22.0,426.7,56.0,7.2,36.4,6.6,244.9,3.2,7.7,144.6,Organic,11.5,Rain-fed,0,Desi,1.79,6.25
+IND_PUN_0619,2022,Punjab,Maize,Kharif,5.48,17.6,670.3,66.0,8.5,38.5,25.8,198.7,2.8,8.6,152.4,NPK,4.4,Tube well,17,High Yielding Variety,3.5,19.18
+IND_WES_0620,2018,West Bengal,Potato,Rabi,3.25,29.7,1568.3,63.7,6.0,50.8,25.7,114.1,3.3,9.6,118.8,Mixed,21.0,Rain-fed,0,Traditional,4.68,15.21
+IND_GUJ_0621,2018,Gujarat,Groundnut,Kharif,4.39,29.0,837.2,71.7,6.9,40.3,26.5,171.1,3.6,6.2,110.9,NPK,3.3,Drip,19,Hybrid,0.81,3.56
+IND_KAR_0622,2019,Karnataka,Maize,Kharif,5.03,29.7,1003.0,76.5,7.3,36.3,14.9,148.0,3.7,7.1,88.3,Mixed,3.4,Drip,17,Desi,0.82,4.12
+IND_WES_0623,2021,West Bengal,Mustard,Rabi,3.15,34.1,1844.8,84.5,6.0,31.2,21.2,85.8,2.1,7.0,88.2,Mixed,9.0,Canal,17,High Yielding Variety,0.37,1.17
+IND_AND_0624,2020,Andhra Pradesh,Rice,Kharif,1.89,37.0,832.9,88.1,5.5,41.9,18.6,155.4,2.5,7.4,126.1,DAP,5.1,Sprinkler,28,High Yielding Variety,1.19,2.25
+IND_BIH_0625,2023,Bihar,Rice,Kharif,2.1,34.6,1359.5,62.3,6.8,38.4,27.7,190.8,2.8,7.3,127.6,Urea,2.3,Rain-fed,0,Desi,0.93,1.95
+IND_MAH_0626,2022,Maharashtra,Soybean,Kharif,4.49,36.9,400.2,66.4,7.0,37.6,13.4,174.6,2.7,6.9,105.5,DAP,7.7,Drip,31,Hybrid,0.37,1.66
+IND_PUN_0627,2021,Punjab,Sugarcane,Annual,10.63,27.1,645.6,56.0,6.4,35.8,14.8,138.6,4.4,7.8,134.4,NPK,10.7,Canal,15,Desi,37.5,398.63
+IND_AND_0628,2018,Andhra Pradesh,Groundnut,Kharif,1.29,30.0,661.9,52.2,7.7,59.7,21.2,100.4,2.3,6.7,79.3,NPK,12.3,Canal,25,Desi,0.96,1.24
+IND_HAR_0629,2023,Haryana,Sugarcane,Annual,3.38,27.8,549.7,67.3,8.5,24.2,42.6,137.6,2.3,8.4,96.7,Organic,10.0,Tube well,23,Hybrid,40.83,138.01
+IND_AND_0630,2022,Andhra Pradesh,Cotton,Kharif,2.52,32.7,998.1,76.1,7.6,49.0,6.8,170.5,2.6,7.5,162.4,NPK,2.0,Tube well,15,High Yielding Variety,0.3,0.76
+IND_AND_0631,2018,Andhra Pradesh,Rice,Kharif,0.5,32.5,991.2,70.6,6.0,29.2,8.1,110.6,3.1,5.9,164.5,DAP,7.6,Sprinkler,26,Traditional,1.57,0.78
+IND_KAR_0632,2020,Karnataka,Rice,Kharif,2.44,31.9,1207.6,77.7,7.7,32.5,24.3,138.2,2.8,6.7,101.7,Mixed,4.6,Drip,34,Desi,1.77,4.32
+IND_UTT_0633,2019,Uttar Pradesh,Rice,Kharif,5.62,18.1,1190.9,71.7,6.1,50.5,17.5,171.0,2.1,7.7,132.5,Urea,0.6,Tube well,10,High Yielding Variety,2.4,13.49
+IND_WES_0634,2020,West Bengal,Maize,Kharif,5.69,25.0,1200.8,73.6,8.4,32.7,26.8,72.4,4.7,9.6,108.6,Organic,0.0,Canal,17,Desi,1.89,10.75
+IND_PUN_0635,2019,Punjab,Rice,Kharif,2.22,18.0,661.5,64.4,8.2,44.7,27.8,150.3,1.7,9.4,109.2,Mixed,1.1,Drip,32,Desi,1.65,3.66
+IND_BIH_0636,2023,Bihar,Jute,Kharif,7.2,31.8,1248.5,60.9,6.9,27.4,33.1,122.7,3.4,6.9,101.6,NPK,13.2,Sprinkler,33,High Yielding Variety,1.74,12.53
+IND_UTT_0637,2023,Uttar Pradesh,Rice,Kharif,2.19,29.8,1032.5,71.3,6.6,28.9,20.6,161.2,2.0,8.4,123.4,Urea,0.0,Canal,22,High Yielding Variety,2.41,5.28
+IND_AND_0638,2018,Andhra Pradesh,Groundnut,Kharif,1.99,28.7,521.4,74.4,8.5,37.9,13.3,157.7,2.5,7.7,143.2,Mixed,14.0,Sprinkler,22,Desi,1.32,2.63
+IND_BIH_0639,2021,Bihar,Maize,Kharif,6.28,37.9,1116.2,69.1,6.6,61.5,22.6,120.8,4.1,10.0,118.7,DAP,5.5,Rain-fed,0,High Yielding Variety,0.95,5.97
+IND_WES_0640,2022,West Bengal,Wheat,Rabi,4.43,30.1,1823.9,75.8,8.5,31.2,28.2,139.9,3.1,7.7,117.8,Urea,6.1,Rain-fed,0,High Yielding Variety,1.19,5.27
+IND_WES_0641,2020,West Bengal,Mustard,Rabi,1.53,33.7,1867.1,69.1,8.5,46.7,5.0,130.2,1.4,6.7,20.0,NPK,7.3,Tube well,8,Traditional,0.19,0.29
+IND_KAR_0642,2022,Karnataka,Cotton,Kharif,3.12,28.7,793.9,71.7,8.5,51.9,26.3,138.6,4.4,5.1,63.9,Urea,7.6,Canal,16,Desi,0.27,0.84
+IND_GUJ_0643,2019,Gujarat,Bajra,Kharif,2.6,33.9,480.7,58.2,8.1,44.5,15.0,125.3,1.8,7.5,76.8,Organic,2.1,Sprinkler,19,High Yielding Variety,0.7,1.82
+IND_GUJ_0644,2023,Gujarat,Sugarcane,Annual,2.02,37.3,400.3,60.8,6.9,37.2,12.1,153.7,2.9,5.6,159.8,Organic,3.6,Sprinkler,22,Hybrid,23.2,46.86
+IND_MAH_0645,2021,Maharashtra,Jowar,Kharif,5.33,39.3,608.3,69.3,7.2,30.7,27.6,173.6,2.3,6.2,37.1,DAP,8.8,Tube well,12,Hybrid,0.51,2.72
+IND_MAH_0646,2021,Maharashtra,Sugarcane,Annual,5.27,36.0,864.5,53.0,8.2,28.7,26.2,98.9,3.0,4.8,109.3,Mixed,10.2,Rain-fed,0,Hybrid,14.29,75.31
+IND_UTT_0647,2019,Uttar Pradesh,Wheat,Rabi,0.9,18.8,841.7,68.5,7.2,66.6,29.2,190.7,3.1,7.7,24.2,Organic,4.6,Tube well,8,Traditional,1.06,0.95
+IND_AND_0648,2019,Andhra Pradesh,Groundnut,Kharif,0.5,30.9,759.4,74.7,7.9,48.3,23.3,116.3,1.3,5.2,69.2,DAP,3.6,Rain-fed,0,High Yielding Variety,0.46,0.23
+IND_UTT_0649,2022,Uttar Pradesh,Sugarcane,Annual,0.97,28.4,604.3,63.4,8.2,20.8,23.3,149.5,2.5,8.6,155.2,Urea,3.3,Tube well,15,Hybrid,55.41,53.75
+IND_KAR_0650,2019,Karnataka,Ragi,Kharif,3.56,33.8,847.6,77.2,8.5,16.6,19.0,118.2,3.3,5.1,133.9,DAP,4.8,Sprinkler,35,Traditional,0.56,1.99
+IND_AND_0651,2019,Andhra Pradesh,Cotton,Kharif,0.5,32.8,1023.5,71.3,7.8,55.0,22.1,130.4,3.2,6.6,99.8,NPK,0.4,Canal,21,High Yielding Variety,0.28,0.14
+IND_AND_0652,2019,Andhra Pradesh,Cotton,Kharif,2.23,26.3,839.4,78.5,6.5,33.3,27.0,177.7,2.8,5.2,239.7,NPK,16.7,Sprinkler,34,Desi,0.33,0.74
+IND_TAM_0653,2021,Tamil Nadu,Millets,Kharif,1.49,36.8,988.5,74.1,7.4,25.6,16.2,189.2,4.1,8.9,150.3,Mixed,6.7,Sprinkler,25,Desi,0.17,0.25
+IND_BIH_0654,2022,Bihar,Rice,Kharif,3.59,38.0,1246.8,60.5,6.0,41.7,25.1,173.9,3.6,8.3,103.6,Mixed,7.6,Sprinkler,16,Hybrid,1.91,6.86
+IND_GUJ_0655,2022,Gujarat,Cotton,Kharif,3.22,34.2,627.2,70.0,8.5,36.0,5.0,193.3,2.4,6.4,104.1,Organic,5.8,Canal,14,Traditional,0.32,1.03
+IND_AND_0656,2021,Andhra Pradesh,Sunflower,Rabi,0.5,35.0,592.4,80.0,7.8,25.6,12.2,132.3,3.0,9.1,38.1,Mixed,6.9,Drip,34,High Yielding Variety,0.53,0.26
+IND_UTT_0657,2018,Uttar Pradesh,Potato,Rabi,0.5,33.6,1104.3,69.7,8.0,29.2,16.5,226.5,2.6,8.4,120.3,Organic,0.0,Canal,13,Hybrid,5.86,2.93
+IND_AND_0658,2019,Andhra Pradesh,Rice,Kharif,1.84,36.5,955.7,82.3,6.3,54.4,12.3,157.4,2.8,7.1,173.5,NPK,4.5,Tube well,22,High Yielding Variety,1.29,2.37
+IND_KAR_0659,2023,Karnataka,Cotton,Kharif,3.04,28.6,1020.2,71.8,6.8,22.3,5.0,114.1,2.9,8.7,164.9,Urea,9.1,Rain-fed,0,High Yielding Variety,0.26,0.79
+IND_BIH_0660,2018,Bihar,Maize,Kharif,3.54,32.9,1217.7,58.1,7.1,8.4,18.4,179.3,1.9,6.7,151.7,Organic,0.6,Sprinkler,31,Hybrid,1.22,4.32
+IND_GUJ_0661,2020,Gujarat,Groundnut,Kharif,1.94,33.5,399.9,56.1,8.5,44.4,13.1,189.7,2.5,9.0,152.3,DAP,0.0,Tube well,13,Hybrid,0.91,1.77
+IND_BIH_0662,2020,Bihar,Maize,Kharif,4.89,22.2,1278.0,53.7,5.5,33.9,37.7,178.2,4.6,8.7,161.1,NPK,17.9,Rain-fed,0,Desi,1.12,5.48
+IND_MAD_0663,2019,Madhya Pradesh,Rice,Kharif,2.63,27.9,1058.5,70.3,6.6,36.7,26.7,177.9,1.7,9.6,94.4,Organic,6.7,Drip,15,Desi,1.99,5.23
+IND_TAM_0664,2022,Tamil Nadu,Rice,Kharif,8.4,26.6,1106.2,81.9,7.9,32.7,26.7,121.1,2.4,4.7,67.0,DAP,17.0,Rain-fed,0,Hybrid,1.35,11.34
+IND_RAJ_0665,2021,Rajasthan,Mustard,Rabi,3.13,18.1,536.2,76.6,7.1,32.1,20.5,145.6,2.6,8.2,126.0,Mixed,11.6,Canal,15,Traditional,0.66,2.07
+IND_MAD_0666,2018,Madhya Pradesh,Rice,Kharif,3.78,25.1,812.6,61.5,7.0,36.0,19.9,240.4,1.7,4.9,133.3,DAP,6.1,Canal,19,High Yielding Variety,1.11,4.2
+IND_PUN_0667,2020,Punjab,Cotton,Kharif,10.34,23.2,501.6,72.8,7.6,44.2,37.5,183.4,2.8,7.1,97.4,Urea,5.0,Rain-fed,0,High Yielding Variety,0.27,2.79
+IND_AND_0668,2023,Andhra Pradesh,Maize,Kharif,3.51,31.3,624.6,82.0,7.5,41.8,23.1,206.9,3.0,6.8,83.4,Urea,9.2,Tube well,22,Traditional,0.87,3.05
+IND_HAR_0669,2020,Haryana,Mustard,Rabi,7.26,23.2,451.8,57.9,7.9,37.8,20.8,160.7,2.9,9.5,124.9,Organic,0.7,Rain-fed,0,High Yielding Variety,1.47,10.67
+IND_GUJ_0670,2019,Gujarat,Rice,Kharif,3.74,24.8,521.0,64.0,7.1,53.9,17.2,120.7,3.5,8.5,126.7,Mixed,11.4,Drip,25,Desi,1.29,4.82
+IND_WES_0671,2018,West Bengal,Rice,Kharif,3.47,27.0,1947.6,84.3,8.4,8.0,36.4,90.3,2.3,7.8,114.1,Organic,13.0,Canal,23,Traditional,1.07,3.71
+IND_RAJ_0672,2022,Rajasthan,Jowar,Kharif,3.52,15.1,260.4,54.2,7.5,34.2,20.7,130.8,2.4,7.1,157.7,Mixed,5.0,Drip,19,Desi,0.26,0.92
+IND_BIH_0673,2019,Bihar,Sugarcane,Annual,4.23,24.5,1365.8,59.7,5.6,28.6,13.9,147.2,2.3,8.5,108.5,NPK,8.8,Rain-fed,0,Hybrid,47.11,199.28
+IND_WES_0674,2021,West Bengal,Rice,Kharif,3.39,34.6,1582.3,68.6,8.5,32.2,9.5,156.6,2.1,8.6,208.4,DAP,4.1,Rain-fed,0,High Yielding Variety,1.77,6.0
+IND_RAJ_0675,2018,Rajasthan,Jowar,Kharif,0.5,43.2,492.9,64.5,6.4,27.5,11.2,175.6,3.6,6.8,85.4,NPK,15.9,Tube well,8,Hybrid,0.39,0.2
+IND_MAH_0676,2020,Maharashtra,Jowar,Kharif,0.5,23.5,907.2,69.9,6.9,42.2,31.2,107.7,2.3,7.1,181.5,NPK,4.7,Drip,15,High Yielding Variety,0.63,0.32
+IND_KAR_0677,2019,Karnataka,Rice,Kharif,3.96,25.0,1021.3,70.4,8.5,18.8,17.4,148.9,4.3,5.4,199.3,Urea,11.8,Drip,30,Desi,1.68,6.65
+IND_MAD_0678,2023,Madhya Pradesh,Rice,Kharif,1.03,22.4,1050.3,72.7,6.3,33.6,15.6,115.4,3.4,7.9,168.4,Urea,0.0,Drip,29,Desi,2.08,2.14
+IND_GUJ_0679,2022,Gujarat,Wheat,Rabi,8.01,30.4,719.0,55.5,6.0,31.3,28.4,120.7,2.3,8.1,120.1,Urea,10.9,Tube well,18,Traditional,1.22,9.77
+IND_UTT_0680,2020,Uttar Pradesh,Wheat,Rabi,3.96,32.4,651.0,50.7,8.4,27.4,29.0,141.8,3.0,6.9,79.4,Mixed,0.0,Rain-fed,0,Hybrid,0.79,3.13
+IND_RAJ_0681,2020,Rajasthan,Wheat,Rabi,2.35,25.5,526.8,62.1,6.4,17.7,23.8,198.4,3.8,7.7,145.5,Urea,16.5,Rain-fed,0,Traditional,1.4,3.29
+IND_MAH_0682,2019,Maharashtra,Wheat,Rabi,4.29,24.0,743.8,53.2,7.2,35.7,35.4,152.8,3.7,6.7,107.5,DAP,1.4,Drip,21,Traditional,1.01,4.33
+IND_HAR_0683,2019,Haryana,Wheat,Rabi,10.11,27.5,661.5,60.1,6.9,60.8,19.2,190.7,2.5,8.9,157.1,Mixed,9.0,Rain-fed,0,Desi,0.83,8.39
+IND_PUN_0684,2019,Punjab,Barley,Rabi,8.07,27.5,717.4,64.5,5.6,26.4,23.3,164.4,3.8,8.0,136.2,NPK,8.1,Sprinkler,31,Traditional,0.67,5.41
+IND_UTT_0685,2022,Uttar Pradesh,Barley,Rabi,0.5,19.3,973.3,64.3,5.7,42.6,17.9,169.5,4.3,4.9,92.0,Organic,7.0,Tube well,14,High Yielding Variety,0.86,0.43
+IND_AND_0686,2018,Andhra Pradesh,Chillies,Kharif,0.5,33.2,916.7,74.2,7.0,29.8,28.4,112.6,3.1,6.8,89.5,Organic,20.9,Canal,10,Traditional,0.55,0.28
+IND_PUN_0687,2018,Punjab,Cotton,Kharif,10.45,27.2,564.7,71.4,5.0,25.8,16.3,170.4,3.0,8.0,119.5,NPK,3.1,Drip,35,Hybrid,0.45,4.7
+IND_WES_0688,2022,West Bengal,Potato,Rabi,4.45,31.3,1675.9,68.7,7.8,31.6,29.5,185.8,3.0,7.4,158.4,DAP,11.2,Sprinkler,18,Traditional,7.56,33.64
+IND_UTT_0689,2022,Uttar Pradesh,Wheat,Rabi,0.5,36.1,718.9,57.1,8.5,48.8,11.1,109.1,3.8,6.1,140.4,Mixed,4.9,Canal,14,Traditional,1.22,0.61
+IND_KAR_0690,2022,Karnataka,Sugarcane,Annual,1.46,29.2,1282.4,77.0,5.4,8.6,18.2,158.6,1.9,5.7,142.5,Mixed,10.8,Canal,17,Traditional,43.73,63.85
+IND_TAM_0691,2021,Tamil Nadu,Rice,Kharif,4.56,36.1,1024.1,65.6,7.3,36.5,38.4,101.0,3.4,9.1,107.0,Urea,12.3,Rain-fed,0,High Yielding Variety,1.18,5.38
+IND_AND_0692,2021,Andhra Pradesh,Sugarcane,Annual,1.63,24.7,525.8,78.1,7.9,48.5,32.6,147.6,3.8,6.9,156.1,NPK,9.0,Sprinkler,34,Traditional,34.89,56.87
+IND_KAR_0693,2023,Karnataka,Groundnut,Kharif,3.85,28.9,710.3,62.2,5.7,45.0,27.0,161.5,1.9,8.7,201.5,Organic,8.7,Rain-fed,0,High Yielding Variety,1.44,5.54
+IND_RAJ_0694,2018,Rajasthan,Mustard,Rabi,3.4,26.9,578.9,59.7,8.0,63.1,8.8,146.4,1.9,8.7,96.5,DAP,0.8,Sprinkler,30,Hybrid,0.47,1.6
+IND_UTT_0695,2020,Uttar Pradesh,Peas,Rabi,6.49,36.5,1027.4,66.6,8.5,24.5,19.1,134.2,1.9,7.1,164.3,DAP,10.8,Rain-fed,0,Desi,0.26,1.69
+IND_BIH_0696,2020,Bihar,Pulses,Kharif,3.29,23.0,1358.8,56.9,7.4,38.3,22.6,145.2,2.5,10.0,156.3,Urea,10.1,Canal,10,Desi,0.46,1.51
+IND_KAR_0697,2020,Karnataka,Cotton,Kharif,2.1,25.9,1024.9,74.0,5.8,27.4,21.7,141.6,4.0,5.2,89.9,Mixed,15.6,Rain-fed,0,Hybrid,0.11,0.23
+IND_HAR_0698,2020,Haryana,Wheat,Rabi,11.54,25.0,576.3,59.0,7.0,11.5,17.5,180.8,3.2,8.7,105.0,Organic,4.7,Canal,17,Desi,3.02,34.85
+IND_RAJ_0699,2022,Rajasthan,Barley,Rabi,2.01,38.7,389.5,62.9,8.1,19.5,10.5,170.3,2.7,6.3,160.6,NPK,8.9,Sprinkler,27,High Yielding Variety,1.03,2.07
+IND_WES_0700,2021,West Bengal,Mustard,Rabi,4.56,31.8,1551.4,68.7,7.8,52.2,9.0,138.0,3.7,9.2,113.1,DAP,4.3,Drip,32,Hybrid,0.69,3.15
+IND_MAD_0701,2018,Madhya Pradesh,Cotton,Kharif,5.37,31.5,697.3,48.4,7.8,31.4,25.4,125.1,1.1,6.8,122.5,Organic,6.6,Sprinkler,25,High Yielding Variety,0.39,2.09
+IND_UTT_0702,2018,Uttar Pradesh,Potato,Rabi,0.5,34.6,785.9,72.6,8.3,25.2,10.8,167.4,3.3,8.0,39.4,Urea,3.7,Sprinkler,25,Desi,5.7,2.85
+IND_HAR_0703,2022,Haryana,Rice,Kharif,9.95,34.9,592.7,67.7,7.3,43.2,22.5,152.3,2.6,8.1,139.4,DAP,9.3,Rain-fed,0,High Yielding Variety,1.1,10.94
+IND_MAD_0704,2021,Madhya Pradesh,Soybean,Kharif,5.69,34.1,1194.1,62.7,6.6,45.6,9.1,112.2,3.1,7.9,70.2,NPK,6.1,Sprinkler,21,Hybrid,0.32,1.82
+IND_MAH_0705,2021,Maharashtra,Soybean,Kharif,2.03,29.8,1152.9,69.4,6.7,18.8,31.4,170.7,2.2,8.1,117.2,Urea,6.6,Rain-fed,0,Traditional,0.44,0.89
+IND_RAJ_0706,2019,Rajasthan,Mustard,Rabi,1.52,34.8,169.8,55.0,7.8,57.4,14.0,91.7,1.2,6.6,93.5,NPK,9.0,Rain-fed,0,High Yielding Variety,0.19,0.29
+IND_GUJ_0707,2023,Gujarat,Bajra,Kharif,0.5,35.5,865.7,41.9,6.8,15.1,23.8,194.5,3.0,6.4,121.8,Urea,1.2,Drip,18,Traditional,0.42,0.21
+IND_WES_0708,2023,West Bengal,Wheat,Rabi,3.16,28.0,1423.6,78.7,6.9,31.7,10.2,169.8,2.3,5.2,105.1,Organic,12.9,Sprinkler,27,Desi,0.65,2.05
+IND_GUJ_0709,2021,Gujarat,Groundnut,Kharif,6.48,39.7,841.0,64.3,7.5,33.5,19.5,140.8,2.6,8.0,82.6,DAP,2.6,Sprinkler,26,Desi,0.39,2.53
+IND_MAH_0710,2019,Maharashtra,Bajra,Kharif,7.09,34.5,1115.9,49.4,7.8,33.6,21.7,115.8,2.9,6.7,89.4,Organic,11.7,Canal,8,Hybrid,0.26,1.84
+IND_MAD_0711,2018,Madhya Pradesh,Rice,Kharif,4.13,24.3,747.2,66.8,7.0,38.4,18.8,165.2,4.2,6.7,51.4,Mixed,12.1,Sprinkler,29,Desi,1.03,4.25
+IND_UTT_0712,2022,Uttar Pradesh,Potato,Rabi,3.79,18.8,606.7,49.1,7.1,21.6,25.1,102.7,2.6,6.3,125.1,NPK,6.2,Rain-fed,0,Desi,10.71,40.59
+IND_WES_0713,2022,West Bengal,Rice,Kharif,3.04,28.0,1961.3,67.1,6.3,61.9,23.8,144.6,3.9,10.0,114.2,Organic,9.7,Tube well,24,Traditional,1.53,4.65
+IND_GUJ_0714,2018,Gujarat,Cotton,Kharif,2.71,38.4,316.6,58.0,7.4,39.0,24.5,158.3,1.8,6.3,98.1,Urea,6.6,Drip,18,Desi,0.15,0.41
+IND_UTT_0715,2020,Uttar Pradesh,Peas,Rabi,0.67,25.7,1123.0,56.4,7.6,33.3,22.1,142.0,3.3,5.6,105.5,DAP,9.5,Canal,24,High Yielding Variety,0.36,0.24
+IND_TAM_0716,2023,Tamil Nadu,Rice,Kharif,5.99,36.5,1014.4,69.7,8.4,44.8,12.7,160.7,2.8,7.9,111.1,NPK,6.5,Drip,34,High Yielding Variety,2.39,14.32
+IND_GUJ_0717,2021,Gujarat,Jowar,Kharif,2.8,36.4,580.2,68.3,6.6,27.6,32.2,134.4,4.1,8.5,113.8,Organic,0.0,Sprinkler,33,Traditional,0.84,2.35
+IND_KAR_0718,2020,Karnataka,Sunflower,Rabi,3.2,22.1,735.8,84.3,8.5,26.8,26.4,176.8,3.7,7.6,42.3,Urea,7.2,Drip,33,Traditional,0.31,0.99
+IND_MAD_0719,2022,Madhya Pradesh,Rice,Kharif,2.59,38.1,954.2,69.8,7.5,19.4,5.0,155.2,2.6,6.1,52.0,NPK,4.3,Drip,34,High Yielding Variety,0.9,2.33
+IND_TAM_0720,2020,Tamil Nadu,Rice,Kharif,4.33,36.4,1065.1,66.7,8.0,35.6,25.6,134.7,3.7,7.5,92.8,Urea,7.9,Drip,23,Traditional,1.38,5.98
+IND_BIH_0721,2022,Bihar,Wheat,Rabi,3.98,37.6,1232.2,48.2,7.2,51.2,26.2,149.7,3.0,8.0,136.1,NPK,0.0,Rain-fed,0,Desi,0.66,2.63
+IND_UTT_0722,2021,Uttar Pradesh,Rice,Kharif,0.5,27.7,1099.0,58.1,8.0,40.1,11.0,147.5,2.5,5.4,92.4,DAP,7.1,Canal,18,High Yielding Variety,1.9,0.95
+IND_RAJ_0723,2021,Rajasthan,Cotton,Kharif,0.5,35.2,164.5,71.5,7.6,25.5,23.7,137.2,2.1,7.5,179.7,Organic,11.6,Rain-fed,0,Desi,0.14,0.07
+IND_WES_0724,2019,West Bengal,Jute,Kharif,1.96,29.8,1511.3,90.0,8.5,31.0,10.8,112.7,1.5,7.7,184.2,Urea,7.3,Drip,16,Traditional,3.45,6.76
+IND_PUN_0725,2021,Punjab,Sugarcane,Annual,13.5,25.9,618.8,56.0,7.1,28.1,25.6,137.8,1.9,9.7,168.7,Organic,8.8,Tube well,20,Desi,45.3,611.55
+IND_MAH_0726,2018,Maharashtra,Wheat,Rabi,0.54,20.8,878.6,56.6,8.1,43.8,31.0,115.3,2.5,8.1,137.9,Mixed,15.7,Sprinkler,27,Traditional,1.88,1.02
+IND_MAD_0727,2022,Madhya Pradesh,Maize,Kharif,6.7,41.3,650.2,65.4,8.2,31.1,20.1,181.9,4.1,8.2,116.7,NPK,14.9,Sprinkler,34,Traditional,1.02,6.83
+IND_MAH_0728,2020,Maharashtra,Cotton,Kharif,0.5,30.2,1156.0,66.1,7.3,41.9,13.5,170.0,3.6,8.7,200.5,Mixed,9.2,Sprinkler,29,Hybrid,0.46,0.23
+IND_WES_0729,2020,West Bengal,Jute,Kharif,0.5,33.3,1545.6,70.7,6.7,44.6,20.0,143.8,3.0,7.3,102.8,Organic,0.0,Canal,10,High Yielding Variety,2.14,1.07
+IND_HAR_0730,2020,Haryana,Sugarcane,Annual,6.08,31.6,403.1,66.6,7.4,46.9,24.6,139.7,2.4,8.4,143.0,Urea,15.0,Drip,23,Hybrid,67.18,408.45
+IND_PUN_0731,2022,Punjab,Wheat,Rabi,5.83,30.7,671.5,59.0,8.0,34.2,10.0,115.0,3.0,8.6,76.1,Urea,8.2,Tube well,11,High Yielding Variety,2.18,12.71
+IND_RAJ_0732,2018,Rajasthan,Barley,Rabi,0.7,26.6,526.4,72.6,6.7,22.7,16.3,146.7,2.5,6.5,133.4,NPK,7.1,Rain-fed,0,Traditional,0.37,0.26
+IND_TAM_0733,2023,Tamil Nadu,Rice,Kharif,0.5,26.0,825.0,78.1,7.1,54.3,12.5,86.7,3.3,7.5,79.7,NPK,0.4,Drip,28,Traditional,2.05,1.02
+IND_UTT_0734,2018,Uttar Pradesh,Maize,Kharif,5.83,27.6,840.4,76.6,6.8,29.1,17.7,110.8,1.4,8.8,46.3,NPK,9.2,Drip,16,Traditional,2.15,12.53
+IND_UTT_0735,2019,Uttar Pradesh,Potato,Rabi,0.5,35.2,1199.2,50.8,8.3,41.4,15.1,192.1,3.8,7.8,84.0,DAP,5.9,Tube well,23,High Yielding Variety,8.75,4.38
+IND_GUJ_0736,2022,Gujarat,Bajra,Kharif,2.62,20.8,431.9,69.4,5.8,17.1,21.4,132.8,2.3,5.3,120.8,Urea,7.7,Sprinkler,23,High Yielding Variety,0.59,1.55
+IND_HAR_0737,2021,Haryana,Cotton,Kharif,8.28,22.6,578.7,58.7,7.7,14.9,13.3,107.6,3.4,7.9,119.5,Urea,2.5,Sprinkler,19,High Yielding Variety,0.42,3.48
+IND_MAD_0738,2023,Madhya Pradesh,Rice,Kharif,1.47,21.6,981.6,73.3,5.7,25.3,33.4,134.8,1.7,7.6,101.0,Mixed,3.8,Sprinkler,33,High Yielding Variety,1.24,1.82
+IND_BIH_0739,2021,Bihar,Pulses,Kharif,8.54,30.2,1205.2,57.5,7.7,25.8,12.5,173.6,2.6,5.3,191.5,Urea,5.8,Canal,25,Hybrid,0.37,3.16
+IND_AND_0740,2018,Andhra Pradesh,Sunflower,Rabi,5.56,36.9,675.6,69.8,5.5,29.9,23.2,133.8,2.6,8.7,124.3,Organic,3.8,Drip,25,Traditional,0.64,3.56
+IND_PUN_0741,2020,Punjab,Wheat,Rabi,8.79,31.2,735.6,35.0,7.2,45.7,14.6,161.8,1.5,8.7,198.1,NPK,3.0,Drip,17,Desi,1.61,14.15
+IND_MAD_0742,2021,Madhya Pradesh,Wheat,Rabi,1.58,41.7,783.6,61.3,6.2,40.1,26.8,168.7,1.4,8.5,157.5,Organic,12.2,Rain-fed,0,Traditional,0.79,1.25
+IND_HAR_0743,2021,Haryana,Cotton,Kharif,8.88,24.6,574.5,70.3,8.2,34.0,19.0,96.2,2.6,6.8,101.4,Urea,2.5,Sprinkler,21,Hybrid,0.36,3.2
+IND_WES_0744,2021,West Bengal,Jute,Kharif,2.19,25.1,1612.4,63.4,7.5,25.4,28.6,157.9,3.3,9.5,107.6,Urea,5.1,Drip,30,Desi,2.54,5.56
+IND_PUN_0745,2023,Punjab,Cotton,Kharif,10.04,18.3,416.9,58.1,8.5,32.5,20.3,150.7,2.1,8.3,175.9,Mixed,10.2,Canal,14,Desi,0.27,2.71
+IND_UTT_0746,2018,Uttar Pradesh,Barley,Rabi,2.68,35.7,1002.4,66.1,6.9,38.9,23.8,114.7,2.9,4.9,139.3,Organic,11.3,Tube well,23,High Yielding Variety,0.58,1.55
+IND_RAJ_0747,2018,Rajasthan,Barley,Rabi,2.21,17.4,159.4,63.1,8.5,52.0,19.8,154.9,3.7,5.0,107.1,Organic,14.7,Canal,17,High Yielding Variety,0.62,1.37
+IND_RAJ_0748,2018,Rajasthan,Wheat,Rabi,3.74,29.7,247.5,54.1,7.5,25.3,11.8,77.7,3.8,6.3,126.3,Organic,8.0,Tube well,10,Hybrid,0.61,2.28
+IND_KAR_0749,2023,Karnataka,Groundnut,Kharif,0.5,22.9,1316.6,67.0,6.5,39.4,13.6,211.1,3.6,8.0,115.2,NPK,15.6,Canal,25,Hybrid,0.57,0.28
+IND_WES_0750,2020,West Bengal,Maize,Kharif,2.94,34.0,1682.6,80.1,6.8,28.6,25.1,175.0,2.5,5.9,111.7,DAP,11.1,Drip,19,Desi,1.0,2.94
+IND_BIH_0751,2021,Bihar,Wheat,Rabi,0.6,34.3,1208.0,55.7,7.2,24.1,24.5,135.8,1.8,6.5,189.4,Mixed,9.9,Canal,12,High Yielding Variety,1.18,0.71
+IND_AND_0752,2021,Andhra Pradesh,Maize,Kharif,2.5,39.0,1007.8,77.3,7.3,45.4,20.2,115.8,2.3,4.9,201.1,Mixed,12.3,Canal,13,High Yielding Variety,0.72,1.8
+IND_MAH_0753,2023,Maharashtra,Wheat,Rabi,2.44,27.7,898.1,53.6,7.3,33.7,26.6,146.4,1.4,6.9,81.1,Organic,8.4,Tube well,16,Desi,0.92,2.24
+IND_WES_0754,2022,West Bengal,Maize,Kharif,0.5,25.6,1340.2,71.9,7.9,32.9,23.3,128.1,3.0,8.7,90.7,NPK,11.9,Sprinkler,34,High Yielding Variety,2.15,1.08
+IND_KAR_0755,2019,Karnataka,Cotton,Kharif,5.09,27.8,1383.4,73.4,7.1,38.1,24.3,106.3,3.9,4.8,92.6,Organic,7.5,Canal,19,Hybrid,0.15,0.76
+IND_MAD_0756,2018,Madhya Pradesh,Soybean,Kharif,6.15,28.7,785.6,38.7,7.2,38.3,32.7,154.2,3.6,8.0,102.6,DAP,1.0,Tube well,23,Desi,0.91,5.6
+IND_UTT_0757,2018,Uttar Pradesh,Wheat,Rabi,0.5,34.9,872.0,73.0,6.8,38.2,21.7,148.4,2.5,8.0,83.0,NPK,2.0,Drip,21,Desi,1.21,0.6
+IND_KAR_0758,2018,Karnataka,Ragi,Kharif,4.45,31.7,1007.9,72.9,8.4,37.1,11.8,214.7,3.6,6.9,149.1,DAP,6.0,Canal,25,Hybrid,1.06,4.72
+IND_PUN_0759,2018,Punjab,Wheat,Rabi,0.5,18.0,783.1,49.8,8.1,32.0,21.7,102.9,4.3,9.6,112.0,Organic,6.0,Sprinkler,33,Traditional,2.77,1.38
+IND_WES_0760,2019,West Bengal,Mustard,Rabi,6.96,30.0,1639.4,67.6,6.5,20.7,23.5,156.1,2.7,8.8,169.3,DAP,0.4,Rain-fed,0,Traditional,0.32,2.23
+IND_HAR_0761,2019,Haryana,Sugarcane,Annual,11.28,31.2,454.0,55.3,6.0,31.4,22.6,129.9,3.4,7.3,176.3,Mixed,7.4,Tube well,10,Desi,44.14,497.9
+IND_TAM_0762,2019,Tamil Nadu,Groundnut,Kharif,4.49,30.2,1026.9,77.9,7.3,41.7,18.2,134.9,4.4,5.3,149.4,NPK,5.1,Sprinkler,20,Desi,0.49,2.2
+IND_UTT_0763,2023,Uttar Pradesh,Rice,Kharif,2.37,33.3,964.8,52.0,7.6,36.2,12.1,168.1,4.5,7.0,105.0,DAP,5.2,Drip,21,Traditional,1.42,3.37
+IND_PUN_0764,2020,Punjab,Wheat,Rabi,0.5,17.8,669.4,43.9,7.9,22.0,17.3,201.3,1.7,6.4,130.8,DAP,13.7,Sprinkler,29,Desi,1.47,0.74
+IND_KAR_0765,2022,Karnataka,Sugarcane,Annual,3.82,29.2,889.8,79.6,8.0,31.3,30.0,189.8,2.9,6.5,81.1,Urea,7.8,Tube well,25,Hybrid,46.41,177.29
+IND_AND_0766,2019,Andhra Pradesh,Sunflower,Rabi,2.35,33.9,748.0,76.5,6.9,45.3,32.2,51.9,3.1,5.6,140.0,Organic,8.6,Sprinkler,23,High Yielding Variety,0.4,0.94
+IND_BIH_0767,2020,Bihar,Potato,Rabi,2.0,34.5,1080.8,41.3,8.1,20.9,28.2,127.3,3.1,7.0,127.3,Organic,12.5,Tube well,12,High Yielding Variety,6.07,12.14
+IND_PUN_0768,2023,Punjab,Sugarcane,Annual,5.28,27.3,603.6,51.4,8.5,59.1,19.2,139.6,2.2,8.1,63.7,Organic,7.6,Canal,21,Desi,45.27,239.03
+IND_BIH_0769,2021,Bihar,Pulses,Kharif,1.78,29.9,1135.6,57.6,7.4,35.8,18.3,139.8,3.2,7.6,132.6,DAP,9.1,Canal,21,Hybrid,0.43,0.77
+IND_KAR_0770,2018,Karnataka,Rice,Kharif,4.35,32.1,1028.1,78.4,8.4,42.3,5.3,195.7,2.9,6.9,131.3,Mixed,6.3,Drip,20,Desi,1.63,7.09
+IND_BIH_0771,2021,Bihar,Sugarcane,Annual,1.82,20.7,1181.6,72.7,6.4,38.2,21.5,163.6,2.0,5.7,145.0,DAP,15.4,Rain-fed,0,Desi,19.43,35.36
+IND_KAR_0772,2023,Karnataka,Rice,Kharif,6.18,28.3,1391.9,71.8,6.0,46.9,13.8,122.7,3.6,4.7,59.1,NPK,7.9,Drip,31,High Yielding Variety,1.42,8.78
+IND_AND_0773,2022,Andhra Pradesh,Chillies,Kharif,3.97,32.8,859.5,72.6,7.0,25.4,21.0,171.5,3.8,5.5,110.2,Urea,10.2,Tube well,10,Traditional,0.58,2.3
+IND_GUJ_0774,2020,Gujarat,Sugarcane,Annual,3.01,23.8,731.8,75.6,8.1,18.9,11.4,113.4,3.3,5.9,106.8,Organic,10.3,Rain-fed,0,High Yielding Variety,23.16,69.71
+IND_KAR_0775,2020,Karnataka,Rice,Kharif,3.52,24.6,1232.1,66.5,6.9,37.9,20.8,150.8,2.2,6.6,120.1,DAP,1.1,Canal,25,Hybrid,1.76,6.2
+IND_KAR_0776,2023,Karnataka,Rice,Kharif,3.78,30.6,858.9,85.2,6.1,51.3,18.9,164.6,2.4,8.1,136.2,NPK,3.9,Tube well,15,Traditional,1.31,4.95
+IND_MAH_0777,2020,Maharashtra,Wheat,Rabi,0.5,36.2,1018.9,61.9,7.1,21.1,14.5,190.3,2.4,7.4,77.0,Organic,9.7,Drip,26,Desi,0.75,0.38
+IND_GUJ_0778,2021,Gujarat,Cotton,Kharif,5.09,26.2,804.5,58.7,6.7,18.0,13.1,156.9,3.1,7.6,107.9,Urea,12.7,Drip,29,Traditional,0.38,1.93
+IND_WES_0779,2018,West Bengal,Mustard,Rabi,4.41,28.5,1591.6,60.8,5.9,32.5,17.6,205.6,3.1,8.0,153.5,Urea,9.8,Tube well,17,High Yielding Variety,0.51,2.25
+IND_UTT_0780,2021,Uttar Pradesh,Rice,Kharif,5.14,30.0,693.8,44.5,7.4,37.3,33.4,95.2,2.3,8.5,133.4,NPK,8.9,Tube well,24,High Yielding Variety,1.73,8.89
+IND_AND_0781,2019,Andhra Pradesh,Chillies,Kharif,1.82,41.6,760.7,85.0,7.1,20.8,27.5,167.6,4.6,6.1,152.9,NPK,1.4,Sprinkler,29,High Yielding Variety,1.02,1.86
+IND_WES_0782,2022,West Bengal,Jute,Kharif,4.95,25.3,1963.9,58.4,7.0,28.2,14.4,163.5,3.7,7.6,128.2,Mixed,8.6,Rain-fed,0,Desi,0.93,4.6
+IND_KAR_0783,2021,Karnataka,Sugarcane,Annual,0.82,33.4,1225.4,83.9,6.5,29.5,18.6,96.3,1.4,6.3,140.9,Mixed,4.7,Sprinkler,29,Traditional,35.74,29.31
+IND_UTT_0784,2019,Uttar Pradesh,Maize,Kharif,1.37,22.4,682.0,81.7,8.1,47.3,29.3,115.0,1.8,6.2,173.4,Organic,5.3,Rain-fed,0,Hybrid,1.6,2.19
+IND_KAR_0785,2019,Karnataka,Maize,Kharif,2.14,32.8,1282.5,73.1,6.5,43.2,14.9,144.5,3.3,6.2,97.2,Mixed,11.0,Sprinkler,20,Hybrid,0.65,1.39
+IND_MAH_0786,2023,Maharashtra,Sugarcane,Annual,2.23,21.5,1193.7,65.6,8.5,42.3,23.8,168.6,1.9,7.3,118.8,Urea,9.6,Tube well,13,Hybrid,55.29,123.3
+IND_PUN_0787,2021,Punjab,Barley,Rabi,9.52,21.4,795.8,56.9,7.3,20.3,17.4,198.7,3.1,8.2,195.8,NPK,1.2,Tube well,14,High Yielding Variety,1.29,12.28
+IND_KAR_0788,2022,Karnataka,Ragi,Kharif,6.43,22.2,1073.3,65.4,7.6,41.5,11.2,145.1,2.5,7.3,75.2,Urea,14.3,Rain-fed,0,Traditional,0.49,3.15
+IND_PUN_0789,2019,Punjab,Sugarcane,Annual,6.55,16.6,570.5,57.8,6.8,31.8,32.9,183.1,3.5,8.6,75.3,DAP,7.8,Rain-fed,0,Traditional,22.29,146.0
+IND_PUN_0790,2023,Punjab,Maize,Kharif,2.97,27.3,612.4,70.6,8.5,37.6,27.7,124.9,3.4,9.0,131.6,Mixed,14.6,Sprinkler,24,Hybrid,4.21,12.5
+IND_BIH_0791,2020,Bihar,Pulses,Kharif,2.63,30.5,1065.1,61.0,5.7,47.6,20.4,131.8,2.1,7.3,147.5,Mixed,10.7,Sprinkler,16,Hybrid,0.33,0.87
+IND_HAR_0792,2022,Haryana,Sugarcane,Annual,4.62,20.2,617.8,60.6,7.3,38.7,26.9,105.8,1.3,7.3,192.1,NPK,18.1,Sprinkler,26,High Yielding Variety,55.86,258.07
+IND_PUN_0793,2022,Punjab,Rice,Kharif,7.23,24.4,555.4,42.2,7.0,50.6,26.9,158.0,2.1,7.0,130.2,Urea,11.5,Drip,21,High Yielding Variety,1.84,13.3
+IND_GUJ_0794,2023,Gujarat,Sugarcane,Annual,0.93,36.2,815.8,49.3,6.5,43.3,18.1,205.6,3.2,6.8,119.6,DAP,8.3,Rain-fed,0,Desi,15.72,14.62
+IND_TAM_0795,2023,Tamil Nadu,Rice,Kharif,1.17,35.8,1205.3,80.6,8.5,28.5,33.4,118.5,2.0,5.0,102.2,Organic,5.5,Tube well,21,Traditional,1.14,1.33
+IND_KAR_0796,2020,Karnataka,Sugarcane,Annual,3.49,27.1,743.9,72.0,5.6,23.2,13.8,200.2,3.0,7.8,60.1,DAP,14.0,Sprinkler,32,High Yielding Variety,53.32,186.09
+IND_BIH_0797,2021,Bihar,Jute,Kharif,0.5,35.0,1379.2,52.9,6.6,31.3,15.2,153.9,3.8,6.7,160.0,DAP,4.1,Rain-fed,0,Traditional,0.9,0.45
+IND_BIH_0798,2023,Bihar,Pulses,Kharif,4.64,33.1,1373.9,46.8,6.8,44.9,20.3,112.4,3.2,6.7,191.8,Mixed,15.7,Rain-fed,0,Hybrid,0.24,1.11
+IND_RAJ_0799,2020,Rajasthan,Barley,Rabi,5.72,36.7,426.8,60.6,7.4,31.9,6.4,147.1,3.5,7.9,140.2,Urea,5.3,Drip,17,Desi,0.59,3.37
+IND_PUN_0800,2021,Punjab,Cotton,Kharif,6.02,18.2,467.0,66.2,8.5,36.5,18.3,140.9,2.9,7.2,124.8,DAP,10.3,Sprinkler,33,Hybrid,0.33,1.99
+IND_UTT_0801,2022,Uttar Pradesh,Maize,Kharif,3.92,29.4,783.6,64.3,6.6,21.8,11.2,165.2,2.6,5.5,139.1,Organic,0.8,Drip,33,Traditional,1.63,6.39
+IND_GUJ_0802,2018,Gujarat,Bajra,Kharif,3.48,34.7,649.6,46.4,7.2,31.7,23.5,157.5,2.5,6.9,75.3,NPK,12.9,Rain-fed,0,Hybrid,0.29,1.01
+IND_MAH_0803,2021,Maharashtra,Bajra,Kharif,4.84,24.3,660.3,56.9,7.5,22.5,34.8,104.2,3.0,9.1,144.0,Organic,8.9,Drip,28,Hybrid,0.49,2.37
+IND_BIH_0804,2018,Bihar,Rice,Kharif,0.5,32.9,1305.7,55.6,6.2,8.0,12.2,146.0,4.1,8.4,132.2,Urea,6.0,Rain-fed,0,Desi,1.19,0.6
+IND_RAJ_0805,2021,Rajasthan,Maize,Kharif,5.81,16.1,592.8,62.0,5.3,26.9,13.1,130.9,3.3,6.7,116.9,Urea,14.6,Drip,35,Desi,0.97,5.64
+IND_KAR_0806,2020,Karnataka,Rice,Kharif,6.73,29.3,646.4,72.8,7.3,40.3,23.5,123.6,1.9,10.0,100.6,Organic,11.5,Canal,12,Traditional,1.01,6.8
+IND_BIH_0807,2018,Bihar,Wheat,Rabi,2.44,20.0,1050.6,58.7,7.6,8.0,21.3,109.8,3.1,6.4,85.8,Urea,6.6,Sprinkler,35,Traditional,0.99,2.42
+IND_MAH_0808,2022,Maharashtra,Cotton,Kharif,2.05,27.5,734.0,70.2,6.0,32.9,26.0,128.5,2.1,7.5,164.7,Mixed,2.2,Tube well,11,Hybrid,0.55,1.13
+IND_KAR_0809,2020,Karnataka,Groundnut,Kharif,0.5,34.3,1307.3,71.9,7.2,24.7,16.3,100.7,2.9,8.3,76.1,DAP,4.9,Drip,18,Traditional,0.51,0.26
+IND_PUN_0810,2020,Punjab,Cotton,Kharif,12.85,24.4,487.0,62.8,7.1,8.0,24.0,203.2,2.9,7.0,99.5,Urea,16.8,Sprinkler,25,Hybrid,0.41,5.27
+IND_WES_0811,2019,West Bengal,Jute,Kharif,4.28,26.8,1260.3,77.9,7.1,41.6,32.1,189.1,1.7,8.1,149.5,Organic,11.1,Rain-fed,0,High Yielding Variety,1.63,6.98
+IND_TAM_0812,2019,Tamil Nadu,Maize,Kharif,8.83,26.7,842.0,64.8,6.2,37.8,36.9,120.7,2.6,8.4,119.3,NPK,6.3,Rain-fed,0,Desi,1.63,14.39
+IND_MAH_0813,2021,Maharashtra,Sugarcane,Annual,3.55,31.5,1050.5,70.3,7.5,37.6,23.9,151.9,2.8,8.6,180.6,DAP,0.5,Rain-fed,0,Traditional,48.2,171.11
+IND_BIH_0814,2019,Bihar,Rice,Kharif,1.62,35.7,1106.7,66.7,7.1,12.0,12.3,181.4,0.6,9.0,140.8,DAP,14.6,Tube well,15,Traditional,1.73,2.8
+IND_WES_0815,2021,West Bengal,Rice,Kharif,0.5,30.6,1774.2,78.4,6.6,36.0,15.7,121.3,3.6,6.4,84.2,Urea,2.5,Rain-fed,0,High Yielding Variety,0.64,0.32
+IND_PUN_0816,2018,Punjab,Maize,Kharif,8.59,32.7,434.1,71.6,7.0,16.9,26.7,209.0,2.3,7.6,140.6,Organic,16.1,Canal,24,High Yielding Variety,1.73,14.86
+IND_HAR_0817,2018,Haryana,Barley,Rabi,2.67,26.1,674.2,66.3,6.7,46.9,24.2,123.1,2.8,6.4,147.4,Mixed,6.7,Canal,11,High Yielding Variety,0.68,1.82
+IND_WES_0818,2019,West Bengal,Jute,Kharif,2.93,33.8,1614.7,79.7,7.1,44.2,23.2,135.1,2.7,7.6,140.2,Urea,6.2,Rain-fed,0,High Yielding Variety,1.66,4.86
+IND_UTT_0819,2022,Uttar Pradesh,Maize,Kharif,6.94,32.8,708.6,69.4,7.3,39.7,21.1,191.6,3.1,7.4,161.7,Mixed,9.2,Tube well,24,Hybrid,2.31,16.03
+IND_RAJ_0820,2022,Rajasthan,Wheat,Rabi,3.63,31.5,151.6,54.1,6.5,23.0,8.9,119.2,2.7,6.9,109.1,Mixed,0.0,Tube well,17,Hybrid,1.01,3.67
+IND_PUN_0821,2019,Punjab,Barley,Rabi,12.35,23.6,656.4,64.5,8.5,23.4,21.9,105.4,2.8,8.7,113.8,NPK,11.6,Rain-fed,0,Desi,0.65,8.03
+IND_BIH_0822,2023,Bihar,Sugarcane,Annual,1.96,24.9,1016.2,54.3,7.9,27.2,27.3,192.8,1.5,9.0,202.4,NPK,9.3,Rain-fed,0,Hybrid,70.03,137.26
+IND_AND_0823,2021,Andhra Pradesh,Cotton,Kharif,5.07,27.3,826.5,72.8,7.3,41.0,24.1,187.3,2.2,6.7,195.8,Urea,7.2,Drip,18,Desi,0.43,2.18
+IND_GUJ_0824,2023,Gujarat,Wheat,Rabi,2.87,35.3,540.8,54.7,6.2,29.6,5.0,127.2,2.0,8.1,93.1,Organic,12.4,Canal,10,Traditional,2.11,6.06
+IND_HAR_0825,2022,Haryana,Sugarcane,Annual,11.12,35.4,410.8,57.8,7.3,16.7,18.9,119.9,3.4,10.0,140.0,NPK,0.0,Sprinkler,22,Desi,35.7,396.98
+IND_AND_0826,2021,Andhra Pradesh,Rice,Kharif,3.24,25.2,831.1,77.0,6.1,23.7,25.2,114.5,3.2,5.7,190.6,DAP,4.1,Rain-fed,0,Traditional,0.97,3.14
+IND_PUN_0827,2023,Punjab,Maize,Kharif,9.32,33.9,644.3,54.3,8.1,44.5,18.6,144.9,4.7,9.3,83.1,Urea,8.5,Sprinkler,31,High Yielding Variety,2.89,26.93
+IND_UTT_0828,2023,Uttar Pradesh,Wheat,Rabi,2.73,25.9,713.2,78.1,7.7,8.0,29.7,188.1,2.5,8.4,85.6,Urea,5.6,Rain-fed,0,Hybrid,1.48,4.04
+IND_KAR_0829,2019,Karnataka,Sunflower,Rabi,2.46,23.2,636.7,60.0,7.1,34.1,29.6,150.5,2.5,8.3,124.8,Organic,4.2,Sprinkler,18,Hybrid,1.16,2.85
+IND_BIH_0830,2023,Bihar,Maize,Kharif,3.39,37.9,1254.1,49.3,6.7,35.0,18.4,194.5,3.0,8.6,120.4,Organic,13.3,Rain-fed,0,Traditional,0.72,2.44
+IND_MAD_0831,2021,Madhya Pradesh,Cotton,Kharif,3.03,34.2,702.1,59.9,7.2,29.0,28.9,106.2,2.5,8.5,132.6,Urea,7.8,Tube well,22,High Yielding Variety,0.54,1.64
+IND_MAH_0832,2023,Maharashtra,Sugarcane,Annual,3.36,28.8,587.3,76.2,6.6,31.2,15.7,147.0,2.3,7.8,127.9,Urea,11.9,Rain-fed,0,High Yielding Variety,25.43,85.44
+IND_BIH_0833,2021,Bihar,Rice,Kharif,2.32,22.7,1351.0,57.7,8.0,49.2,12.1,132.8,2.4,10.0,102.8,DAP,16.4,Tube well,20,Traditional,1.55,3.6
+IND_MAH_0834,2018,Maharashtra,Cotton,Kharif,1.02,24.2,612.6,57.3,6.6,25.2,29.3,192.8,3.6,7.8,123.7,NPK,5.5,Sprinkler,29,Hybrid,0.33,0.34
+IND_MAD_0835,2022,Madhya Pradesh,Soybean,Kharif,3.73,35.1,790.2,48.3,8.5,39.7,28.9,141.4,1.7,8.0,142.8,Urea,8.4,Canal,9,Desi,0.63,2.35
+IND_AND_0836,2021,Andhra Pradesh,Sugarcane,Annual,4.92,29.2,640.6,66.9,7.3,21.9,14.5,125.3,2.6,5.5,123.5,DAP,14.2,Canal,13,Traditional,26.57,130.72
+IND_TAM_0837,2023,Tamil Nadu,Cotton,Kharif,6.08,33.1,1263.6,85.7,7.2,44.2,16.9,84.1,3.2,5.7,81.5,Organic,8.0,Canal,23,Desi,0.14,0.85
+IND_GUJ_0838,2018,Gujarat,Sugarcane,Annual,0.5,39.5,639.8,48.7,8.3,16.3,36.9,135.6,2.9,5.1,117.5,Mixed,9.1,Sprinkler,33,Desi,15.3,7.65
+IND_MAD_0839,2020,Madhya Pradesh,Soybean,Kharif,1.87,30.2,1117.8,50.5,8.5,28.7,16.5,178.5,1.5,5.8,163.9,NPK,2.1,Canal,12,Traditional,0.29,0.54
+IND_BIH_0840,2021,Bihar,Maize,Kharif,6.74,29.7,1098.8,60.7,5.0,31.8,23.6,162.4,3.5,7.1,148.5,NPK,4.6,Drip,26,Desi,0.84,5.66
+IND_PUN_0841,2019,Punjab,Rice,Kharif,2.81,21.4,648.5,45.4,7.4,31.8,19.2,197.7,2.4,8.9,121.5,Urea,7.2,Canal,10,Traditional,1.88,5.28
+IND_KAR_0842,2018,Karnataka,Sugarcane,Annual,0.5,33.7,1375.9,85.3,7.8,29.2,33.0,85.3,2.4,5.5,136.5,NPK,2.4,Sprinkler,33,Desi,33.0,16.5
+IND_PUN_0843,2020,Punjab,Wheat,Rabi,7.25,19.6,755.6,55.2,6.2,68.6,16.1,72.4,2.1,6.7,153.0,Organic,9.6,Sprinkler,25,High Yielding Variety,2.68,19.43
+IND_HAR_0844,2020,Haryana,Rice,Kharif,6.52,18.4,425.2,59.2,8.0,39.0,24.0,167.5,3.5,8.3,134.4,NPK,13.9,Drip,20,Traditional,1.02,6.65
+IND_AND_0845,2022,Andhra Pradesh,Rice,Kharif,1.29,25.9,1061.0,65.5,7.4,12.8,23.7,146.2,3.7,6.5,111.9,Mixed,13.6,Drip,16,Traditional,2.35,3.03
+IND_AND_0846,2023,Andhra Pradesh,Chillies,Kharif,1.64,40.4,953.0,78.0,7.0,50.4,5.0,135.3,3.2,7.8,174.1,Mixed,14.0,Rain-fed,0,High Yielding Variety,0.61,1.0
+IND_KAR_0847,2021,Karnataka,Ragi,Kharif,5.6,30.6,1064.9,69.3,8.3,36.3,17.3,96.5,3.0,5.7,88.3,Organic,2.0,Canal,17,Traditional,0.47,2.63
+IND_MAD_0848,2021,Madhya Pradesh,Rice,Kharif,2.94,20.2,1011.6,70.7,7.0,25.5,21.8,218.7,3.1,6.9,58.9,Urea,6.9,Sprinkler,32,Hybrid,1.12,3.29
+IND_MAD_0849,2022,Madhya Pradesh,Maize,Kharif,2.22,35.1,825.5,43.3,8.5,24.4,25.4,108.7,3.9,7.6,158.0,Mixed,0.0,Sprinkler,23,Desi,1.37,3.04
+IND_BIH_0850,2020,Bihar,Wheat,Rabi,2.98,33.5,1365.3,60.7,6.7,44.4,19.5,119.5,2.1,5.8,99.6,Organic,13.5,Tube well,12,Traditional,0.69,2.06
+IND_AND_0851,2023,Andhra Pradesh,Rice,Kharif,1.94,33.9,549.9,81.4,7.0,44.3,7.4,120.2,1.5,7.0,168.5,DAP,5.5,Sprinkler,23,Traditional,0.93,1.8
+IND_MAH_0852,2021,Maharashtra,Sugarcane,Annual,4.74,29.4,1099.1,66.8,6.2,51.5,37.2,168.2,1.1,6.5,144.5,DAP,5.9,Tube well,14,High Yielding Variety,84.43,400.2
+IND_MAH_0853,2021,Maharashtra,Wheat,Rabi,4.18,21.8,811.8,52.9,7.0,28.3,29.4,224.1,1.7,4.9,110.2,NPK,0.4,Canal,14,Hybrid,1.03,4.31
+IND_UTT_0854,2023,Uttar Pradesh,Sugarcane,Annual,4.5,28.8,1068.4,58.1,5.4,35.3,20.6,172.4,2.2,7.0,60.9,Urea,0.0,Canal,23,High Yielding Variety,47.87,215.42
+IND_HAR_0855,2018,Haryana,Cotton,Kharif,1.72,17.0,678.7,63.4,6.7,28.5,12.1,40.0,4.0,6.8,103.5,NPK,0.7,Rain-fed,0,Desi,0.25,0.43
+IND_MAD_0856,2021,Madhya Pradesh,Wheat,Rabi,3.29,25.8,680.1,76.8,7.1,32.8,12.5,83.7,2.7,7.7,164.0,DAP,0.0,Rain-fed,0,Hybrid,0.99,3.26
+IND_HAR_0857,2022,Haryana,Wheat,Rabi,5.68,33.9,699.4,60.0,7.1,33.5,23.3,118.4,3.5,8.5,107.2,DAP,16.0,Drip,30,High Yielding Variety,2.61,14.82
+IND_RAJ_0858,2020,Rajasthan,Bajra,Kharif,4.87,30.4,364.0,67.9,8.5,49.8,32.6,180.8,3.9,9.2,128.7,DAP,0.1,Rain-fed,0,Desi,0.57,2.78
+IND_AND_0859,2019,Andhra Pradesh,Rice,Kharif,3.78,30.5,736.5,75.6,6.5,44.7,32.6,182.1,3.6,7.2,50.3,NPK,5.7,Drip,29,Desi,1.04,3.93
+IND_RAJ_0860,2023,Rajasthan,Bajra,Kharif,2.01,44.2,401.3,68.5,6.9,12.2,16.1,151.5,3.8,6.1,140.5,Mixed,9.5,Rain-fed,0,Traditional,0.29,0.58
+IND_AND_0861,2020,Andhra Pradesh,Cotton,Kharif,4.86,32.8,523.9,69.7,6.6,41.1,14.3,157.9,2.7,7.6,101.6,NPK,6.3,Rain-fed,0,Hybrid,0.28,1.36
+IND_TAM_0862,2018,Tamil Nadu,Millets,Kharif,3.4,36.1,1049.7,67.1,7.1,16.1,23.0,111.0,2.6,6.7,131.2,NPK,5.2,Canal,9,Hybrid,0.31,1.05
+IND_GUJ_0863,2023,Gujarat,Wheat,Rabi,5.87,26.9,350.8,62.8,8.5,32.2,14.5,126.0,2.4,6.7,68.8,Urea,2.4,Tube well,22,Desi,0.9,5.28
+IND_AND_0864,2020,Andhra Pradesh,Sunflower,Rabi,4.18,40.4,996.7,72.0,7.0,50.2,30.4,140.1,2.3,6.3,147.7,DAP,7.0,Tube well,17,Hybrid,0.35,1.46
+IND_TAM_0865,2018,Tamil Nadu,Groundnut,Kharif,1.37,27.9,1087.4,68.8,8.1,28.6,18.8,103.2,2.8,6.7,118.0,Organic,15.4,Canal,23,Desi,0.63,0.86
+IND_KAR_0866,2019,Karnataka,Maize,Kharif,1.41,31.9,752.6,85.4,7.5,43.3,24.9,199.7,1.2,7.8,159.3,NPK,1.3,Rain-fed,0,High Yielding Variety,1.26,1.78
+IND_AND_0867,2021,Andhra Pradesh,Groundnut,Kharif,1.3,36.8,550.9,69.2,8.0,48.0,13.3,120.4,3.9,8.1,123.3,DAP,10.4,Canal,13,Desi,0.79,1.03
+IND_PUN_0868,2020,Punjab,Cotton,Kharif,10.1,31.0,450.9,44.9,6.6,26.9,17.0,117.6,2.4,6.4,141.9,Mixed,7.6,Canal,13,Hybrid,0.29,2.93
+IND_BIH_0869,2019,Bihar,Jute,Kharif,1.33,23.2,1123.6,63.4,7.1,39.1,8.5,169.3,2.2,7.6,118.6,NPK,5.4,Rain-fed,0,Desi,0.6,0.8
+IND_TAM_0870,2020,Tamil Nadu,Sugarcane,Annual,2.43,35.3,1296.5,88.0,6.0,55.3,17.9,151.2,1.9,6.2,99.9,Urea,2.8,Drip,24,Hybrid,43.23,105.05
+IND_AND_0871,2021,Andhra Pradesh,Sugarcane,Annual,2.19,33.6,587.8,89.8,7.4,22.2,25.5,136.1,0.8,8.1,75.3,Urea,2.8,Rain-fed,0,Hybrid,23.36,51.16
+IND_PUN_0872,2018,Punjab,Barley,Rabi,6.61,29.5,667.9,53.6,7.9,25.9,37.9,125.7,3.6,9.2,132.6,NPK,4.6,Rain-fed,0,Hybrid,0.73,4.83
+IND_BIH_0873,2021,Bihar,Potato,Rabi,0.5,32.1,1475.5,62.2,5.0,19.8,14.0,160.2,3.0,7.4,145.4,NPK,2.9,Drip,19,High Yielding Variety,10.43,5.22
+IND_UTT_0874,2018,Uttar Pradesh,Barley,Rabi,3.95,23.8,1158.6,78.3,7.6,23.4,22.0,176.3,2.3,8.8,135.3,Urea,0.0,Sprinkler,29,Desi,0.89,3.52
+IND_WES_0875,2020,West Bengal,Maize,Kharif,2.19,33.0,1311.4,79.3,8.0,37.3,33.3,143.7,3.3,8.8,116.1,Organic,11.9,Sprinkler,27,Hybrid,1.24,2.72
+IND_WES_0876,2023,West Bengal,Potato,Rabi,2.15,29.3,1348.0,77.6,8.3,44.5,17.7,108.8,3.1,9.1,150.2,DAP,13.4,Rain-fed,0,Desi,6.44,13.85
+IND_AND_0877,2020,Andhra Pradesh,Maize,Kharif,2.07,25.7,626.5,69.1,7.4,33.4,18.9,122.8,3.6,7.4,113.0,Mixed,4.3,Rain-fed,0,Hybrid,1.69,3.5
+IND_TAM_0878,2022,Tamil Nadu,Millets,Kharif,5.62,29.1,1088.7,81.1,8.0,36.5,32.8,157.6,1.7,7.5,129.8,Organic,5.0,Sprinkler,17,High Yielding Variety,0.76,4.27
+IND_UTT_0879,2021,Uttar Pradesh,Peas,Rabi,0.5,18.2,720.1,69.9,6.4,23.2,19.1,165.2,2.9,6.6,99.8,Urea,2.3,Sprinkler,28,Traditional,0.41,0.2
+IND_HAR_0880,2020,Haryana,Wheat,Rabi,12.3,34.3,524.3,74.6,6.7,32.8,37.4,200.6,1.5,8.5,120.0,NPK,12.1,Rain-fed,0,Desi,1.45,17.84
+IND_RAJ_0881,2023,Rajasthan,Maize,Kharif,1.32,43.3,158.7,53.2,6.7,44.8,10.6,128.2,1.4,8.0,170.8,Urea,6.4,Rain-fed,0,High Yielding Variety,0.69,0.91
+IND_MAH_0882,2020,Maharashtra,Wheat,Rabi,3.91,31.5,1014.7,53.0,5.7,21.6,20.6,127.1,3.0,6.5,77.7,DAP,2.1,Rain-fed,0,Traditional,0.63,2.46
+IND_GUJ_0883,2020,Gujarat,Groundnut,Kharif,4.78,24.9,808.3,77.3,8.4,34.6,21.8,148.5,0.4,9.3,139.6,DAP,9.6,Sprinkler,25,Desi,1.03,4.92
+IND_HAR_0884,2019,Haryana,Sugarcane,Annual,8.65,32.0,423.7,46.9,7.4,41.7,18.4,163.0,2.0,6.8,129.5,Organic,11.4,Drip,16,Hybrid,27.84,240.82
+IND_MAH_0885,2020,Maharashtra,Jowar,Kharif,4.04,39.4,571.8,54.6,7.0,18.9,13.2,183.8,2.8,6.7,115.3,Mixed,10.4,Rain-fed,0,Traditional,0.46,1.86
+IND_MAH_0886,2019,Maharashtra,Wheat,Rabi,2.85,33.9,975.3,64.1,7.2,42.9,22.5,187.1,3.5,6.0,76.6,Urea,4.5,Sprinkler,19,Desi,0.74,2.11
+IND_WES_0887,2019,West Bengal,Jute,Kharif,0.5,32.6,1288.4,78.2,7.5,49.0,21.4,103.0,2.0,6.4,98.5,Organic,7.1,Drip,20,Desi,1.21,0.6
+IND_HAR_0888,2018,Haryana,Mustard,Rabi,13.88,28.9,474.7,71.9,8.0,26.7,22.7,105.3,3.5,7.9,103.6,Urea,1.9,Sprinkler,29,Desi,0.36,5.0
+IND_BIH_0889,2020,Bihar,Potato,Rabi,0.92,25.7,1030.3,71.1,7.8,56.7,30.6,116.0,1.2,10.0,210.8,Mixed,8.9,Drip,20,Hybrid,11.4,10.49
+IND_MAH_0890,2022,Maharashtra,Sugarcane,Annual,4.93,22.8,525.3,68.9,7.5,20.8,17.4,173.1,3.2,7.5,157.3,Mixed,6.2,Rain-fed,0,High Yielding Variety,26.08,128.57
+IND_RAJ_0891,2019,Rajasthan,Wheat,Rabi,0.5,24.3,541.7,55.5,6.8,22.5,28.0,169.2,3.5,4.7,113.6,NPK,6.6,Rain-fed,0,High Yielding Variety,0.91,0.46
+IND_PUN_0892,2021,Punjab,Wheat,Rabi,5.54,32.5,538.9,40.9,8.5,40.8,19.7,181.7,1.6,7.4,115.2,Urea,14.8,Canal,18,Hybrid,2.45,13.57
+IND_HAR_0893,2021,Haryana,Sugarcane,Annual,9.8,30.5,547.8,54.1,8.1,34.0,25.4,170.2,3.2,9.3,164.2,NPK,7.4,Drip,34,High Yielding Variety,80.5,788.9
+IND_PUN_0894,2020,Punjab,Sugarcane,Annual,6.47,22.8,447.6,59.2,5.7,45.3,5.0,245.0,4.0,7.9,120.4,DAP,9.5,Rain-fed,0,Hybrid,26.71,172.81
+IND_PUN_0895,2020,Punjab,Maize,Kharif,8.77,33.6,790.4,58.6,7.1,37.2,9.5,151.4,2.9,8.4,111.4,Urea,13.7,Canal,25,Desi,1.58,13.86
+IND_AND_0896,2021,Andhra Pradesh,Cotton,Kharif,3.45,24.7,951.9,85.4,7.1,37.6,19.2,193.3,2.6,8.8,115.9,Organic,3.7,Tube well,13,Desi,0.3,1.03
+IND_MAH_0897,2018,Maharashtra,Sugarcane,Annual,2.39,30.0,737.9,66.2,6.8,22.2,15.6,129.9,2.8,5.6,132.7,NPK,14.8,Sprinkler,24,Hybrid,39.05,93.33
+IND_MAD_0898,2022,Madhya Pradesh,Soybean,Kharif,4.62,34.5,1000.6,78.7,6.8,26.4,26.3,174.8,3.4,9.6,120.5,NPK,10.1,Sprinkler,27,Desi,0.5,2.31
+IND_RAJ_0899,2021,Rajasthan,Wheat,Rabi,7.27,19.4,233.4,56.6,6.6,26.2,15.8,102.2,2.2,9.1,149.4,Organic,12.6,Rain-fed,0,Hybrid,1.62,11.78
+IND_MAD_0900,2022,Madhya Pradesh,Wheat,Rabi,6.67,41.7,1132.2,42.3,6.1,25.4,16.2,139.5,2.4,7.6,121.4,Organic,4.4,Sprinkler,22,Hybrid,0.64,4.27
+IND_GUJ_0901,2020,Gujarat,Cotton,Kharif,1.01,23.1,867.0,54.5,7.0,21.4,16.1,110.4,2.7,6.1,86.0,DAP,1.5,Canal,23,Traditional,0.18,0.18
+IND_UTT_0902,2019,Uttar Pradesh,Sugarcane,Annual,1.27,37.7,797.3,69.1,7.6,34.2,13.6,163.3,3.4,7.7,184.1,Mixed,10.3,Drip,33,High Yielding Variety,58.75,74.61
+IND_HAR_0903,2022,Haryana,Barley,Rabi,8.53,22.0,402.2,66.8,7.5,39.1,24.1,188.5,1.7,6.8,129.2,NPK,4.4,Canal,22,Traditional,2.55,21.75
+IND_MAH_0904,2018,Maharashtra,Cotton,Kharif,4.03,38.5,425.3,59.2,6.7,29.2,20.2,153.9,2.4,6.9,173.8,DAP,14.9,Rain-fed,0,Desi,0.14,0.56
+IND_UTT_0905,2018,Uttar Pradesh,Barley,Rabi,0.5,30.3,977.0,65.4,7.9,52.1,20.4,172.0,2.3,7.9,173.2,Organic,5.1,Drip,25,Desi,0.63,0.32
+IND_RAJ_0906,2019,Rajasthan,Jowar,Kharif,3.19,44.9,553.8,57.7,7.8,29.6,33.7,104.9,3.8,5.9,48.2,Organic,9.2,Canal,16,High Yielding Variety,0.37,1.18
+IND_GUJ_0907,2018,Gujarat,Rice,Kharif,0.78,39.7,598.0,43.2,7.7,35.7,23.8,149.0,1.7,5.7,111.9,Mixed,7.2,Sprinkler,29,Desi,0.66,0.51
+IND_BIH_0908,2023,Bihar,Maize,Kharif,4.51,37.4,1386.7,66.1,6.9,18.4,23.3,168.4,0.9,6.6,92.4,DAP,8.6,Sprinkler,24,High Yielding Variety,0.75,3.38
+IND_UTT_0909,2018,Uttar Pradesh,Wheat,Rabi,2.92,19.5,843.1,57.9,6.6,22.0,23.0,170.0,2.2,9.3,107.4,Organic,15.7,Tube well,8,Hybrid,2.08,6.07
+IND_MAD_0910,2021,Madhya Pradesh,Rice,Kharif,0.5,36.0,1141.3,60.3,6.6,34.6,15.9,139.4,3.5,7.5,144.4,Urea,6.8,Rain-fed,0,Hybrid,1.09,0.55
+IND_MAH_0911,2021,Maharashtra,Rice,Kharif,0.69,29.9,777.1,56.3,7.1,41.8,17.9,162.2,1.1,7.1,52.8,Organic,2.0,Canal,13,Hybrid,1.22,0.84
+IND_TAM_0912,2022,Tamil Nadu,Groundnut,Kharif,5.55,32.9,1291.2,74.8,6.6,28.5,23.4,101.5,3.3,6.6,153.0,Urea,12.8,Drip,33,Desi,0.4,2.22
+IND_KAR_0913,2021,Karnataka,Ragi,Kharif,1.84,27.4,882.9,68.2,8.5,42.3,35.3,179.0,2.2,6.5,143.5,Urea,10.2,Rain-fed,0,Traditional,0.73,1.34
+IND_TAM_0914,2019,Tamil Nadu,Groundnut,Kharif,0.5,32.5,1066.7,72.4,7.3,32.1,21.0,195.0,2.7,5.7,113.5,Mixed,5.7,Canal,21,Traditional,0.53,0.26
+IND_HAR_0915,2021,Haryana,Sugarcane,Annual,12.68,22.8,467.4,61.1,7.2,39.0,17.0,133.2,2.3,8.0,24.7,Urea,2.5,Drip,29,Desi,22.2,281.5
+IND_UTT_0916,2021,Uttar Pradesh,Rice,Kharif,5.42,37.7,708.5,51.9,7.4,37.7,30.4,194.2,2.8,6.9,93.4,Mixed,6.8,Tube well,24,Hybrid,0.9,4.88
+IND_MAD_0917,2019,Madhya Pradesh,Cotton,Kharif,4.11,36.7,978.6,64.2,8.5,36.5,28.8,137.7,3.7,8.6,160.3,Organic,8.5,Rain-fed,0,Desi,0.14,0.58
+IND_MAD_0918,2021,Madhya Pradesh,Soybean,Kharif,0.5,36.7,895.6,56.9,7.9,45.1,17.7,196.1,0.5,5.8,83.4,Mixed,3.9,Rain-fed,0,Hybrid,0.35,0.18
+IND_WES_0919,2023,West Bengal,Rice,Kharif,3.58,24.5,1755.2,78.2,6.1,39.8,15.0,95.0,3.6,9.5,182.3,Mixed,8.9,Tube well,14,Hybrid,2.54,9.09
+IND_TAM_0920,2021,Tamil Nadu,Groundnut,Kharif,5.74,36.8,967.1,77.2,8.0,37.2,30.4,157.8,1.6,8.8,82.1,Urea,14.3,Tube well,25,High Yielding Variety,0.58,3.33
+IND_KAR_0921,2023,Karnataka,Sunflower,Rabi,5.35,24.8,1387.4,84.1,7.6,41.1,23.4,79.5,2.9,5.7,126.8,Organic,2.3,Canal,10,Traditional,0.3,1.6
+IND_HAR_0922,2022,Haryana,Wheat,Rabi,14.42,26.0,656.5,61.8,7.0,41.8,14.6,184.8,2.6,7.5,120.9,Urea,5.0,Drip,25,Traditional,2.12,30.57
+IND_GUJ_0923,2023,Gujarat,Groundnut,Kharif,1.93,27.6,756.8,64.7,7.1,40.5,16.5,166.3,3.2,8.7,95.8,Urea,3.3,Rain-fed,0,High Yielding Variety,0.95,1.83
+IND_TAM_0924,2018,Tamil Nadu,Maize,Kharif,1.06,28.1,1122.0,90.0,8.4,35.2,26.9,92.7,4.8,6.4,115.2,Mixed,0.0,Canal,25,High Yielding Variety,1.41,1.49
+IND_HAR_0925,2019,Haryana,Wheat,Rabi,3.57,34.7,663.1,61.0,6.7,22.1,13.6,157.9,1.8,7.1,146.5,NPK,21.0,Rain-fed,0,Hybrid,1.46,5.21
+IND_BIH_0926,2023,Bihar,Sugarcane,Annual,1.17,29.7,1009.2,56.5,8.0,37.6,27.3,139.0,3.9,7.4,81.2,NPK,18.9,Rain-fed,0,Hybrid,26.5,31.0
+IND_KAR_0927,2019,Karnataka,Maize,Kharif,1.52,28.8,1029.8,70.0,8.5,31.0,39.4,162.9,3.6,7.2,118.0,Organic,6.7,Sprinkler,15,Hybrid,1.22,1.85
+IND_KAR_0928,2018,Karnataka,Cotton,Kharif,4.22,28.0,1385.2,87.1,5.0,41.1,25.7,190.1,2.7,7.2,159.4,DAP,15.5,Sprinkler,26,Hybrid,0.27,1.14
+IND_GUJ_0929,2019,Gujarat,Groundnut,Kharif,3.53,21.9,855.6,76.8,5.3,26.7,31.7,188.2,3.2,6.9,84.7,Organic,5.0,Rain-fed,0,Desi,0.41,1.45
+IND_TAM_0930,2023,Tamil Nadu,Coconut,Annual,1.74,39.5,1204.6,75.8,6.5,45.1,15.7,146.6,1.5,5.2,120.3,Urea,1.4,Canal,22,Hybrid,5.77,10.04
+IND_BIH_0931,2018,Bihar,Potato,Rabi,0.5,20.3,1261.0,52.0,6.2,23.5,12.1,140.0,4.4,7.7,167.3,Urea,10.5,Sprinkler,20,Desi,13.44,6.72
+IND_AND_0932,2023,Andhra Pradesh,Chillies,Kharif,0.5,38.6,756.6,70.4,8.5,52.8,16.2,132.4,2.0,6.5,70.7,Organic,10.1,Canal,24,Traditional,0.45,0.22
+IND_AND_0933,2022,Andhra Pradesh,Chillies,Kharif,4.21,30.6,1093.3,80.0,5.7,53.6,24.1,176.2,2.2,8.0,165.1,NPK,7.5,Rain-fed,0,Traditional,0.66,2.78
+IND_PUN_0934,2023,Punjab,Barley,Rabi,8.18,26.8,736.9,65.9,5.7,39.5,14.1,120.4,4.2,7.9,79.9,NPK,6.2,Tube well,25,Desi,0.47,3.84
+IND_MAD_0935,2020,Madhya Pradesh,Rice,Kharif,5.87,36.6,964.2,53.0,6.7,41.4,11.8,235.6,3.5,7.1,89.1,Mixed,7.4,Drip,27,Hybrid,1.12,6.57
+IND_GUJ_0936,2022,Gujarat,Cotton,Kharif,6.91,22.0,774.4,47.7,7.3,34.8,19.1,146.2,2.7,8.4,144.4,Urea,10.1,Drip,35,Hybrid,0.2,1.38
+IND_PUN_0937,2019,Punjab,Maize,Kharif,9.2,29.8,642.0,43.4,6.4,31.9,15.2,193.2,2.9,10.0,136.6,Urea,9.2,Drip,28,High Yielding Variety,5.19,47.75
+IND_KAR_0938,2018,Karnataka,Sugarcane,Annual,4.64,28.6,812.5,74.4,7.9,32.7,11.7,150.3,1.9,4.7,149.1,Mixed,10.9,Canal,22,Traditional,30.63,142.12
+IND_BIH_0939,2019,Bihar,Maize,Kharif,5.61,28.7,1100.5,53.3,6.9,24.9,19.4,128.6,1.3,7.1,74.5,NPK,9.2,Rain-fed,0,Hybrid,0.69,3.87
+IND_MAH_0940,2023,Maharashtra,Sugarcane,Annual,5.22,31.8,972.5,44.5,8.5,53.9,20.2,196.3,2.4,5.0,89.6,Mixed,16.6,Tube well,11,Traditional,20.14,105.13
+IND_RAJ_0941,2021,Rajasthan,Bajra,Kharif,3.0,21.3,223.3,60.3,7.3,28.3,8.6,157.5,3.7,7.8,87.6,Urea,1.7,Sprinkler,28,High Yielding Variety,0.31,0.93
+IND_PUN_0942,2021,Punjab,Rice,Kharif,14.27,30.9,707.6,68.9,7.6,36.4,25.3,130.9,1.7,9.1,169.5,Mixed,2.4,Canal,19,Desi,2.37,33.82
+IND_GUJ_0943,2020,Gujarat,Rice,Kharif,6.36,32.4,350.0,60.0,6.7,27.6,23.5,93.9,1.6,7.4,119.1,Organic,9.7,Sprinkler,29,Desi,1.32,8.4
+IND_UTT_0944,2021,Uttar Pradesh,Rice,Kharif,3.21,21.9,1013.0,67.7,6.7,35.9,19.1,186.2,1.8,4.8,111.5,DAP,10.3,Tube well,24,High Yielding Variety,1.28,4.11
+IND_TAM_0945,2022,Tamil Nadu,Sugarcane,Annual,5.46,30.8,1035.9,78.5,7.0,47.3,16.9,151.0,3.1,5.9,144.9,Urea,16.2,Canal,21,High Yielding Variety,55.57,303.41
+IND_KAR_0946,2022,Karnataka,Rice,Kharif,0.74,26.6,996.5,77.7,7.6,55.1,18.4,164.3,2.1,6.6,59.0,NPK,7.0,Drip,24,Traditional,1.33,0.98
+IND_MAH_0947,2019,Maharashtra,Sugarcane,Annual,3.6,20.6,894.2,53.8,6.9,36.0,20.3,176.6,2.7,6.8,112.8,Urea,4.4,Rain-fed,0,Desi,18.16,65.38
+IND_MAH_0948,2019,Maharashtra,Rice,Kharif,7.06,27.7,495.3,56.1,7.0,31.0,22.2,90.1,3.6,8.0,70.3,Urea,0.0,Rain-fed,0,Desi,0.61,4.31
+IND_HAR_0949,2018,Haryana,Wheat,Rabi,7.03,22.1,545.7,85.8,6.6,34.4,22.0,104.0,2.7,7.1,75.8,NPK,9.3,Drip,33,Desi,3.0,21.09
+IND_AND_0950,2019,Andhra Pradesh,Cotton,Kharif,4.68,40.3,505.1,79.6,6.8,43.6,22.5,154.7,2.3,6.7,123.0,DAP,20.2,Sprinkler,29,Desi,0.21,0.98
+IND_BIH_0951,2021,Bihar,Sugarcane,Annual,1.78,31.5,1234.2,51.7,6.8,45.9,17.0,159.1,3.4,6.9,94.4,Organic,16.3,Sprinkler,25,High Yielding Variety,72.25,128.6
+IND_BIH_0952,2019,Bihar,Rice,Kharif,4.58,36.9,1056.8,67.9,7.6,59.2,20.4,170.2,1.6,6.6,72.0,Mixed,14.4,Rain-fed,0,Traditional,0.38,1.74
+IND_MAD_0953,2019,Madhya Pradesh,Wheat,Rabi,2.2,25.2,695.4,35.0,8.4,39.8,13.3,187.3,2.8,7.3,71.9,Mixed,3.0,Rain-fed,0,High Yielding Variety,0.78,1.72
+IND_GUJ_0954,2022,Gujarat,Rice,Kharif,3.09,22.6,405.5,60.8,8.5,39.6,5.0,159.2,1.6,6.2,87.5,Mixed,4.7,Rain-fed,0,High Yielding Variety,0.47,1.45
+IND_UTT_0955,2019,Uttar Pradesh,Maize,Kharif,3.41,30.7,913.1,45.9,6.0,31.6,5.0,139.5,3.3,8.4,123.1,Organic,12.4,Sprinkler,17,Traditional,2.23,7.6
+IND_RAJ_0956,2020,Rajasthan,Wheat,Rabi,6.42,40.8,193.9,54.8,5.9,30.1,12.4,165.8,1.9,6.7,153.5,Organic,7.5,Sprinkler,15,Traditional,0.63,4.04
+IND_MAH_0957,2022,Maharashtra,Cotton,Kharif,5.35,28.8,413.9,41.2,7.2,37.2,24.9,148.8,2.5,6.7,95.5,Urea,11.9,Tube well,13,Traditional,0.2,1.07
+IND_UTT_0958,2023,Uttar Pradesh,Potato,Rabi,4.69,18.7,910.2,66.2,6.5,42.7,21.7,129.1,3.2,8.2,166.3,Urea,12.8,Drip,20,High Yielding Variety,21.24,99.62
+IND_MAH_0959,2019,Maharashtra,Soybean,Kharif,0.74,32.7,638.4,84.5,7.6,20.9,19.0,147.2,3.8,6.3,109.5,Urea,0.0,Drip,23,Desi,0.69,0.51
+IND_PUN_0960,2021,Punjab,Rice,Kharif,3.72,22.1,785.5,59.0,7.9,55.1,22.0,172.9,3.1,9.4,101.5,Urea,13.4,Sprinkler,18,Traditional,2.2,8.18
+IND_KAR_0961,2018,Karnataka,Ragi,Kharif,5.17,33.7,774.8,69.7,6.0,54.1,19.9,159.9,2.3,5.4,95.8,Urea,9.1,Sprinkler,35,Hybrid,0.85,4.39
+IND_MAH_0962,2019,Maharashtra,Cotton,Kharif,3.32,37.0,454.1,63.5,6.9,41.0,31.9,174.7,3.4,7.6,59.9,NPK,2.8,Rain-fed,0,Hybrid,0.16,0.53
+IND_RAJ_0963,2023,Rajasthan,Wheat,Rabi,2.98,16.7,571.8,64.4,8.5,43.7,30.1,153.3,2.2,6.7,87.8,DAP,15.8,Tube well,19,Hybrid,1.94,5.78
+IND_GUJ_0964,2021,Gujarat,Sugarcane,Annual,4.04,28.7,638.5,65.9,6.0,34.9,17.5,173.2,3.0,9.0,95.9,DAP,11.5,Sprinkler,34,Traditional,44.56,180.02
+IND_PUN_0965,2020,Punjab,Sugarcane,Annual,1.46,32.7,419.7,50.8,7.1,48.3,23.7,109.1,2.7,10.0,124.4,Mixed,6.4,Sprinkler,26,Hybrid,63.35,92.49
+IND_GUJ_0966,2023,Gujarat,Groundnut,Kharif,4.53,38.3,420.3,56.7,7.8,37.0,23.9,123.4,2.1,8.5,116.8,Organic,9.4,Canal,17,High Yielding Variety,0.78,3.53
+IND_BIH_0967,2023,Bihar,Wheat,Rabi,4.8,36.6,1213.7,53.9,8.3,28.7,35.7,161.0,2.0,8.0,104.7,Mixed,10.2,Drip,28,Hybrid,1.21,5.81
+IND_GUJ_0968,2023,Gujarat,Jowar,Kharif,3.15,36.1,470.8,48.4,6.2,39.4,32.8,137.7,3.4,8.7,152.6,Organic,6.4,Rain-fed,0,Traditional,0.43,1.35
+IND_MAH_0969,2020,Maharashtra,Soybean,Kharif,0.5,26.4,949.1,57.4,7.8,23.6,20.8,174.8,2.3,7.4,103.4,Urea,11.5,Drip,15,Hybrid,1.2,0.6
+IND_RAJ_0970,2023,Rajasthan,Wheat,Rabi,3.11,32.9,476.1,53.1,7.1,34.1,20.6,238.4,3.1,4.4,98.3,Urea,0.0,Sprinkler,27,High Yielding Variety,0.94,2.92
+IND_GUJ_0971,2023,Gujarat,Rice,Kharif,0.5,32.5,442.8,51.3,7.2,38.6,19.2,101.2,3.2,9.7,136.4,Organic,5.9,Sprinkler,34,Traditional,1.06,0.53
+IND_UTT_0972,2018,Uttar Pradesh,Peas,Rabi,1.18,34.6,983.1,62.6,7.9,43.5,24.1,127.0,2.9,6.5,120.7,Urea,9.7,Drip,21,Desi,0.38,0.45
+IND_WES_0973,2023,West Bengal,Mustard,Rabi,0.5,30.0,1778.1,78.9,7.9,42.1,30.4,111.9,1.7,7.8,33.6,DAP,14.2,Rain-fed,0,Traditional,0.25,0.12
+IND_HAR_0974,2023,Haryana,Mustard,Rabi,6.27,24.2,359.3,60.5,7.3,41.7,18.6,183.0,3.2,7.3,173.4,NPK,1.2,Sprinkler,26,High Yielding Variety,1.4,8.78
+IND_TAM_0975,2022,Tamil Nadu,Coconut,Annual,4.93,38.4,1162.2,69.2,6.4,34.1,18.7,130.7,4.6,6.2,160.2,NPK,6.0,Tube well,20,High Yielding Variety,4.72,23.27
+IND_RAJ_0976,2022,Rajasthan,Barley,Rabi,3.21,38.9,469.4,75.6,8.5,38.0,14.7,165.9,2.6,7.9,68.1,Urea,19.8,Tube well,10,Hybrid,0.87,2.79
+IND_UTT_0977,2022,Uttar Pradesh,Rice,Kharif,0.5,19.0,1046.6,52.9,7.9,49.1,9.8,175.0,1.2,7.4,164.5,Mixed,5.2,Drip,21,High Yielding Variety,1.57,0.78
+IND_RAJ_0978,2018,Rajasthan,Mustard,Rabi,3.29,38.9,246.2,51.1,6.5,10.7,21.4,144.4,1.8,7.0,161.1,NPK,6.9,Rain-fed,0,High Yielding Variety,0.31,1.02
+IND_AND_0979,2020,Andhra Pradesh,Sunflower,Rabi,3.55,32.3,896.1,65.4,7.8,44.2,18.9,171.2,3.0,5.6,106.7,Mixed,4.9,Sprinkler,30,Traditional,0.25,0.89
+IND_PUN_0980,2018,Punjab,Barley,Rabi,2.78,17.2,412.7,71.3,8.5,46.7,30.2,137.9,2.3,7.3,145.8,NPK,9.1,Sprinkler,32,Desi,2.21,6.14
+IND_PUN_0981,2018,Punjab,Cotton,Kharif,13.18,20.3,484.0,64.0,7.8,47.5,24.4,216.4,4.1,8.7,86.5,Urea,1.5,Canal,15,Desi,0.24,3.16
+IND_WES_0982,2020,West Bengal,Potato,Rabi,4.51,29.1,1762.1,84.3,7.0,42.5,26.6,80.7,2.5,8.9,131.0,Organic,2.0,Canal,8,Desi,4.72,21.29
+IND_PUN_0983,2020,Punjab,Cotton,Kharif,6.54,26.3,438.4,59.3,7.7,43.0,5.0,104.0,2.6,8.9,139.6,Urea,10.4,Sprinkler,22,Traditional,0.4,2.62
+IND_KAR_0984,2018,Karnataka,Cotton,Kharif,2.34,22.3,789.6,69.2,7.9,24.0,26.8,157.3,2.8,6.2,65.8,Urea,4.8,Rain-fed,0,Desi,0.11,0.26
+IND_MAD_0985,2018,Madhya Pradesh,Wheat,Rabi,0.5,34.7,1090.6,58.0,6.8,35.6,15.6,155.2,4.0,8.5,140.8,Organic,5.5,Rain-fed,0,High Yielding Variety,1.0,0.5
+IND_KAR_0986,2018,Karnataka,Groundnut,Kharif,0.5,33.9,856.5,80.9,7.8,38.5,18.4,168.8,2.0,6.0,122.5,Organic,8.9,Rain-fed,0,High Yielding Variety,0.25,0.12
+IND_PUN_0987,2018,Punjab,Sugarcane,Annual,9.82,27.4,598.4,67.7,6.6,30.7,16.8,147.3,2.5,6.5,98.1,NPK,7.5,Canal,25,High Yielding Variety,51.72,507.89
+IND_AND_0988,2019,Andhra Pradesh,Sugarcane,Annual,7.4,25.4,1065.9,85.7,6.5,26.7,18.7,212.5,2.7,5.7,100.0,Organic,11.8,Rain-fed,0,High Yielding Variety,39.96,295.7
+IND_AND_0989,2022,Andhra Pradesh,Sugarcane,Annual,2.6,33.1,717.9,80.5,8.0,25.0,13.3,84.7,4.1,6.4,129.6,Organic,11.0,Drip,35,High Yielding Variety,49.06,127.56
+IND_GUJ_0990,2018,Gujarat,Groundnut,Kharif,2.69,34.1,336.4,72.8,7.0,23.5,7.7,107.3,3.5,7.0,95.7,Mixed,4.4,Canal,14,Hybrid,0.57,1.53
+IND_MAH_0991,2023,Maharashtra,Wheat,Rabi,2.52,32.6,892.6,57.3,5.8,38.9,13.8,141.3,3.0,6.9,129.2,Urea,11.4,Tube well,15,Hybrid,1.1,2.77
+IND_PUN_0992,2022,Punjab,Sugarcane,Annual,5.41,20.1,556.8,51.5,8.5,25.5,10.5,161.2,2.7,8.0,176.4,NPK,10.7,Rain-fed,0,Traditional,21.81,117.99
+IND_RAJ_0993,2019,Rajasthan,Cotton,Kharif,2.15,26.0,546.2,55.0,5.6,34.4,7.7,226.4,2.0,6.6,130.3,Urea,6.6,Drip,24,Traditional,0.23,0.49
+IND_GUJ_0994,2018,Gujarat,Groundnut,Kharif,3.84,22.5,332.1,75.3,7.9,52.7,11.6,161.1,2.9,7.8,175.0,DAP,6.9,Canal,21,Traditional,0.63,2.42
+IND_WES_0995,2018,West Bengal,Jute,Kharif,4.07,25.4,1258.4,60.8,6.4,47.7,11.5,145.2,3.0,9.4,119.6,Mixed,12.7,Sprinkler,29,Traditional,2.38,9.69
+IND_RAJ_0996,2020,Rajasthan,Maize,Kharif,3.25,24.7,314.5,61.1,6.7,46.0,26.0,143.5,1.9,7.4,79.3,Urea,4.2,Tube well,11,Desi,0.74,2.4
+IND_TAM_0997,2023,Tamil Nadu,Rice,Kharif,2.72,25.4,1047.3,84.4,5.8,41.6,13.8,154.1,2.5,8.1,113.7,DAP,7.7,Tube well,22,Hybrid,2.86,7.78
+IND_TAM_0998,2023,Tamil Nadu,Millets,Kharif,7.21,31.9,1253.8,75.0,6.7,23.6,15.6,123.0,3.3,5.8,173.3,NPK,11.8,Sprinkler,20,High Yielding Variety,0.51,3.68
+IND_PUN_0999,2022,Punjab,Wheat,Rabi,8.0,32.1,635.2,54.4,6.6,16.6,25.6,161.4,1.9,7.3,85.6,Mixed,4.4,Drip,29,Hybrid,1.86,14.88
+IND_KAR_1000,2019,Karnataka,Rice,Kharif,2.47,34.1,715.4,69.8,6.5,32.3,21.3,138.9,3.7,7.6,56.4,DAP,10.6,Tube well,15,Traditional,0.88,2.17
+IND_KAR_1001,2019,Karnataka,Maize,Kharif,2.13,22.2,1303.5,63.0,7.2,34.9,11.0,99.2,2.7,6.7,103.3,Urea,7.6,Tube well,16,High Yielding Variety,0.96,2.04
+IND_MAD_1002,2020,Madhya Pradesh,Wheat,Rabi,2.13,24.1,1126.6,43.3,6.8,22.2,22.1,161.2,1.5,8.2,75.5,Organic,15.8,Rain-fed,0,Traditional,0.73,1.55
+IND_WES_1003,2023,West Bengal,Potato,Rabi,0.51,24.0,1848.2,65.9,7.1,54.4,14.4,152.1,3.9,8.1,55.7,DAP,10.5,Sprinkler,17,High Yielding Variety,7.85,4.0
+IND_UTT_1004,2022,Uttar Pradesh,Barley,Rabi,5.81,28.9,892.5,74.7,6.5,35.2,26.0,177.4,3.2,9.0,115.1,DAP,6.2,Drip,25,Desi,0.67,3.89
+IND_PUN_1005,2022,Punjab,Barley,Rabi,11.43,32.8,657.5,63.7,5.4,38.7,21.7,208.4,1.6,10.0,123.0,Urea,10.4,Tube well,18,Hybrid,1.46,16.69
+IND_MAD_1006,2022,Madhya Pradesh,Maize,Kharif,4.12,35.9,1143.0,55.2,7.2,26.4,19.6,68.2,3.1,7.2,106.6,DAP,9.1,Rain-fed,0,Desi,0.34,1.4
+IND_BIH_1007,2023,Bihar,Sugarcane,Annual,6.86,22.0,1220.6,59.0,7.2,51.6,28.3,179.9,3.2,7.2,62.0,Mixed,7.0,Tube well,24,Desi,34.32,235.44
+IND_KAR_1008,2019,Karnataka,Ragi,Kharif,5.1,31.8,1038.4,84.6,6.8,13.5,31.1,197.6,1.7,8.8,135.3,Organic,8.8,Drip,31,Desi,1.23,6.27
+IND_TAM_1009,2023,Tamil Nadu,Groundnut,Kharif,5.69,37.6,1180.9,80.2,6.8,34.3,12.8,138.3,2.5,6.3,125.5,DAP,6.4,Rain-fed,0,High Yielding Variety,0.38,2.16
+IND_WES_1010,2019,West Bengal,Mustard,Rabi,0.5,34.5,1900.4,74.1,7.3,31.3,18.6,94.5,3.1,8.6,139.7,Mixed,13.2,Drip,28,Desi,0.49,0.24
+IND_UTT_1011,2020,Uttar Pradesh,Maize,Kharif,3.96,23.6,957.2,61.6,6.4,54.0,5.0,145.1,3.7,7.4,103.8,Organic,8.6,Tube well,10,Traditional,1.31,5.19
+IND_GUJ_1012,2021,Gujarat,Cotton,Kharif,3.06,37.1,497.0,74.2,7.1,18.4,15.8,143.6,3.2,6.2,89.2,Organic,10.6,Drip,28,Desi,0.21,0.64
+IND_AND_1013,2020,Andhra Pradesh,Sugarcane,Annual,1.76,33.1,816.9,64.3,7.0,45.4,19.0,180.4,2.9,7.4,115.5,DAP,0.8,Canal,13,Desi,44.1,77.62
+IND_MAH_1014,2018,Maharashtra,Soybean,Kharif,1.12,38.9,489.9,46.4,7.0,23.5,19.6,174.1,3.6,8.2,107.8,Urea,8.2,Canal,16,Hybrid,0.57,0.64
+IND_HAR_1015,2022,Haryana,Wheat,Rabi,0.97,27.7,503.9,65.7,6.8,32.8,13.8,128.0,4.6,9.1,58.0,NPK,15.5,Tube well,18,Traditional,2.8,2.72
+IND_BIH_1016,2020,Bihar,Jute,Kharif,2.44,28.6,1493.9,79.7,6.5,36.8,16.6,99.8,4.6,6.2,128.8,Urea,0.0,Tube well,25,Traditional,1.59,3.88
+IND_MAH_1017,2021,Maharashtra,Soybean,Kharif,3.84,26.2,1127.6,51.8,8.2,51.3,15.3,152.7,2.9,7.9,120.6,Organic,9.0,Rain-fed,0,High Yielding Variety,0.62,2.38
+IND_MAD_1018,2021,Madhya Pradesh,Rice,Kharif,3.23,33.2,1058.8,67.0,7.9,33.2,22.6,112.0,3.8,4.0,116.5,Mixed,13.7,Tube well,23,Hybrid,0.69,2.23
+IND_RAJ_1019,2023,Rajasthan,Jowar,Kharif,3.8,44.4,512.1,53.2,6.9,46.4,21.6,78.8,2.0,8.0,138.0,Urea,16.7,Rain-fed,0,Traditional,0.51,1.94
+IND_KAR_1020,2023,Karnataka,Sunflower,Rabi,2.32,28.5,1083.5,67.3,6.6,8.0,32.9,205.8,2.0,6.7,123.8,NPK,3.2,Sprinkler,29,High Yielding Variety,0.34,0.79
+IND_UTT_1021,2020,Uttar Pradesh,Rice,Kharif,2.58,19.0,1197.7,56.8,6.9,37.7,31.4,139.4,2.9,8.4,142.2,Organic,4.9,Rain-fed,0,High Yielding Variety,1.76,4.54
+IND_MAD_1022,2019,Madhya Pradesh,Sugarcane,Annual,4.1,34.4,802.5,74.3,6.5,37.3,25.1,130.9,3.2,7.5,61.3,NPK,10.3,Sprinkler,32,Traditional,19.48,79.87
+IND_RAJ_1023,2019,Rajasthan,Wheat,Rabi,4.88,39.2,358.7,53.3,7.6,22.0,11.9,129.0,3.1,7.2,86.3,Organic,2.2,Drip,33,Desi,0.99,4.83
+IND_WES_1024,2022,West Bengal,Maize,Kharif,2.64,28.5,1724.9,89.5,6.1,16.1,11.0,191.6,4.2,6.9,101.6,Mixed,2.2,Sprinkler,18,Traditional,0.8,2.11
+IND_TAM_1025,2018,Tamil Nadu,Cotton,Kharif,4.44,25.5,921.8,76.8,7.2,18.2,33.1,132.4,3.2,5.4,112.4,Urea,9.5,Tube well,9,Desi,0.2,0.89
+IND_UTT_1026,2020,Uttar Pradesh,Potato,Rabi,3.31,21.7,982.2,62.0,7.3,37.8,20.6,105.4,1.7,4.8,152.7,Organic,12.1,Drip,31,High Yielding Variety,10.71,35.45
+IND_PUN_1027,2019,Punjab,Wheat,Rabi,9.23,22.2,406.4,38.7,6.3,37.0,21.1,142.2,3.1,8.2,124.8,Urea,4.8,Sprinkler,27,Hybrid,4.71,43.47
+IND_UTT_1028,2023,Uttar Pradesh,Potato,Rabi,2.14,25.2,756.3,56.5,8.1,34.5,18.5,106.3,3.4,6.7,116.0,NPK,15.4,Tube well,12,Hybrid,8.86,18.96
+IND_AND_1029,2021,Andhra Pradesh,Chillies,Kharif,0.5,25.6,621.2,60.8,7.1,20.4,25.2,151.5,2.9,6.5,189.7,Mixed,22.2,Drip,33,Hybrid,1.74,0.87
+IND_BIH_1030,2019,Bihar,Maize,Kharif,3.71,20.7,1336.1,51.7,6.2,21.4,23.2,131.8,0.7,8.1,118.5,Organic,14.7,Tube well,22,High Yielding Variety,1.56,5.79
+IND_RAJ_1031,2020,Rajasthan,Maize,Kharif,0.5,41.4,553.2,37.7,6.6,27.5,27.5,149.7,3.7,5.2,158.6,Organic,11.6,Rain-fed,0,Desi,0.38,0.19
+IND_TAM_1032,2020,Tamil Nadu,Rice,Kharif,5.65,39.5,1105.7,68.1,8.3,20.8,26.7,178.7,2.0,9.5,129.3,Organic,11.3,Sprinkler,26,Traditional,1.48,8.36
+IND_RAJ_1033,2021,Rajasthan,Cotton,Kharif,7.24,23.7,472.0,47.8,6.6,44.5,28.2,105.5,3.7,8.1,82.5,DAP,16.0,Sprinkler,29,Desi,0.13,0.94
+IND_BIH_1034,2023,Bihar,Sugarcane,Annual,1.75,22.8,1346.3,62.6,7.4,32.8,26.7,142.0,3.0,9.0,151.6,DAP,11.9,Rain-fed,0,Hybrid,39.92,69.86
+IND_MAH_1035,2020,Maharashtra,Bajra,Kharif,4.05,24.5,454.8,51.2,6.0,34.1,12.8,177.7,3.5,4.9,86.9,Organic,0.7,Canal,14,Desi,0.3,1.21
+IND_GUJ_1036,2018,Gujarat,Wheat,Rabi,3.91,21.8,497.0,73.0,5.1,49.8,15.6,147.3,2.4,9.3,70.8,Organic,8.1,Rain-fed,0,Traditional,2.39,9.34
+IND_TAM_1037,2022,Tamil Nadu,Sugarcane,Annual,0.5,26.5,1016.3,67.6,6.5,30.8,25.2,138.0,3.7,5.9,69.9,Organic,17.6,Canal,10,Desi,31.98,15.99
+IND_KAR_1038,2021,Karnataka,Maize,Kharif,0.5,29.7,880.6,72.3,7.0,33.1,28.1,143.7,4.7,7.2,162.5,NPK,12.0,Drip,18,Hybrid,1.82,0.91
+IND_MAD_1039,2021,Madhya Pradesh,Sugarcane,Annual,1.83,22.3,1072.3,63.3,7.3,49.8,36.6,179.9,4.3,6.5,148.1,Organic,14.7,Tube well,22,Hybrid,37.72,69.03
+IND_MAH_1040,2018,Maharashtra,Rice,Kharif,2.03,28.2,929.3,46.6,8.5,49.4,23.5,148.4,2.4,7.5,183.2,Mixed,9.2,Tube well,17,High Yielding Variety,3.93,7.98
+IND_BIH_1041,2023,Bihar,Rice,Kharif,1.2,22.9,1191.5,59.8,7.1,40.0,24.2,226.0,3.2,9.0,122.6,DAP,16.4,Rain-fed,0,Traditional,2.25,2.7
+IND_TAM_1042,2023,Tamil Nadu,Sugarcane,Annual,4.06,39.9,949.4,67.1,6.7,38.4,23.7,174.4,3.2,7.1,94.6,Mixed,10.0,Tube well,22,High Yielding Variety,52.72,214.04
+IND_MAD_1043,2021,Madhya Pradesh,Wheat,Rabi,5.04,27.0,1109.2,65.3,6.7,26.0,19.0,135.2,3.8,6.7,87.9,Urea,17.7,Rain-fed,0,Desi,0.45,2.27
+IND_RAJ_1044,2019,Rajasthan,Mustard,Rabi,3.31,20.4,432.1,72.4,7.8,53.7,14.6,153.5,2.8,7.1,61.8,DAP,8.6,Rain-fed,0,Traditional,0.32,1.06
+IND_WES_1045,2018,West Bengal,Wheat,Rabi,3.72,25.0,1238.1,58.0,5.5,44.8,15.6,115.4,3.8,8.2,154.9,DAP,7.2,Rain-fed,0,Traditional,1.68,6.25
+IND_MAD_1046,2018,Madhya Pradesh,Rice,Kharif,1.79,29.8,1040.0,43.5,7.6,38.8,11.6,117.7,2.8,7.7,21.2,DAP,13.3,Rain-fed,0,Hybrid,0.98,1.75
+IND_PUN_1047,2020,Punjab,Wheat,Rabi,2.67,31.9,597.3,69.4,7.6,35.0,18.8,166.9,2.5,7.2,144.4,Organic,7.3,Tube well,14,Desi,1.9,5.07
+IND_HAR_1048,2020,Haryana,Wheat,Rabi,12.36,27.3,352.1,54.0,7.6,39.2,27.2,129.7,2.4,9.0,130.1,Urea,3.5,Canal,20,Traditional,2.51,31.02
+IND_AND_1049,2018,Andhra Pradesh,Cotton,Kharif,0.5,42.0,949.3,81.3,6.1,57.6,7.6,190.3,2.7,6.9,127.4,Urea,11.2,Drip,35,Traditional,0.17,0.08
+IND_HAR_1050,2020,Haryana,Mustard,Rabi,4.74,21.9,552.0,54.2,8.5,23.4,29.2,129.5,3.2,8.8,165.2,NPK,7.0,Sprinkler,18,Hybrid,1.73,8.2
+IND_HAR_1051,2023,Haryana,Sugarcane,Annual,5.64,33.0,369.4,62.3,7.4,21.5,17.7,155.7,2.5,10.0,86.5,NPK,13.9,Rain-fed,0,Hybrid,38.18,215.34
+IND_UTT_1052,2023,Uttar Pradesh,Sugarcane,Annual,2.97,37.1,1156.2,51.3,6.5,28.8,5.7,114.9,1.6,9.1,144.7,Organic,11.9,Drip,15,Desi,65.42,194.3
+IND_GUJ_1053,2022,Gujarat,Groundnut,Kharif,3.33,32.7,331.6,74.6,7.9,19.1,44.8,151.0,2.9,8.9,156.6,Mixed,8.2,Canal,15,High Yielding Variety,0.99,3.3
+IND_HAR_1054,2019,Haryana,Sugarcane,Annual,1.98,32.8,388.9,54.4,7.7,40.3,29.8,145.8,1.7,9.3,177.4,Organic,12.5,Canal,12,Traditional,44.57,88.25
+IND_MAH_1055,2019,Maharashtra,Wheat,Rabi,5.09,21.2,1137.7,90.0,7.3,19.3,15.3,171.9,1.5,7.4,135.2,DAP,15.7,Tube well,22,Traditional,1.84,9.37
+IND_MAH_1056,2022,Maharashtra,Cotton,Kharif,4.73,31.0,707.5,67.1,7.4,14.2,13.8,109.2,1.2,7.2,88.1,NPK,21.1,Rain-fed,0,Desi,0.26,1.23
+IND_PUN_1057,2020,Punjab,Cotton,Kharif,13.18,32.6,782.2,44.3,6.7,36.2,12.7,135.2,2.6,7.9,194.2,Mixed,9.9,Canal,15,Hybrid,0.8,10.54
+IND_AND_1058,2021,Andhra Pradesh,Cotton,Kharif,4.08,39.9,1080.4,79.9,7.1,31.2,21.3,190.5,3.7,7.0,150.7,DAP,7.0,Canal,23,High Yielding Variety,0.19,0.78
+IND_PUN_1059,2019,Punjab,Rice,Kharif,6.11,25.4,727.0,58.2,7.3,17.6,17.5,141.6,2.1,8.2,102.8,DAP,8.4,Tube well,25,Hybrid,2.16,13.2
+IND_GUJ_1060,2020,Gujarat,Rice,Kharif,1.09,33.0,317.4,71.8,7.4,27.1,23.2,209.8,3.5,8.1,149.0,DAP,15.2,Tube well,15,Desi,1.3,1.42
+IND_RAJ_1061,2022,Rajasthan,Bajra,Kharif,4.13,24.8,319.2,70.7,7.3,35.8,15.6,178.9,1.3,6.2,100.6,Urea,0.0,Tube well,16,Desi,0.44,1.82
+IND_KAR_1062,2021,Karnataka,Cotton,Kharif,0.5,32.6,837.7,80.2,6.2,43.2,22.3,231.7,3.1,6.8,85.7,Urea,4.3,Sprinkler,19,Desi,0.22,0.11
+IND_AND_1063,2020,Andhra Pradesh,Rice,Kharif,5.74,37.4,854.6,75.1,5.1,50.3,20.4,165.2,2.1,6.4,139.6,NPK,19.9,Tube well,25,Hybrid,1.42,8.15
+IND_AND_1064,2020,Andhra Pradesh,Sugarcane,Annual,5.53,25.2,717.2,68.8,6.8,10.4,14.2,130.4,2.7,7.5,134.5,DAP,7.9,Sprinkler,17,Traditional,36.41,201.35
+IND_BIH_1065,2019,Bihar,Wheat,Rabi,0.5,37.2,1411.3,54.2,6.3,40.6,27.3,182.8,3.4,7.4,99.1,Organic,4.3,Drip,30,Desi,0.64,0.32
+IND_AND_1066,2021,Andhra Pradesh,Sunflower,Rabi,4.98,26.9,524.1,73.6,6.1,25.1,13.1,151.5,3.7,6.9,29.9,Urea,7.1,Canal,21,High Yielding Variety,0.77,3.83
+IND_AND_1067,2019,Andhra Pradesh,Maize,Kharif,2.55,41.2,549.9,70.0,7.4,35.8,19.8,164.4,2.5,6.7,175.2,NPK,10.8,Rain-fed,0,Traditional,1.25,3.19
+IND_GUJ_1068,2023,Gujarat,Sugarcane,Annual,5.45,38.2,711.2,44.2,7.4,32.8,33.4,182.5,2.3,7.8,126.7,DAP,10.3,Canal,20,Desi,20.41,111.23
+IND_WES_1069,2023,West Bengal,Potato,Rabi,3.72,23.3,1724.9,73.2,6.7,49.1,11.6,115.8,2.8,6.9,84.6,DAP,8.5,Rain-fed,0,High Yielding Variety,4.88,18.15
+IND_MAH_1070,2020,Maharashtra,Sugarcane,Annual,0.98,30.7,929.0,52.5,7.6,41.8,28.0,145.5,3.6,4.8,77.7,Urea,8.8,Tube well,8,High Yielding Variety,34.29,33.6
+IND_MAD_1071,2021,Madhya Pradesh,Sugarcane,Annual,1.18,25.0,1181.3,62.6,6.6,31.7,28.2,181.8,2.0,6.0,103.6,Mixed,7.9,Rain-fed,0,High Yielding Variety,30.97,36.54
+IND_WES_1072,2021,West Bengal,Maize,Kharif,5.08,33.1,1842.1,64.9,8.3,8.0,26.7,182.7,2.5,9.3,117.5,Mixed,8.3,Drip,31,Desi,1.29,6.55
+IND_MAH_1073,2018,Maharashtra,Bajra,Kharif,9.37,24.3,975.0,73.4,7.3,25.2,26.6,154.9,1.9,7.3,86.0,DAP,8.8,Drip,19,Traditional,0.28,2.62
